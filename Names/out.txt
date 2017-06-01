@@ -1,0 +1,6248 @@
+1,AJDOVŠÈINA,19047
+1001,Ajdovšèina,6665
+1002,Batuje,347
+1003,Bela,36
+1004,Brje,390
+1005,Budanje,819
+1006,Cesta,537
+1007,Col,500
+1008,Èrnièe,416
+1009,Dobravlje,448
+1010,Dolenje,101
+1011,Dolga Poljana,365
+1012,Gaberje,175
+1013,Gojaèe,194
+1014,Gozd,126
+1015,Grivèe,79
+1016,Kamnje,200
+1017,Kovk,132
+1018,Kožmani,109
+1019,Križna Gora,8
+1020,Lokavec,1128
+1021,Male Žablje,315
+1022,Malo Polje,74
+1023,Malovše,129
+1024,Otlica,289
+1025,Plaèe,235
+1026,Planina,466
+1027,Podkraj,426
+1028,Potoèe,222
+1029,Predmeja,376
+1030,Ravne,137
+1031,Selo,480
+1032,Skrilje,312
+1033,Stomaž,289
+1034,Šmarje,195
+1035,Tevèe,94
+1036,Ustje,364
+1037,Velike Žablje,326
+1038,Vipavski Križ,178
+1039,Višnje,182
+1040,Vodice,65
+1041,Vrtovèe,111
+1042,Vrtovin,474
+1043,Zavino,83
+1044,Žagoliè,134
+1045,Žapuže,316
+2,BELTINCI,8261
+2001,Beltinci,2378
+2002,Bratonci,707
+2003,Dokležovje,912
+2004,Ganèani,991
+2005,Ižakovci,796
+2006,Lipa,593
+2007,Lipovci,1085
+2008,Melinci,799
+3,BLED,8035
+3001,Bled,5052
+3002,Bodešèe,179
+3003,Bohinjska Bela,537
+3005,Koritno,230
+3007,Kupljenik,52
+3009,Obrne,69
+3014,Ribno,630
+3015,Selo pri Bledu,214
+3016,Slamniki,17
+3020,Zasip,1055
+4,BOHINJ,5139
+4001,Bitnje,74
+4002,Bohinjska Bistrica,1743
+4003,Bohinjska Èešnjica,335
+4004,Brod,96
+4005,Goreljek,12
+4006,Gorjuše,144
+4007,Jereka,181
+4008,Kamnje,197
+4009,Koprivnik v Bohinju,230
+4010,Laški Rovt,40
+4011,Lepence,32
+4012,Nemški Rovt,111
+4013,Nomenj,160
+4014,Podjelje,77
+4015,Polje,171
+4016,Ravne v Bohinju,43
+4017,Ribèev Laz,164
+4018,Savica,62
+4019,Srednja vas v Bohinju,507
+4020,Stara Fužina,571
+4021,Studor v Bohinju,124
+4022,Ukanc,41
+4023,Žlan,11
+4024,Log v Bohinju,13
+5,BOROVNICA,4275
+5001,Borovnica,2432
+5002,Breg pri Borovnici,359
+5003,Brezovica pri Borovnici,239
+5004,Dol pri Borovnici,502
+5005,Dražica,94
+5006,Lašèe,1
+5007,Laze pri Borovnici,259
+5008,Niževec,36
+5009,Ohonica,80
+5010,Pako,149
+5011,Pristava,17
+5012,Zaboèevo,107
+6,BOVEC,3124
+6001,Bavšica,8
+6002,Bovec,1583
+6003,Èezsoèa,322
+6004,Kal - Koritnica,152
+6005,Lepena,37
+6006,Log Èezsoški,64
+6007,Log pod Mangartom,138
+6008,Plužna,50
+6009,Soèa,138
+6010,Srpenica,178
+6011,Strmec na Predelu,19
+6012,Trenta,119
+6013,Žaga,316
+7,BRDA,5659
+7001,Barbana,57
+7002,Belo,8
+7003,Biljana,157
+7004,Brdice pri Kožbani,18
+7005,Brdice pri Neblem,54
+7006,Breg pri Golem Brdu,28
+7007,Brestje,41
+7008,Brezovk,7
+7009,Ceglo,110
+7010,Dobrovo,327
+7011,Dolnje Cerovo,139
+7012,Drnovk,138
+7013,Fojana,149
+7014,Golo Brdo,24
+7015,Gonjaèe,164
+7016,Gornje Cerovo,322
+7017,Gradno,43
+7018,Hlevnik,39
+7019,Hruševlje,121
+7020,Hum,309
+7021,Imenje,126
+7022,Kojsko,258
+7023,Kozana,374
+7024,Kozarno,46
+7025,Kožbana,37
+7026,Krasno,100
+7027,Medana,231
+7028,Neblo,203
+7029,Nozno,27
+7030,Plešivo,233
+7031,Podsabotin,293
+7032,Pristavo,10
+7033,Senik,24
+7034,Slapnik,1
+7035,Slavèe,27
+7036,Snežatno,84
+7037,Snežeèe,48
+7038,Šlovrenc,115
+7039,Šmartno,201
+7040,Vedrijan,185
+7041,Vipolže,425
+7042,Višnjevik,146
+7043,Vrhovlje pri Kojskem,112
+7044,Vrhovlje pri Kožbani,19
+7045,Zali Breg,79
+8,BREZOVICA,11974
+8001,Brezovica pri Ljubljani,3057
+8002,Dolenja Brezovica,51
+8003,Gorenja Brezovica,53
+8004,Gorièica pod Krimom,166
+8005,Jezero,730
+8006,Kamnik pod Krimom,965
+8007,Notranje Gorice,1902
+8008,Planinca,4
+8009,Plešivica,183
+8010,Podpeè,550
+8011,Podplešivica,283
+8012,Preserje,363
+8013,Prevalje pod Krimom,186
+8014,Rakitna,720
+8015,Vnanje Gorice,2414
+8016,Žabnica,347
+9,BREŽICE,24254
+9001,Arnovo selo,301
+9002,Artièe,316
+9003,Bizeljska vas,47
+9004,Bizeljsko,690
+9005,Blatno,140
+9006,Bojsno,219
+9007,Boršt,135
+9008,Braèna vas,43
+9009,Brezje pri Bojsnem,64
+9010,Brezje pri Veliki Dolini,102
+9011,Brezovica na Bizeljskem,114
+9012,Brežice,6759
+9013,Brvi,44
+9014,Bukošek,296
+9015,Bukovje,57
+9016,Bušeèa vas,130
+9017,Cerina,157
+9018,Cerklje ob Krki,237
+9019,Cirnik,115
+9020,Cundrovec,129
+9021,Curnovec,146
+9022,Èatež ob Savi,347
+9023,Èedem,8
+9024,Èrešnjice pri Cerkljah,243
+9025,Deèno selo,300
+9026,Dednja vas,180
+9027,Dobeno,59
+9028,Dobova,722
+9029,Dolenja Pirošica,80
+9030,Dolenja vas pri Artièah,98
+9031,Dolenje Skopice,210
+9032,Dramlja,64
+9033,Drenovec pri Bukovju,138
+9034,Dvorce,116
+9035,Gabrje pri Dobovi,226
+9036,Gaj,32
+9037,Gazice,142
+9038,Globoèice,88
+9039,Globoko,314
+9040,Glogov Brod,115
+9041,Gorenja Pirošica,134
+9042,Gorenje Skopice,176
+9043,Gornji Lenart,256
+9044,Gregovce,58
+9045,Hrastje pri Cerkljah,131
+9046,Izvir,18
+9047,Jereslavec,152
+9048,Jesenice,226
+9049,Kamence,10
+9050,Kapele,232
+9051,Koritno,97
+9052,Kraška vas,23
+9053,Križe,132
+9054,Krška vas,538
+9055,Laze,44
+9056,Loèe,186
+9057,Mala Dolina,92
+9058,Mali Cirnik,0
+9059,Mali Obrež,123
+9060,Mali Vrh,259
+9061,Mihalovec,303
+9062,Mostec,216
+9063,Mrzlava vas,158
+9064,Nova vas ob Sotli,56
+9065,Nova vas pri Mokricah,233
+9066,Obrežje,360
+9067,Oklukova Gora,59
+9068,Orešje na Bizeljskem,210
+9069,Pavlova vas,213
+9070,Peèice,100
+9071,Perišèe,17
+9072,Piršenbreg,262
+9073,Pišece,337
+9074,Podgorje pri Pišecah,195
+9075,Podgraèeno,29
+9076,Podvinje,103
+9077,Ponikve,115
+9078,Poštena vas,47
+9079,Prilipe,83
+9080,Raèja vas,121
+9081,Rajec,73
+9082,Rakovec,51
+9083,Ribnica,125
+9084,Rigonce,160
+9085,Sela pri Dobovi,577
+9086,Silovec,34
+9087,Slogonsko,166
+9088,Slovenska vas,208
+9089,Sobenja vas,142
+9090,Spodnja Pohanca,123
+9091,Sromlje,134
+9092,Stankovo,8
+9093,Stara vas - Bizeljsko,237
+9094,Stojanski Vrh,57
+9095,Trebež,280
+9096,Velika Dolina,138
+9097,Velike Malence,289
+9098,Veliki Obrež,299
+9099,Vinji Vrh,57
+9100,Vitna vas,52
+9101,Volèje,100
+9102,Vrhje,206
+9103,Vrhovska vas,64
+9104,Zasap,44
+9105,Zgornja Pohanca,97
+9106,Zgornji Obrež,179
+9107,Žejno,115
+9108,Župeèa vas,206
+9109,Župelevec,206
+10,TIŠINA,4039
+10001,Borejci,227
+10004,Gederovci,188
+10007,Gradišèe,289
+10009,Krajna,274
+10011,Murski Èrnci,425
+10012,Murski Petrovci,112
+10013,Petanjci,627
+10014,Rankovci,254
+10016,Sodišinci,225
+10017,Tišina,414
+10019,Tropovci,498
+10020,Vanèa vas,506
+11,CELJE,49077
+11001,Brezova,237
+11002,Bukovžlak,387
+11003,Celje,37787
+11004,Dobrova,216
+11005,Glinsko,40
+11006,Gorica pri Šmartnem,567
+11007,Jezerce pri Šmartnem,65
+11008,Košnica pri Celju,603
+11009,Lahovna,117
+11010,Leskovec,199
+11011,Lipovec pri Škofji vasi,37
+11012,Ljubeèna,1077
+11013,Loèe,130
+11014,Lokrovec,307
+11015,Lopata,675
+11016,Medlog,289
+11017,Osenca,90
+11018,Otemna,115
+11019,Peèovnik,269
+11020,Pepelno,103
+11021,Prekorje,374
+11022,Rožni Vrh,144
+11023,Runtole,35
+11024,Rupe,88
+11025,Slance,86
+11026,Slatina v Rožni dolini,237
+11027,Šentjungert,152
+11028,Škofja vas,504
+11029,Šmarjeta pri Celju,219
+11030,Šmartno v Rožni dolini,259
+11031,Šmiklavž pri Škofji vasi,210
+11032,Teharje,332
+11033,Tremerje,67
+11034,Trnovlje pri Celju,1245
+11035,Vrhe,228
+11036,Zaèret,342
+11037,Zadobrova,876
+11038,Zvodno,261
+11039,Žepina,108
+12,CERKLJE NA GORENJSKEM,7506
+12001,Adergas,236
+12002,Ambrož pod Krvavcem,109
+12003,Apno,135
+12004,Cerkljanska Dobrava,92
+12005,Cerklje na Gorenjskem,1685
+12006,Èešnjevek,156
+12007,Dvorje,451
+12008,Glinje,113
+12009,Grad,252
+12010,Lahovèe,471
+12011,Poženik,223
+12012,Praprotna Polica,203
+12013,Pšata,124
+12014,Pšenièna Polica,113
+12015,Ravne,31
+12016,Sidraž,43
+12017,Spodnji Brnik,444
+12018,Stiška vas,95
+12019,Sveti Lenart,38
+12020,Šenturška Gora,185
+12021,Šmartno,273
+12022,Štefanja Gora,92
+12023,Trata pri Velesovem,123
+12024,Vašca,80
+12025,Velesovo,391
+12026,Viševca,1
+12027,Vopovlje,134
+12028,Vrhovje,4
+12029,Zalog pri Cerkljah,488
+12030,Zgornji Brnik,721
+13,CERKNICA,11402
+13001,Beè,7
+13002,Beèaje,36
+13003,Begunje pri Cerknici,721
+13004,Bezuljak,94
+13005,Bloèice,109
+13006,Bloška Polica,84
+13007,Brezje,24
+13008,Cajnarje,24
+13009,Cerknica,4018
+13010,Èohovo,4
+13011,Dobec,62
+13012,Dolenja vas,471
+13013,Dolenje Jezero,232
+13014,Dolenje Otave,27
+13015,Gora,3
+13016,Gorenje Jezero,116
+13017,Gorenje Otave,39
+13018,Gorièice,84
+13019,Grahovo,484
+13020,Hribljane,5
+13021,Hruškarje,42
+13022,Ivanje selo,215
+13023,Jeršièe,20
+13024,Korošèe,2
+13025,Košèake,3
+13026,Kožljek,66
+13027,Kranjèe,2
+13028,Kremenca,52
+13029,Krušèe,6
+13030,Kržišèe,8
+13031,Laze pri Gorenjem Jezeru,17
+13032,Lešnjake,15
+13033,Lipsenj,127
+13034,Mahneti,17
+13035,Martinjak,293
+13036,Milava,11
+13037,Osredek,54
+13038,Otok,25
+13039,Otonica,24
+13040,Pikovnik,12
+13041,Pirmane,7
+13042,Podskrajnik,86
+13043,Podslivnica,26
+13044,Ponikve,26
+13045,Rakek,2134
+13046,Rakov Škocjan,9
+13047,Ravne,33
+13048,Reparje,9
+13049,Rudolfovo,5
+13050,Selšèek,149
+13051,Slivice,181
+13052,Slugovo,15
+13053,Stražišèe,14
+13054,Sveti Vid,46
+13055,Šèurkovo,0
+13056,Štrukljeva vas,30
+13057,Tavžlje,16
+13058,Topol pri Begunjah,73
+13059,Unec,568
+13060,Zahrib,6
+13061,Zala,11
+13062,Zelše,96
+13063,Zibovnik,0
+13064,Žerovnica,188
+13065,Župeno,19
+14,CERKNO,4644
+14001,Bukovo,179
+14002,Cerkljanski Vrh,58
+14003,Cerkno,1523
+14004,Èeplez,73
+14005,Dolenji Novaki,211
+14006,Gorenji Novaki,232
+14007,Gorje,82
+14008,Jagršèe,27
+14009,Jazne,111
+14010,Jesenica,78
+14011,Labinje,90
+14012,Lazec,112
+14013,Orehek,69
+14014,Otalež,133
+14015,Planina pri Cerknem,135
+14016,Plužnje,116
+14017,Poèe,87
+14018,Podlanišèe,148
+14019,Podpleèe,18
+14020,Police,22
+14021,Poljane,72
+14022,Ravne pri Cerknem,163
+14023,Reka,79
+14024,Straža,119
+14025,Šebrelje,289
+14026,Trebenèe,88
+14027,Zakojca,47
+14028,Zakriž,185
+14029,Laznica,39
+14030,Travnik,59
+15,ÈRENŠOVCI,4002
+15002,Èrenšovci,1153
+15003,Dolnja Bistrica,558
+15004,Gornja Bistrica,757
+15006,Srednja Bistrica,444
+15007,Trnje,526
+15009,Žižki,564
+16,ÈRNA NA KOROŠKEM,3337
+16001,Bistra,80
+16002,Èrna na Koroškem,2256
+16003,Javorje,136
+16004,Jazbina,41
+16005,Koprivna,138
+16006,Ludranski Vrh,85
+16007,Podpeca,192
+16008,Topla,33
+16009,Žerjav,376
+17,ÈRNOMELJ,14407
+17001,Adlešièi,110
+17002,Balkovci,42
+17003,Bedenj,61
+17004,Belèji Vrh,88
+17005,Bistrica,2
+17006,Blatnik pri Èrnomlju,153
+17007,Bojanci,89
+17008,Brdarci,38
+17009,Breg pri Sinjem Vrhu,2
+17010,Breznik,22
+17011,Butoraj,118
+17012,Cerkvišèe,67
+17013,Èrešnjevec pri Dragatušu,5
+17014,Èrnomelj,5597
+17015,Èudno selo,89
+17016,Dalnje Njive,24
+17017,Damelj,36
+17018,Deèina,3
+17019,Desinec,62
+17020,Deskova vas,23
+17021,Doblièe,185
+17022,Doblièka Gora,67
+17023,Dolenja Podgora,8
+17024,Dolenja vas pri Èrnomlju,65
+17025,Dolenjci,91
+17026,Dolenji Radenci,25
+17027,Dolenji Suhor pri Vinici,44
+17028,Dolnja Paka,35
+17029,Draga pri Sinjem Vrhu,17
+17030,Dragatuš,241
+17031,Dragoši,19
+17032,Dragovanja vas,102
+17033,Drenovec,138
+17034,Drežnik,38
+17035,Fuèkovci,46
+17036,Golek,43
+17037,Golek pri Vinici,52
+17038,Gorenja Podgora,22
+17039,Gorenjci pri Adlešièih,50
+17040,Gorenji Radenci,25
+17041,Gorica,9
+17042,Gornja Paka,33
+17043,Gornji Suhor pri Vinici,40
+17044,Griblje,344
+17045,Griè pri Doblièah,80
+17046,Hrast pri Vinici,148
+17047,Jankovièi,41
+17048,Jelševnik,127
+17049,Jerneja vas,70
+17050,Kanižarica,608
+17051,Knežina,25
+17053,Kot ob Kolpi,1
+17054,Kovaèa vas,14
+17055,Kovaèji Grad,11
+17056,Kvasica,49
+17057,Lokve,525
+17058,Mala Lahinja,23
+17059,Mala sela,11
+17060,Mali Nerajec,48
+17061,Marindol,97
+17062,Mavrlen,57
+17063,Mihelja vas,41
+17064,Miklarji,0
+17065,Milièi,17
+17066,Moèile,14
+17067,Naklo,35
+17068,Nova Lipa,94
+17069,Obrh pri Dragatušu,102
+17070,Ogulin,43
+17071,Otovec,45
+17072,Paunovièi,31
+17073,Perudina,52
+17074,Petrova vas,103
+17075,Pobrežje,7
+17076,Podklanec,82
+17077,Podlog,64
+17078,Prelesje,21
+17079,Preloka,113
+17080,Pribinci,50
+17081,Purga,23
+17082,Pusti Gradec,29
+17083,Rodine,113
+17084,Rožanec,56
+17085,Rožiè Vrh,59
+17086,Ruèetna vas,148
+17087,Seèje selo,108
+17088,Sela pri Dragatušu,81
+17089,Sela pri Otovcu,73
+17090,Sinji Vrh,67
+17091,Sodevci,42
+17092,Srednji Radenci,32
+17093,Stara Lipa,88
+17094,Stari trg ob Kolpi,94
+17095,Stražnji Vrh,161
+17096,Svibnik,103
+17097,Šipek,23
+17098,Špeharji,14
+17099,Talèji Vrh,27
+17100,Tanèa Gora,215
+17101,Tribuèe,314
+17102,Tušev Dol,74
+17103,Uèakovci,117
+17104,Velika Lahinja,48
+17105,Velika sela,27
+17106,Veliki Nerajec,67
+17107,Vinica,238
+17108,Vojna vas,116
+17109,Vranovièi,114
+17110,Vrhovci,55
+17111,Vukovci,36
+17112,Zagozdac,22
+17113,Zajèji Vrh,15
+17114,Zapudje,73
+17115,Zastava,12
+17116,Zilje,126
+17117,Zorenci,30
+17118,Žunièi,45
+17119,Kot pri Damlju,11
+17120,Selce pri Špeharjih,2
+17121,Hrib,39
+17122,Rim,27
+17123,Pavièièi,24
+18,DESTRNIK,2539
+18004,Desenci,33
+18005,Destrnik,167
+18006,Doliè,153
+18008,Drstelja,227
+18010,Gomila,80
+18011,Gomilci,54
+18013,Janežovci,94
+18014,Janežovski Vrh,254
+18015,Jiršovci,246
+18016,Levanjci,131
+18018,Loèki Vrh,155
+18020,Placar,243
+18024,Strmec pri Destrniku,43
+18025,Svetinci,134
+18028,Vintarovci,386
+18030,Zasadi,41
+18031,Zgornji Velovlek,98
+19,DIVAÈA,3955
+19001,Barka,97
+19002,Betanja,13
+19003,Brežec pri Divaèi,24
+19004,Dane pri Divaèi,64
+19005,Divaèa,1511
+19006,Dolenja vas,157
+19007,Dolnje Ležeèe,238
+19008,Dolnje Vreme,110
+19009,Famlje,134
+19010,Gabrèe,41
+19011,Gorièe pri Famljah,28
+19012,Gornje Ležeèe,40
+19013,Gornje Vreme,97
+19014,Gradišèe pri Divaèi,18
+19015,Kaèièe - Pared,118
+19016,Kozjane,15
+19017,Laže,89
+19018,Matavun,54
+19019,Mislièe,36
+19020,Naklo,59
+19022,Otošèe,18
+19023,Podgrad pri Vremah,20
+19024,Potoèe,46
+19025,Senadole,72
+19026,Senožeèe,584
+19027,Škocjan,6
+19028,Škoflje,111
+19029,Vareje,33
+19030,Vatovlje,16
+19031,Vremski Britof,52
+19032,Zavrhek,54
+20,DOBREPOLJE,3898
+20001,Bruhanja vas,126
+20002,Cesta,275
+20003,Èetež pri Strugah,66
+20004,Hoèevje,157
+20005,Kolenèa vas,49
+20006,Kompolje,500
+20007,Lipa,71
+20008,Mala vas,149
+20009,Paka,26
+20010,Podgora,120
+20011,Podgorica,54
+20012,Podpeè,142
+20013,Podtabor,80
+20015,Ponikve,503
+20016,Potiskavec,45
+20017,Predstruge,272
+20018,Pri Cerkvi - Struge,67
+20019,Rapljevo,66
+20021,Tisovec,41
+20022,Tržiè,27
+20023,Videm,570
+20024,Vodice,22
+20026,Zagorica,221
+20027,Zdenska vas,249
+21,DOBROVA - POLHOV GRADEC,7582
+21001,Babna Gora,193
+21002,Belica,38
+21003,Brezje pri Dobrovi,442
+21004,Briše pri Polhovem Gradcu,170
+21005,Butajnova,233
+21006,Èrni Vrh,296
+21007,Dobrova,942
+21008,Dolenja vas pri Polhovem Gradcu,244
+21009,Draževnik,127
+21010,Dvor pri Polhovem Gradcu,148
+21011,Gabrje,456
+21013,Hrastenice,45
+21014,Hruševo,491
+21015,Komanija,80
+21019,Log pri Polhovem Gradcu,11
+21020,Osredek pri Dobrovi,80
+21021,Planina nad Horjulom,115
+21023,Podreber,176
+21024,Podsmreka,424
+21025,Polhov Gradec,638
+21026,Praproèe,99
+21027,Pristava pri Polh. Gradcu,121
+21028,Razori,106
+21029,Rovt,55
+21031,Selo nad Polhovim Gradcem,41
+21032,Setnica - del,46
+21033,Setnik,169
+21034,Smolnik,158
+21035,Srednja vas pri Polh. Grad.,196
+21036,Srednji Vrh,96
+21037,Stranska vas,284
+21038,Šentjošt nad Horjulom,389
+21039,Šujica,473
+22,DOL PRI LJUBLJANI,5934
+22001,Berièevo,461
+22002,Brinje,170
+22003,Dol pri Ljubljani,250
+22004,Dolsko,641
+22005,Kamnica,391
+22006,Kleèe pri Dolu,125
+22007,Klopce,79
+22008,Križevska vas,46
+22009,Laze pri Dolskem,248
+22010,Osredke,84
+22011,Petelinje,85
+22012,Podgora pri Dolskem,311
+22013,Senožeti,845
+22014,Videm,911
+22015,Vinje,502
+22016,Vrh pri Dolskem,22
+22017,Zaboršt pri Dolu,392
+22018,Zagorica pri Dolskem,104
+22019,Zajelše,267
+23,DOMŽALE,35278
+23001,Bišèe,237
+23002,Brdo,94
+23003,Brezje pri Dobu,122
+23004,Brezovica pri Dobu,57
+23005,Èešenik,147
+23006,Depala vas,534
+23007,Dob,1598
+23008,Dobovlje,39
+23009,Dolenje,43
+23010,Domžale,12863
+23011,Dragomelj,879
+23012,Gorièica pri Ihanu,248
+23013,Gorjuša,182
+23014,Homec,841
+23015,Hudo,214
+23016,Ihan,765
+23017,Jasen,5
+23018,Kolièevo,369
+23019,Kolovec,53
+23020,Krtina,808
+23021,Laze pri Domžalah,25
+23022,Mala Loka,198
+23023,Nožice,585
+23024,Podreèje,415
+23025,Prelog,685
+23026,Preserje pri Radomljah,1700
+23027,Pšata,435
+23028,Raèa,24
+23029,Raèni Vrh,98
+23030,Radomlje,1723
+23031,Rodica,838
+23032,Rova,482
+23033,Selo pri Ihanu,314
+23034,Spodnje Jarše,707
+23035,Srednje Jarše,781
+23036,Studenec pri Krtini,69
+23037,Šentpavel pri Domžalah,89
+23038,Škocjan,105
+23039,Škrjanèevo,316
+23040,Sv. Trojica,144
+23042,Turnše,280
+23043,Vir,3438
+23044,Zaboršt,775
+23045,Zagorica pri Rovah,43
+23046,Zgornje Jarše,350
+23047,Žeje,241
+23048,Želodnik,42
+23049,Žièe,57
+23050,Kokošnje,116
+23051,Zalog pod Sv. Trojico,105
+24,DORNAVA,2882
+24001,Bratislavci,177
+24002,Brezovci,93
+24003,Dornava,1243
+24004,Lasigovci,106
+24005,Mezgovci ob Pesnici,464
+24006,Polenci,188
+24007,Polenšak,180
+24008,Prerad,144
+24009,Slomi,88
+24010,Strejaci,64
+24011,Strmec pri Polenšaku,65
+24012,Žamenci,70
+25,DRAVOGRAD,8885
+25001,Bukovska vas,369
+25002,Èrneèe,659
+25003,Èrneška Gora,51
+25004,Dobrova pri Dravogradu,158
+25005,Dravograd,3163
+25006,Gorèe,136
+25007,Goriški Vrh,236
+25008,Kozji Vrh nad Dravogradom,87
+25009,Libelièe,198
+25010,Libeliška Gora,174
+25011,Ojstrica,92
+25012,Otiški Vrh,864
+25013,Podklanc,151
+25014,Selovec,477
+25015,Sv. Boštjan,101
+25016,Sv. Danijel,485
+25017,Sv. Duh,106
+25018,Šentjanž pri Dravogradu,488
+25019,Tolsti Vrh p. R. na K. - del,57
+25020,Trbonje,231
+25021,Tribej,106
+25022,Velka,46
+25023,Viè,277
+25024,Vrata,108
+25025,Bukovje,65
+26,DUPLEK,6726
+26001,Ciglence,327
+26002,Dvorjane,684
+26003,Jablance,211
+26004,Spodnja Korena,384
+26005,Spodnji Duplek,1491
+26006,Vurberk,455
+26007,Zgornja Korena,411
+26008,Zgornji Duplek,1809
+26009,Zimica,606
+26010,Žikarce,348
+27,GORENJA VAS - POLJANE,7429
+27001,Baène,24
+27002,Brebovnica,137
+27003,Èabraèe,56
+27004,Èetena Ravan,42
+27005,Debeni,36
+27006,Delnice,143
+27007,Dobje,102
+27008,Dobravšce,105
+27009,Dolenèice,83
+27010,Dolenja Dobrava,185
+27011,Dolenja Ravan,17
+27012,Dolenja Žetina,42
+27013,Dolenje Brdo,89
+27014,Dolge Njive,65
+27015,Fužine,109
+27016,Goli Vrh,47
+27017,Gorenja Dobrava,134
+27018,Gorenja Ravan,10
+27019,Gorenja vas,1157
+27020,Gorenja Žetina,56
+27021,Gorenje Brdo,90
+27022,Hlavèe Njive,74
+27023,Hobovše pri Stari Oselici,69
+27024,Hotavlje,409
+27025,Hotovlja,233
+27026,Jarèje Brdo,24
+27027,Javorje,196
+27028,Javorjev Dol,14
+27029,Jazbine,16
+27030,Jelovica,11
+27031,Kladje,67
+27032,Kopaènica,76
+27033,Kremenik,21
+27034,Krivo Brdo,8
+27035,Krnice pri Novakih,31
+27036,Lajše,12
+27037,Laniše,69
+27038,Laze,27
+27039,Leskovica,101
+27040,Lom nad Volèo,44
+27041,Lovsko Brdo,28
+27042,Luèine,162
+27043,Malenski Vrh,48
+27044,Mlaka nad Lušo,38
+27045,Murave,64
+27046,Nova Oselica,16
+27047,Podgora,204
+27048,Podjelovo Brdo,148
+27049,Podobeno,60
+27050,Podvrh,47
+27051,Poljane nad Škofjo Loko,447
+27052,Predmost,150
+27053,Prelesje,74
+27054,Robidnica,17
+27055,Smoldno,33
+27056,Sovodenj,171
+27057,Srednja vas - Poljane,118
+27058,Srednje Brdo,113
+27059,Stara Oselica,223
+27060,Studor,29
+27061,Suša,47
+27062,Todraž,17
+27063,Trebija,208
+27064,Vinharje,62
+27065,Volaka,97
+27066,Volèa,114
+27067,Zadobje,59
+27068,Zakobiljek,40
+27069,Zapreval,29
+27070,Žabja vas,39
+27071,Žirovski Vrh Sv. Antona,52
+27072,Žirovski Vrh Sv. Urbana,144
+27073,Bukov Vrh,100
+28,GORIŠNICA,3978
+28003,Cunkovci,93
+28005,Formin,336
+28006,Gajevci,308
+28007,Gorišnica,816
+28010,Mala vas,247
+28014,Moškanjci,661
+28015,Muretinci,455
+28017,Placerovci,164
+28021,Tibolci,193
+28023,Zagojièi,189
+28024,Zamušani,516
+29,GORNJA RADGONA,8467
+29002,Aženski Vrh,60
+29003,Èrešnjevci,778
+29006,Gornja Radgona,3070
+29007,Gornji Ivanjci,80
+29009,Hercegovšèak,136
+29010,Ivanjski Vrh,66
+29011,Ivanjševci ob Šèavnici,90
+29012,Ivanjševski Vrh,160
+29014,Kunova,127
+29015,Lastomerci,120
+29017,Lokavci,164
+29018,Lomanoše,246
+29021,Mele,152
+29023,Negova,353
+29024,Norièki Vrh,173
+29026,Oèeslavci,171
+29027,Orehovci,69
+29028,Orehovski Vrh,129
+29030,Plitvièki Vrh,170
+29032,Podgrad,153
+29034,Police,378
+29035,Ptujska Cesta,206
+29036,Radvenci,141
+29037,Rodmošci,46
+29039,Spodnja Šèavnica,461
+29041,Spodnji Ivanjci,142
+29042,Stavešinci,75
+29043,Stavešinski Vrh,136
+29047,Zagajski Vrh,151
+29048,Zbigovci,264
+30,GORNJI GRAD,2547
+30001,Boèna,602
+30002,Dol,25
+30003,Florjan pri Gornjem Gradu,178
+30004,Gornji Grad,1004
+30005,Lenart pri Gornjem Gradu,127
+30008,Nova Štifta,611
+31,GORNJI PETROVCI,2057
+31001,Adrijanci,146
+31002,Boreèa,84
+31003,Gornji Petrovci,404
+31004,Košarovci,74
+31005,Križevci,374
+31006,Kukeè,57
+31007,Lucova,113
+31008,Martinje,110
+31009,Neradnovci,140
+31010,Panovci,32
+31011,Peskovci,75
+31012,Stanjevci,181
+31013,Šulinci,160
+31014,Ženavlje,107
+32,GROSUPLJE,20059
+32001,Bièje,80
+32002,Bleèji Vrh,56
+32003,Brezje pri Grosupljem,972
+32004,Brvace,125
+32005,Cerovo,36
+32006,Cikava,270
+32007,Èušperk,196
+32008,Dobje,14
+32009,Dole pri Polici,149
+32010,Dolenja vas pri Polici,86
+32011,Gabrje pri Ilovi Gori,31
+32012,Gajnièe,55
+32013,Gatina,140
+32014,Gorenja vas pri Polici,59
+32015,Gornji Rogatec,38
+32016,Gradišèe,47
+32017,Grosuplje,7230
+32018,Hrastje pri Grosupljem,121
+32019,Huda Polica,28
+32020,Kožljevec,29
+32021,Lobèek,150
+32022,Luèe,305
+32023,Mala Ilova Gora,76
+32024,Mala Loka pri Višnji Gori,38
+32025,Mala Raèna,180
+32026,Mala Stara vas,108
+32027,Mala vas pri Grosupljem,328
+32028,Male Lipljene,99
+32029,Mali Konec,34
+32030,Mali Vrh pri Šmarju,382
+32031,Malo Mlaèevo,221
+32032,Medvedica,62
+32033,Paradišèe,80
+32034,Pece,93
+32035,Peè,128
+32036,Plešivica pri Žalni,162
+32037,Podgorica pri Podtaboru,44
+32038,Podgorica pri Šmarju,77
+32039,Polica,774
+32040,Ponova vas,572
+32041,Predole,79
+32042,Rožnik,47
+32043,Sela pri Šmarju,178
+32044,Spodnja Slivnica,572
+32045,Spodnje Blato,172
+32046,Spodnje Duplice,36
+32047,Škocjan,86
+32048,Šmarje - Sap,1540
+32049,Št. Jurij,380
+32050,Tlake,268
+32051,Trošèine,44
+32052,Udje,67
+32053,Velika Ilova Gora,80
+32054,Velika Loka,290
+32055,Velika Raèna,247
+32056,Velika Stara vas,170
+32057,Velike Lipljene,164
+32058,Veliki Vrh pri Šmarju,379
+32059,Veliko Mlaèevo,588
+32060,Vino,163
+32061,Vrbièje,69
+32062,Zagradec pri Grosupljem,211
+32063,Zgornja Slivnica,113
+32064,Zgornje Duplice,28
+32065,Žalna,333
+32066,Železnica,29
+32067,Praproèe pri Grosupljem,51
+33,ŠALOVCI,1437
+33001,Budinci,97
+33002,Èepinci,252
+33003,Dolenci,177
+33004,Domanjševci,275
+33007,Markovci,239
+33008,Šalovci,397
+34,HRASTNIK,9316
+34001,Boben,162
+34002,Brdce,319
+34003,Brnica,238
+34004,Èeèe - del,314
+34005,Dol pri Hrastniku,1453
+34006,Gore,159
+34007,Hrastnik,5106
+34008,Kal,44
+34009,Kovk,104
+34010,Krištandol,30
+34011,Krnice,131
+34012,Marno,198
+34013,Plesko,38
+34014,Podkraj,377
+34015,Prapretno pri Hrastniku - del,183
+34016,Studence,78
+34017,Šavna Peè,100
+34018,Turje,268
+34019,Unièno,14
+35,HRPELJE - KOZINA,4366
+35001,Artviže,50
+35002,Baè pri Materiji,113
+35003,Beka,18
+35004,Brezovica,83
+35005,Brezovo Brdo,27
+35006,Golac,72
+35007,Gradišèe pri Materiji,138
+35008,Gradišica,31
+35009,Hotièna,70
+35010,Hrpelje,832
+35011,Javorje,139
+35012,Klanec pri Kozini,129
+35013,Kovèice,48
+35014,Kozina,599
+35015,Krvavi Potok,84
+35016,Markovšèina,117
+35017,Materija,57
+35018,Mihele,30
+35019,Mrše,27
+35020,Nasirec,66
+35021,Obrov,205
+35022,Ocizla,140
+35023,Odolina,0
+35024,Orehek pri Materiji,14
+35025,Petrinje,48
+35026,Poljane pri Podgradu,8
+35027,Povžane,106
+35028,Prešnica,170
+35029,Ritomeèe,50
+35030,Rodik,323
+35031,Rožice,60
+35032,Skadanšèina,32
+35033,Slivje,103
+35034,Slope,74
+35035,Tatre,48
+35036,Tublje pri Hrpeljah,134
+35037,Velike Loèe,35
+35038,Vrhpolje,73
+35039,Ostrovica,13
+36,IDRIJA,11927
+36001,Èekovnik,131
+36002,Èrni Vrh,675
+36003,Dole,138
+36004,Godoviè,745
+36005,Gore,118
+36006,Gorenja Kanomlja,138
+36007,Gorenji Vrsnik,122
+36008,Govejk,82
+36009,Idrija,5905
+36010,Idrijska Bela,74
+36011,Idrijske Krnice,145
+36012,Idrijski Log,83
+36013,Idršek,40
+36014,Javornik,1
+36015,Jelièni Vrh,120
+36016,Kanji Dol,11
+36017,Korita,24
+36018,Ledine,92
+36019,Ledinske Krnice,71
+36020,Lome,112
+36021,Masore,61
+36022,Mrzli Log,24
+36023,Mrzli Vrh,52
+36024,Peènik,37
+36025,Potok,28
+36026,Predgriže,164
+36027,Spodnja Idrija,1448
+36028,Spodnja Kanomlja,262
+36029,Spodnji Vrsnik,50
+36030,Srednja Kanomlja,163
+36031,Strmec,23
+36032,Vojsko,239
+36033,Zadlog,278
+36034,Zavratec,137
+36035,Žirovnica,28
+36036,Rejcov Griè,14
+36037,Razpotje,67
+36038,Ledinsko Razpotje,25
+37,IG,7163
+37001,Brest,328
+37002,Dobravica,71
+37003,Golo,521
+37004,Gornji Ig,29
+37005,Ig,2306
+37006,Iška,254
+37007,Iška Loka,292
+37008,Iška vas,415
+37009,Kot,115
+37010,Kremenica,55
+37011,Matena,257
+37012,Rogatec nad Želimljami,33
+37013,Sarsko,72
+37014,Selnik,16
+37015,Staje,122
+37016,Strahomer,157
+37017,Škrilje,465
+37018,Tomišelj,372
+37019,Visoko,254
+37020,Vrbljene,262
+37021,Zapotok,333
+37022,Draga,160
+37023,Podgozd,113
+37024,Podkraj,132
+37025,Suša,29
+38,ILIRSKA BISTRICA,13594
+38001,Baè,459
+38002,Brce,23
+38003,Èelje,49
+38004,Dobropolje,70
+38005,Dolenje pri Jelšanah,205
+38006,Dolnja Bitnja,82
+38007,Dolnji Zemon,519
+38008,Fabci,14
+38009,Gabrk,36
+38010,Gornja Bitnja,55
+38011,Gornji Zemon,117
+38012,Harije,260
+38013,Hrušica,267
+38014,Huje,89
+38015,Ilirska Bistrica,4398
+38016,Jablanica,154
+38017,Janeževo Brdo,27
+38018,Jasen,276
+38019,Jelšane,313
+38020,Kilovèe,42
+38021,Knežak,466
+38022,Koritnice,133
+38023,Koseze,333
+38024,Kuteževo,229
+38025,Mala Bukovica,162
+38026,Male Loèe,32
+38027,Mereèe,55
+38028,Nova vas pri Jelšanah,11
+38029,Novokraèine,197
+38030,Ostrožno Brdo,87
+38031,Pavlica,12
+38032,Podbeže,90
+38033,Podgrad,624
+38034,Podgraje,249
+38035,Podstenje,71
+38036,Podstenjšek,11
+38037,Podtabor,34
+38038,Pregarje,193
+38039,Prelože,64
+38040,Prem,168
+38041,Raèice,157
+38042,Rateèevo Brdo,41
+38043,Reèica,84
+38044,Rjavèe,46
+38045,Sabonje,68
+38046,Smrje,119
+38047,Snežnik,18
+38048,Soze,38
+38049,Starod,46
+38050,Studena Gora,22
+38051,Sušak,88
+38052,Šembije,250
+38053,Tominje,95
+38054,Topolc,316
+38055,Trpèane,137
+38056,Velika Bukovica,199
+38057,Veliko Brdo,90
+38058,Vrbica,160
+38059,Vrbovo,308
+38060,Zabièe,289
+38061,Zajelšje,56
+38062,Zareèica,122
+38063,Zareèje,150
+38064,Zalèi,19
+39,IVANÈNA GORICA,16182
+39001,Ambrus,256
+39002,Artiža vas,66
+39003,Bakrc,14
+39004,Boga vas,19
+39005,Bojanji Vrh,80
+39006,Bratnice,16
+39007,Breg pri Dobu,14
+39008,Breg pri Temenici,40
+39009,Breg pri Zagradcu,24
+39010,Brezovi Dol,156
+39011,Bukovica,92
+39012,Èagošèe,102
+39013,Èešnjice pri Zagradcu,91
+39014,Debeèe,29
+39015,Deèja vas pri Zagradcu,64
+39016,Dedni Dol,142
+39017,Dob pri Šentvidu,197
+39018,Dobrava pri Stièni,73
+39019,Dolenja vas pri Temenici,20
+39020,Fužina,138
+39021,Gabrje pri Stièni,175
+39022,Gabrovèec,218
+39023,Gabrovka pri Zagradcu,115
+39024,Glogovica,153
+39025,Gorenja vas,85
+39026,Gorenje Brezovo,45
+39027,Gradièek,33
+39028,Grintovec,97
+39029,Griže,16
+39030,Grm,41
+39031,Hrastov Dol,103
+39032,Ivanèna Gorica,2078
+39033,Kal,93
+39034,Kamni Vrh pri Ambrusu,34
+39035,Kamno Brdo,17
+39036,Kitni Vrh,91
+39037,Kriška vas,368
+39038,Krka,250
+39039,Krška vas,143
+39040,Kuželjevec,42
+39041,Laze nad Krko,31
+39042,Leskovec,100
+39043,Lešèevje,40
+39044,Luèarjev Kal,94
+39045,Mala Dobrava,35
+39046,Mala Gorièica,15
+39047,Male Èešnjice,110
+39048,Male Dole pri Temenici,31
+39049,Male Kompolje,19
+39050,Male Lese,48
+39051,Male Pece,14
+39052,Male Rebrce,27
+39053,Male Vrhe,24
+39054,Mali Kal,12
+39055,Mali Korinj,55
+39056,Malo Èrnelo,49
+39057,Malo Globoko,51
+39058,Malo Hudo,164
+39059,Marinèa vas,117
+39060,Mekinje nad Stièno,212
+39061,Metnaj,118
+39062,Mevce,32
+39063,Mlešèevo,204
+39064,Mrzlo Polje,43
+39065,Muljava,391
+39066,Nova vas,71
+39067,Obolno,9
+39068,Oslica,73
+39069,Osredek nad Stièno,15
+39070,Pešèenik,80
+39071,Petrušnja vas,234
+39072,Planina,4
+39073,Podboršt,127
+39074,Podbukovje,174
+39075,Podsmreka pri Višnji Gori,35
+39076,Pokojnica,48
+39077,Poljane pri Stièni,29
+39078,Polje pri Višnji Gori,16
+39079,Potok pri Muljavi,50
+39080,Praproèe pri Temenici,45
+39081,Primèa vas,70
+39082,Pristava nad Stièno,17
+39083,Pristava pri Višnji Gori,37
+39084,Pristavlja vas,53
+39085,Pungert,30
+39086,Pusti Javor,25
+39087,Radanja vas,59
+39088,Radohova vas,201
+39089,Ravni Dol,23
+39090,Rdeèi Kal,54
+39091,Sad,48
+39092,Sela pri Dobu,33
+39093,Sela pri Sobraèah,56
+39094,Sela pri Višnji Gori,48
+39095,Selo pri Radohovi vasi,34
+39096,Sobraèe,67
+39097,Spodnja Draga,131
+39098,Spodnje Brezovo,151
+39099,Stari trg,93
+39100,Stièna,829
+39101,Stranska vas ob Višnjici,48
+39102,Sušica,108
+39103,Šentjurje,74
+39104,Šentpavel na Dolenjskem,127
+39105,Šentvid pri Stièni,1014
+39106,Škoflje,43
+39107,Škrjanèe,57
+39108,Temenica,177
+39109,Tolèane,44
+39110,Trebež,10
+39111,Trebnja Gorica,72
+39112,Trnovica,25
+39113,Valièna vas,83
+39114,Velika Dobrava,146
+39115,Velike Èešnjice,239
+39116,Velike Dole pri Temenici,31
+39117,Velike Kompolje,47
+39118,Velike Lese,124
+39119,Velike Pece,103
+39120,Velike Rebrce,32
+39121,Velike Vrhe,45
+39122,Veliki Kal,37
+39123,Veliki Korinj,33
+39124,Veliko Èrnelo,79
+39125,Veliko Globoko,76
+39126,Videm pri Temenici,14
+39127,Vir pri Stièni,508
+39128,Višnja Gora,1055
+39129,Višnje,84
+39130,Vrh pri Sobraèah,22
+39131,Vrh pri Višnji Gori,136
+39132,Vrhpolje pri Šentvidu,72
+39133,Zaboršt pri Šentvidu,91
+39134,Zagradec,118
+39135,Zavrtaèe,20
+39136,Zgornja Draga,138
+39137,Znojile pri Krki,115
+40,IZOLA/ISOLA,15962
+40001,Baredi,148
+40002,Cetore,140
+40003,Dobrava/Dobrava presso Isola,258
+40004,Izola/Isola,11235
+40005,Jagodje/Jagodje,2197
+40006,Korte,821
+40007,Malija,496
+40008,Šared,600
+40009,Nožed,67
+41,JESENICE,20858
+41001,Blejska Dobrava,929
+41005,Hrušica,1626
+41006,Javorniški Rovt,266
+41007,Jesenice,12923
+41008,Koèna,244
+41009,Lipce,226
+41011,Planina pod Golico,283
+41012,Plavški Rovt,79
+41013,Podkoèna,59
+41014,Potoki,113
+41015,Prihodi,96
+41022,Koroška Bela,2084
+41023,Slovenski Javornik,1930
+42,JURŠINCI,2356
+42001,Bodkovci,122
+42002,Dragoviè,161
+42003,Gabrnik,255
+42004,Gradišèak,40
+42005,Grlinci,135
+42006,Hlaponci,261
+42007,Juršinci,384
+42008,Kukava,205
+42009,Mostje,25
+42010,Rotman,157
+42011,Sakušak,220
+42012,Senèak pri Juršincih,98
+42013,Zagorci,293
+43,KAMNIK,29362
+43001,Bela,82
+43002,Bela Peè,22
+43003,Bistrièica,273
+43005,Brezje nad Kamnikom,131
+43006,Briše,41
+43007,Buè,178
+43008,Cirkuše v Tuhinju,78
+43009,Èešnjice v Tuhinju,105
+43010,Èrna pri Kamniku,167
+43011,Èrni Vrh v Tuhinju,29
+43012,Gabrovnica,39
+43014,Godiè,668
+43015,Golice,134
+43017,Gozd,149
+43018,Gradišèe v Tuhinju,59
+43019,Hrib pri Kamniku,61
+43020,Hruševka,58
+43021,Jeranovo,105
+43022,Kališe,58
+43023,Kamnik,13768
+43024,Kamniška Bistrica,22
+43026,Klemenèevo,8
+43029,Kostanj,37
+43030,Košiše,181
+43031,Kregarjevo,124
+43032,Krivèevo,127
+43034,Kršiè,35
+43035,Laniše,94
+43036,Laseno,29
+43037,Laze v Tuhinju,273
+43038,Liplje,26
+43039,Loke v Tuhinju,258
+43040,Mali Hrib,72
+43041,Mali Rakitovec,33
+43042,Markovo,188
+43043,Mekinje,1628
+43046,Motnik,183
+43048,Nevlje,242
+43049,Okrog pri Motniku,64
+43050,Okroglo,63
+43051,Oševek,153
+43052,Pirševo,30
+43054,Podbreg,14
+43055,Podgorje,1017
+43056,Podhruška,53
+43057,Podjelše,43
+43058,Podlom,44
+43059,Podstudenec,103
+43060,Poljana,20
+43061,Poreber,195
+43062,Potok,63
+43064,Potok v Èrni,34
+43065,Praproèe v Tuhinju,23
+43066,Pšajnovica,70
+43067,Ravne pri Šmartnem,65
+43068,Rožièno,140
+43069,Rudnik pri Radomljah,56
+43070,Sela pri Kamniku,139
+43071,Sidol,64
+43072,Smreèje v Èrni,28
+43073,Snovik,54
+43074,Soteska,340
+43075,Sovinja Peè,36
+43076,Spodnje Palovèe,93
+43077,Spodnje Stranje,258
+43078,Srednja vas pri Kamniku,239
+43079,Stahovica,169
+43080,Stara sela,52
+43081,Stebljevek,49
+43082,Stolnik,123
+43083,Studenca,70
+43085,Šmarca,1420
+43086,Šmartno v Tuhinju,228
+43087,Špitaliè,187
+43088,Trebelno pri Palovèah,8
+43089,Trobelno,11
+43090,Tuèna,27
+43091,Tunjice,292
+43092,Tunjiška Mlaka,306
+43093,Vaseno,24
+43094,Velika Lašna,117
+43095,Velika Planina,1
+43096,Veliki Hrib,81
+43097,Veliki Rakitovec,30
+43098,Vir pri Nevljah,28
+43099,Vodice nad Kamnikom,30
+43100,Volèji Potok,374
+43101,Vranja Peè,46
+43102,Vrhpolje pri Kamniku,713
+43103,Zagorica nad Kamnikom,159
+43104,Zajasovnik - del,23
+43105,Zakal,50
+43106,Zavrh pri Èrnivcu,31
+43107,Zduša,97
+43108,Zgornje Palovèe,40
+43109,Zgornje Stranje,418
+43110,Zgornji Motnik,64
+43111,Zgornji Tuhinj,390
+43112,Znojile,30
+43113,Žaga,59
+43115,Žubejevo,24
+43116,Županje Njive,325
+44,KANAL,5431
+44001,Ajba,75
+44002,Anhovo,72
+44003,Avèe,216
+44004,Bodrež,93
+44005,Deskle,1168
+44006,Doblar,81
+44007,Gorenja vas,144
+44008,Kal nad Kanalom,331
+44009,Kambreško,100
+44010,Kanal,1205
+44011,Kanalski Vrh,65
+44012,Levpa,181
+44013,Lig,134
+44014,Morsko,193
+44015,Plave,231
+44016,Roèinj,293
+44017,Seniški Breg,125
+44018,Ukanje,43
+44019,Zapotok,7
+44020,Goljevica,36
+44021,Kamenca nad Ložicami,0
+44022,Zagomila,5
+44023,Zagora,23
+44024,Paljevo,15
+44025,Prilesje pri Plavah,57
+44026,Ravna,4
+44027,Jesen,4
+44028,Krstenica,35
+44029,Èolnica,17
+44030,Ložice,258
+44031,Moèila,81
+44032,Robidni Breg,32
+44033,Gorenje Nekovo,19
+44034,Gorenje Polje,88
+44035,Dolenje Nekovo,0
+45,KIDRIÈEVO,6449
+45001,Apaèe,789
+45002,Cirkovce,365
+45003,Dragonja vas,177
+45004,Kidrièevo,1168
+45005,Kungota pri Ptuju,398
+45006,Lovrenc na Dravskem polju,651
+45007,Mihovce,202
+45008,Njiverce,696
+45009,Pleterje,223
+45010,Pongrce,134
+45011,Spodnje Jablane,269
+45012,Spodnji Gaj pri Pragerskem,122
+45013,Starošince,211
+45014,Stražgonjca,203
+45015,Strnišèe,107
+45016,Šikole,304
+45017,Zgornje Jablane,181
+45018,Župeèja vas,249
+46,KOBARID,4121
+46001,Avsa,34
+46002,Borjana,127
+46003,Breginj,184
+46004,Drežnica,227
+46005,Drežniške Ravne,141
+46006,Homec,9
+46007,Idrsko,323
+46008,Jevšèek,22
+46009,Jezerca,29
+46010,Kobarid,1090
+46011,Koseè,66
+46012,Kred,139
+46013,Krn,26
+46014,Ladra,144
+46015,Libušnje,42
+46016,Livek,174
+46017,Livške Ravne,17
+46018,Logje,50
+46019,Magozd,68
+46020,Mlinsko,70
+46021,Podbela,63
+46022,Potoki,54
+46023,Robiè,29
+46024,Robidišèe,11
+46025,Sedlo,72
+46026,Smast,195
+46027,Stanovišèe,36
+46028,Staro selo,154
+46029,Sužid,136
+46030,Svino,110
+46031,Trnovo ob Soèi,138
+46032,Vrsno,123
+46033,Perati,18
+47,KOBILJE,574
+47001,Kobilje,574
+48,KOÈEVJE,16005
+48003,Borovec pri Koèevski Reki,62
+48004,Breg pri Koèevju,394
+48005,Brezovica pri Predgradu,42
+48008,Bukova Gora,0
+48010,Cvišlerji,188
+48011,Èeplje,29
+48012,Èrni Potok pri Koèevju,150
+48014,Dol,23
+48017,Dolga vas,836
+48018,Dolnja Briga,11
+48019,Dolnje Ložine,147
+48025,Gorenje,397
+48027,Gornja Briga,6
+48028,Gornje Ložine,127
+48030,Gotenica,3
+48033,Hreljin,0
+48035,Hrib pri Koprivniku,1
+48037,Jelenja vas,15
+48039,Kaèji Potok,3
+48041,Kleè,0
+48042,Klinja vas,233
+48043,Knežja Lipa,16
+48044,Koblarji,293
+48045,Koèarji,35
+48046,Koèe,2
+48047,Koèevje,8342
+48048,Koèevska Reka,241
+48049,Komolec,0
+48050,Konca vas,114
+48051,Koprivnik,70
+48053,Kralji,19
+48055,Kuhlarji,0
+48059,Laze pri Oneku,0
+48060,Laze pri Predgradu,11
+48062,Livold,455
+48063,Maèkovec,45
+48064,Mahovnik,311
+48065,Mala Gora,6
+48067,Mlaka pri Koèevju,269
+48068,Mlaka pri Koèevski Reki,15
+48069,Mokri Potok,0
+48070,Morava,131
+48071,Mozelj,180
+48072,Mrtvice,42
+48073,Muha vas,0
+48074,Nemška Loka,29
+48076,Nove Ložine,45
+48077,Novi Lazi,134
+48078,Ograja,0
+48079,Onek,41
+48082,Paka pri Predgradu,14
+48087,Podlesje,3
+48088,Podstene,0
+48091,Predgrad,97
+48092,Preža,0
+48093,Primoži,12
+48095,Pugled pri Starem Logu,0
+48096,Rajhenav,3
+48097,Rajndol,43
+48100,Rogati Hrib,2
+48101,Sadni Hrib,0
+48105,Slovenska vas,233
+48106,Smuka,59
+48107,Spodnja Bilpa,6
+48108,Spodnji Log,20
+48111,Stara Cerkev,308
+48112,Stari Breg,3
+48113,Stari Log,66
+48114,Staro Brezje,4
+48117,Suhi Potok,0
+48119,Svetli Potok,0
+48120,Šalka vas,759
+48121,Škrilj,0
+48123,Štalcerji,166
+48125,Topla Reber,0
+48126,Trnovec,2
+48129,Vimolj pri Predgradu,25
+48131,Vrt,4
+48132,Zajèje Polje,43
+48134,Zdihovo,0
+48135,Željne,480
+48136,Polom,61
+48137,Seè,8
+48138,Vrbovec,2
+48139,Grièek pri Željnah,69
+48140,Podjetniško naselje Koèevje,0
+49,KOMEN,3518
+49001,Brestovica pri Komnu,173
+49002,Brje pri Komnu,108
+49003,Coljava,62
+49004,Èehovini,56
+49005,Èipnje,14
+49006,Divèi,46
+49007,Dolanci,26
+49008,Gabrovica pri Komnu,121
+49009,Gorjansko,273
+49010,Hruševica,149
+49011,Ivanji Grad,95
+49012,Klanec pri Komnu,39
+49013,Kobdilj,179
+49014,Kobjeglava,179
+49015,Koboli,15
+49016,Kodreti,43
+49017,Komen,623
+49018,Lisjaki,38
+49019,Lukovec,36
+49020,Mali Dol,38
+49021,Nadrožica,6
+49022,Preserje pri Komnu,53
+49023,Rubije,36
+49024,Sveto,192
+49025,Šibelji,12
+49026,Škofi,8
+49027,Škrbina,156
+49028,Štanjel,369
+49029,Tomaèevica,165
+49030,Trebižani,15
+49031,Tupelèe,63
+49032,Vale,9
+49033,Veèkoti,13
+49034,Volèji Grad,83
+49035,Zagrajec,25
+50,KOPER/CAPODISTRIA,51045
+50001,Abitanti,19
+50003,Babièi,294
+50004,Barizoni/Barisoni,129
+50005,Belvedur,11
+50006,Bertoki/Bertocchi,971
+50007,Bezovica,74
+50008,Boèaji,29
+50009,Bonini,577
+50010,Boršt,182
+50011,Bošamarin/Bossamarino,567
+50012,Brezovica pri Gradinu,66
+50013,Brežec pri Podgorju,0
+50014,Briè,0
+50015,Butari,41
+50016,Cepki,88
+50017,Cerej/Cerei,126
+50018,Èentur,149
+50019,Èežarji,566
+50020,Èrni Kal,219
+50021,Èrnotièe,81
+50022,Dekani,1617
+50023,Dilici,13
+50024,Dol pri Hrastovljah,100
+50025,Dvori,27
+50026,Fijeroga,25
+50027,Gabrovica pri Èrnem Kalu,102
+50028,Gažon,619
+50029,Glem,61
+50030,Graèišèe,225
+50031,Gradin,67
+50032,Grinjan,114
+50033,Grintovec,113
+50034,Hrastovlje,141
+50035,Hrvatini/Crevatini,1276
+50036,Jelarji,181
+50037,Kampel/Campel,764
+50038,Karli,2
+50039,Kastelec,77
+50040,Kolomban/Colombano,601
+50041,Koper/Capodistria,25306
+50042,Koromaèi - Boškini,30
+50043,Kortine,117
+50044,Koštabona,240
+50045,Kozlovièi,54
+50046,Krkavèe,295
+50047,Krnica,78
+50048,Kubed,182
+50049,Labor,64
+50050,Loka,97
+50051,Lopar,127
+50052,Lukini,64
+50053,Manžan,503
+50054,Marezige,533
+50055,Maršièi,13
+50056,Moèunigi,0
+50057,Montinjan,79
+50058,Movraž,120
+50059,Olika,6
+50060,Osp,181
+50061,Peraji,0
+50062,Pisari,12
+50063,Plavje,562
+50064,Pobegi,1234
+50065,Podgorje,143
+50066,Podpeè,50
+50067,Poletièi,75
+50068,Pomjan,177
+50069,Popetre,151
+50070,Prade/Prade,1186
+50071,Praproèe,30
+50072,Predloka,77
+50073,Pregara,143
+50074,Premanèan/Premanzano,146
+50075,Puèe,252
+50076,Rakitovec,122
+50077,Rižana,145
+50078,Rožar,24
+50079,Sirèi,44
+50080,Smokvica,35
+50081,Socerb,23
+50082,Soèerga,65
+50083,Sokolièi,3
+50084,Spodnje Škofije,1408
+50085,Srgaši,188
+50086,Stepani,15
+50087,Sv. Anton,1899
+50088,Šalara/Salara,600
+50089,Šeki,13
+50090,Škocjan/San Canziano,577
+50091,Šmarje,855
+50092,Tinjan,193
+50093,Topolovec,64
+50094,Trebeše,55
+50095,Triban,170
+50096,Trsek,49
+50097,Truške,68
+50098,Tuljaki,8
+50099,Vanganel,638
+50100,Zabavlje,26
+50101,Zanigrad,0
+50102,Zazid,75
+50103,Zgornje Škofije,983
+50104,Županèièi,47
+50105,Galantièi,12
+51,KOZJE,3092
+51001,Bistrica,48
+51002,Buèe,145
+51003,Dobležièe,114
+51004,Drensko Rebro,147
+51005,Gorjane,179
+51006,Gradišèe,47
+51007,Gubno,166
+51008,Ješovec pri Kozjem,133
+51009,Klake,27
+51010,Kozje,642
+51011,Lesièno,167
+51012,Ortnice,28
+51013,Osredek pri Podsredi,62
+51014,Pilštanj,119
+51015,Podsreda,169
+51016,Poklek pri Podsredi,92
+51017,Topolovo,41
+51018,Vetrnik,130
+51019,Vojsko,86
+51020,Vrenska Gorca,180
+51021,Zagorje,181
+51022,Zdole,137
+51023,Zeèe pri Buèah,52
+52,KRANJ,56115
+52001,Babni Vrt,52
+52002,Bobovek,135
+52003,Breg ob Savi,501
+52004,Britof,1947
+52005,Èadovlje,106
+52006,Èepulje,44
+52007,Golnik,1135
+52008,Gorièe,364
+52009,Ilovka,69
+52010,Jama,244
+52011,Jamnik,37
+52012,Javornik,69
+52013,Kokrica,1614
+52014,Kranj,37586
+52015,Lavtarski Vrh,19
+52016,Letenice,121
+52017,Mavèièe,469
+52018,Meja,26
+52019,Mlaka pri Kranju,1591
+52020,Nemilje,84
+52021,Njivica,35
+52022,Orehovlje,179
+52023,Pangršica,75
+52024,Planica,21
+52025,Podblica,111
+52026,Podreèa,541
+52027,Povlje,41
+52028,Praše,202
+52029,Predoslje,984
+52030,Pševo,101
+52031,Rakovica,93
+52032,Spodnja Besnica,926
+52033,Spodnje Bitnje,258
+52034,Srakovlje,108
+52035,Srednja vas - Gorièe,80
+52036,Srednje Bitnje,613
+52037,Suha pri Predosljah,239
+52038,Sveti Jošt nad Kranjem,0
+52039,Šutna,473
+52040,Tatinec,65
+52041,Tenetiše,416
+52042,Trstenik,424
+52043,Zabukovje,88
+52044,Zalog,121
+52045,Zgornja Besnica,811
+52046,Zgornje Bitnje,1530
+52047,Žablje,34
+52048,Žabnica,322
+52049,Hrastje,1011
+53,KRANJSKA GORA,5294
+53001,Belca,159
+53002,Dovje,633
+53003,Gozd Martuljek,630
+53004,Kranjska Gora,1532
+53005,Log,93
+53006,Mojstrana,1123
+53007,Podkoren,389
+53008,Rateèe,627
+53009,Srednji Vrh,30
+53010,Zgornja Radovna,78
+54,KRŠKO,25884
+54001,Anovec,90
+54002,Anže,108
+54003,Apnenik pri Velikem Trnu,43
+54004,Ardro pod Velikim Trnom,42
+54005,Ardro pri Raki,85
+54006,Armeško,171
+54008,Brege,222
+54009,Brestanica,939
+54010,Brezje pri Dovškem,102
+54011,Brezje pri Raki,42
+54012,Brezje pri Senušah,93
+54013,Brezje v Podboèju,41
+54014,Brezovica v Podboèju,38
+54015,Brezovska Gora,80
+54016,Brlog,16
+54017,Brod v Podboèju,104
+54018,Buèerca,81
+54019,Celine,49
+54020,Cesta,64
+54021,Cirje,88
+54023,Èrešnjice nad Pijavškim,30
+54024,Èretež pri Krškem,49
+54026,Dalce,8
+54027,Dedni Vrh,7
+54029,Dobrava ob Krki,100
+54030,Dobrava pod Rako,23
+54032,Dobrova,187
+54033,Dol,28
+54034,Dolenja Lepa vas,14
+54035,Dolenja vas pri Krškem,212
+54036,Dolenja vas pri Raki,68
+54037,Dolenji Leskovec,284
+54038,Dolga Raka,71
+54041,Dovško,242
+54042,Drenovec pri Leskovcu,58
+54043,Drnovo,472
+54044,Dunaj,38
+54045,Frluga,5
+54047,Gmajna,183
+54048,Golek,114
+54049,Goli Vrh,19
+54050,Gora,94
+54051,Gorenja Lepa vas,41
+54052,Gorenja vas pri Leskovcu,122
+54053,Gorenje Dole,3
+54054,Gorenji Leskovec,86
+54055,Gorica,135
+54056,Gorica pri Raztezu,45
+54058,Gornje Pijavško,79
+54059,Gradec,14
+54060,Gradišèe pri Raki,4
+54061,Gradnje,25
+54063,Gržeèa vas,99
+54064,Gunte,24
+54065,Hrastek,32
+54066,Ivandol,30
+54069,Jelenik,46
+54070,Jelše,130
+54071,Jelševec,5
+54072,Kalce,36
+54073,Kalce - Naklo,161
+54074,Kališovec,41
+54076,Kobile,26
+54078,Koèno,12
+54079,Koprivnica,131
+54081,Koritnica,25
+54082,Kostanjek,127
+54084,Kremen,229
+54085,Krško,7039
+54086,Kržišèe,52
+54087,Leskovec pri Krškem,1018
+54088,Libelj,13
+54089,Libna,179
+54090,Loke,87
+54091,Lokve,67
+54092,Lomno,71
+54095,Mali Kamen,252
+54096,Mali Koren,38
+54097,Mali Podlog,121
+54098,Mali Trn,42
+54099,Malo Mraševo,125
+54100,Mikote,62
+54101,Mladje,23
+54102,Mrèna sela,174
+54103,Mrtvice,204
+54104,Nemška Gora,22
+54105,Nemška vas,28
+54106,Nova Gora,72
+54108,Osredek pri Trški Gori,45
+54110,Pesje,82
+54111,Pijana Gora,10
+54112,Planina pri Raki,67
+54113,Planina v Podboèju,31
+54114,Pleterje,189
+54115,Podboèje,329
+54116,Podlipa,49
+54118,Podulce,133
+54119,Površje,62
+54120,Premagovce,24
+54121,Presladol,151
+54122,Pristava ob Krki,37
+54123,Pristava pod Rako,11
+54124,Pristava pri Leskovcu,104
+54125,Prušnja vas,42
+54126,Raka,350
+54127,Ravne pri Zdolah,219
+54128,Ravni,55
+54129,Ravno,84
+54130,Raztez,82
+54131,Reštanj,225
+54132,Rožno,236
+54135,Sela pri Raki,104
+54136,Selce pri Leskovcu,54
+54137,Selo,10
+54138,Senovo,2304
+54139,Senožete,18
+54140,Senuše,149
+54142,Slivje,40
+54143,Smeèice,31
+54144,Smednik,71
+54145,Spodnja Libna,71
+54146,Spodnje Dule,69
+54147,Spodnje Pijavško,30
+54148,Spodnji Stari Grad,250
+54149,Srednje Arto,17
+54150,Srednje Pijavško,10
+54151,Sremiè,165
+54152,Stari Grad,203
+54153,Stari Grad v Podboèju,3
+54154,Stolovnik,242
+54155,Stranje,94
+54156,Straža pri Krškem,34
+54157,Straža pri Raki,125
+54158,Strmo Rebro,11
+54159,Šedem,150
+54160,Šutna,141
+54161,Trška Gora,176
+54162,Velika vas pri Krškem,292
+54164,Veliki Dol,146
+54165,Veliki Kamen,206
+54166,Veliki Koren,0
+54167,Veliki Podlog,253
+54168,Veliki Trn,45
+54169,Veliko Mraševo,273
+54170,Veniše,232
+54171,Videm,6
+54172,Vihre,140
+54173,Volovnik,33
+54174,Vrbina,9
+54176,Vrh pri Površju,40
+54177,Vrhulje,29
+54180,Zabukovje pri Raki,56
+54181,Zaloke,70
+54182,Zdole,277
+54183,Žabjek v Podboèju,56
+54184,Žadovinek,84
+54185,Ženje,39
+54186,Kerinov Grm,208
+55,KUNGOTA,4761
+55001,Ciringa,87
+55002,Gradiška,1023
+55003,Grušena,115
+55004,Jedlovnik,94
+55005,Jurski Vrh,123
+55006,Kozjak nad Pesnico,577
+55007,Pesnica,138
+55008,Plaè,135
+55009,Plintovec,693
+55010,Podigrac,71
+55011,Rošpoh - del,320
+55012,Slatina,76
+55013,Slatinski Dol,187
+55014,Spodnje Vrtièe,160
+55015,Sveèina,153
+55016,Špiènik,113
+55017,Vršnik,124
+55018,Zgornja Kungota,498
+55019,Zgornje Vrtièe,74
+56,KUZMA,1582
+56001,Doliè,390
+56003,Gornji Slaveèi,438
+56007,Kuzma,420
+56008,Matjaševci,163
+56011,Trdkova,171
+57,LAŠKO,13156
+57001,Belovo,199
+57002,Blatni Vrh,82
+57003,Brezno,96
+57004,Brodnice,48
+57005,Brstnik,74
+57006,Brstovnica,66
+57007,Bukovca,27
+57008,Curnovec,29
+57009,Debro,159
+57010,Doblatina,51
+57011,Dol pri Laškem,36
+57012,Gabrno,48
+57013,Globoko,177
+57014,Govce,13
+57015,Gozdec,50
+57016,Graènica,36
+57017,Harje,111
+57018,Huda Jama,86
+57019,Jagoèe,155
+57020,Jurklošter,83
+57021,Kladje,31
+57022,Klenovo,61
+57023,Konc,22
+57024,Kuretno,45
+57025,Lahomno,225
+57026,Lahomšek,106
+57027,Lahov Graben,125
+57028,Laška vas,68
+57029,Laško,3326
+57030,Laziše,87
+57031,Leskovca,96
+57032,Lipni Dol,29
+57033,Lokavec,175
+57034,Lože,104
+57035,Maèkovec,27
+57036,Mala Breza,208
+57037,Male Grahovše,40
+57038,Marija Gradec,252
+57039,Marijina vas,87
+57040,Modriè,15
+57041,Mrzlo Polje,60
+57043,Obrežje pri Zidanem Mostu,128
+57044,Ojstro,99
+57045,Olešèe,255
+57046,Padež,58
+57047,Paneèe,110
+57048,Plazovje,26
+57049,Polana,177
+57050,Povèeno,41
+57051,Požnica,56
+57052,Radoblje,108
+57053,Reka,177
+57054,Rifengozd,178
+57055,Rimske Toplice,764
+57056,Sedraž,172
+57057,Selo nad Laškim,36
+57058,Senožete,42
+57059,Sevce,86
+57060,Slivno,58
+57061,Spodnja Reèica,603
+57062,Stopce,29
+57063,Strensko,50
+57064,Strmca,421
+57065,Suhadol,27
+57066,Šentrupert,387
+57067,Širje,45
+57068,Škofce,29
+57069,Šmihel,41
+57070,Šmohor,21
+57071,Tevèe,186
+57072,Tovsto,130
+57073,Trnov Hrib,52
+57074,Trnovo,88
+57075,Trobni Dol,149
+57076,Trojno,53
+57077,Udmat,49
+57078,Velike Gorelce,68
+57079,Velike Grahovše,141
+57080,Veliko Širje,267
+57081,Vodiško,44
+57082,Vrh nad Laškim,142
+57083,Zabrež,15
+57084,Zgornja Reèica,395
+57085,Zidani Most,227
+57086,Žigon,111
+58,LENART,8275
+58008,Èrmljenšak,195
+58009,Dolge Njive,130
+58015,Gradenšak,29
+58016,Hrastovec v Slov. goricah,477
+58025,Lenart v Slov. goricah,3211
+58028,Lormanje,166
+58030,Moèna,272
+58031,Nadbišec,90
+58036,Radehova,199
+58037,Rogoznica,100
+58039,Selce,349
+58044,Spodnja Volièina,714
+58045,Spodnje Partinje,119
+58048,Spodnji Porèiè,237
+58049,Spodnji Žerjavci,334
+58053,Straže,89
+58057,Šetarova,63
+58063,Vinièka vas,156
+58064,Zamarkova,92
+58065,Zavrh,410
+58070,Zgornja Volièina,576
+58075,Zgornji Žerjavci,267
+59,LENDAVA/LENDVA,10538
+59001,Banuta/Banuta,73
+59002,Benica,69
+59003,Brezovec - del,9
+59004,Èentiba/Csente,817
+59006,Dolga vas/Hosszufalu,613
+59007,Dolgovaške Gorice/Hosszufaluhegy,312
+59008,Dolina pri Lendavi/Volgyifalu,342
+59009,Dolnji Lakoš/Alsolakos,231
+59010,Gaberje/Gyertyanos,504
+59011,Genterovci/Gonterhaza,185
+59012,Gornji Lakoš/Felsolakos,390
+59013,Hotiza,789
+59014,Kamovci/Kamahaza,111
+59015,Kapca/Kapca,400
+59016,Kot/Kot,104
+59017,Lendava/Lendva,2945
+59018,Lendavske Gorice/Lendvahegy,660
+59019,Mostje/Hidveg,326
+59020,Petišovci/Peteshaza,832
+59021,Pince/Pince,211
+59022,Pince - Marof/Pince - Major,95
+59023,Radmožanci/Radamos,213
+59025,Trimlini/Harmasmalom,307
+60,LITIJA,15099
+60001,Bitièe,45
+60002,Boltija,30
+60003,Borovak pri Polšniku,17
+60004,Breg pri Litiji,206
+60005,Brezje pri Kumpolju,7
+60006,Brezovo,74
+60007,Brglez,16
+60010,Cirkuše,37
+60011,Èateška Gora,26
+60012,Èeplje,11
+60014,Dobovica,39
+60015,Dole pri Litiji,107
+60016,Dolgo Brdo,28
+60020,Gabrovka,235
+60021,Gabrska Gora,66
+60022,Gobnik,131
+60023,Golišèe,250
+60024,Gorenje Jelenje,11
+60025,Zgornji Log,151
+60026,Gornje Ravne,17
+60031,Gradišèe - K. o. Št. Lovrenc,32
+60033,Hohovica,24
+60034,Hude Ravne,18
+60039,Javorje pri Gabrovki,32
+60041,Jesenje,121
+60042,Jevnica,403
+60044,Ježevec,13
+60046,Kal pri Dolah,54
+60047,Kamni Vrh,42
+60049,Kandrše - del,3
+60050,Klanec pri Gabrovki,34
+60051,Klenik,56
+60052,Konj,95
+60053,Konjšica - del,103
+60056,Kresnice,713
+60057,Kresniške Poljane,336
+60058,Kresniški Vrh,231
+60059,Kržišèe pri Èatežu,14
+60060,Laze pri Gobniku,28
+60061,Laze pri Vaèah,36
+60063,Leše,38
+60065,Litija,6466
+60066,Ljubež v Lazih,12
+60067,Lukovec,18
+60069,Mala Goba,24
+60071,Mala sela,34
+60073,Mamolj,138
+60076,Moravèe pri Gabrovki,215
+60077,Moravška Gora,115
+60079,Nova Gora,59
+60081,Okrog,13
+60082,Peèice,23
+60083,Podbukovje pri Vaèah,36
+60084,Podpeè pod Skalo,22
+60086,Podšentjur,124
+60088,Polšnik,106
+60089,Ponovièe,206
+60090,Potok pri Vaèah,52
+60091,Prelesje,28
+60093,Prevale,10
+60094,Preveg,28
+60095,Preženjske Njive,17
+60098,Radgonica,6
+60099,Ravne,37
+60103,Renke,40
+60104,Ribèe,223
+60106,Ržišèe,66
+60107,Sava,276
+60108,Selce,7
+60111,Slavina,18
+60112,Slivna,130
+60114,Spodnje Jelenje,31
+60115,Spodnji Hotiè,275
+60116,Spodnji Log,225
+60118,Stranski Vrh,59
+60119,Strmec,34
+60120,Suhadole,13
+60122,Širmanski Hrib,23
+60123,Široka Set,26
+60126,Šumnik,29
+60127,Tenetiše,183
+60128,Tepe,183
+60129,Tihaboj,100
+60130,Tlaka,34
+60131,Vaèe,373
+60132,Velika Goba,33
+60134,Velika Preska,50
+60136,Veliki Vrh pri Litiji,164
+60137,Vernek,59
+60141,Vodice pri Gabrovki,44
+60143,Vovše,21
+60145,Zagozd,54
+60147,Zapodje,17
+60148,Zavrh,32
+60150,Zglavnica,23
+60152,Zgornja Jevnica,60
+60153,Zgornji Hotiè,273
+60154,Tolsti Vrh,27
+60157,Magolnik,27
+60158,Sopota,17
+60159,Kumpolje,12
+60160,Pogonik,5
+60161,Dobje,8
+60162,Bistrica,25
+60163,Berinjek,12
+60164,Jelenska Reber,37
+60165,Zagorica,32
+61,LJUBLJANA,288307
+61001,Besnica,231
+61002,Brezje pri Lipoglavu,77
+61003,Èešnjica,123
+61004,Èrna vas,962
+61005,Dolgo Brdo,64
+61006,Dvor,156
+61007,Gabrje pri Janèah,107
+61008,Janèe,21
+61009,Javor,171
+61010,Lipe,108
+61011,Ljubljana,279756
+61012,Mali Lipoglav,267
+61013,Mali Vrh pri Prežganju,100
+61014,Malo Trebeljevo,189
+61015,Medno,457
+61016,Pance,101
+61017,Podgrad,263
+61018,Podlipoglav,203
+61019,Podmolnik,519
+61020,Prežganje,138
+61021,Rašica,166
+61022,Ravno Brdo,51
+61023,Repèe,68
+61024,Sadinja vas,476
+61025,Selo pri Pancah,49
+61026,Spodnje Gameljne,577
+61027,Srednje Gameljne,748
+61028,Stanežièe,744
+61029,Šentpavel,105
+61030,Toško Èelo,22
+61031,Tuji Grm,75
+61032,Veliki Lipoglav,47
+61033,Veliko Trebeljevo,114
+61034,Vnajnarje,120
+61035,Volavlje,183
+61036,Zagradišèe,81
+61037,Zgornja Besnica,133
+61038,Zgornje Gameljne,535
+62,LJUBNO,2604
+62001,Juvanje,134
+62002,Ljubno ob Savinji,1054
+62003,Meliše,47
+62004,Okonina,214
+62005,Planina,94
+62006,Primož pri Ljubnem,168
+62007,Radmirje,461
+62008,Savina,212
+62009,Ter,220
+63,LJUTOMER,11491
+63001,Babinci,266
+63005,Bodislavci,135
+63007,Branoslavci,165
+63009,Buèkovci,127
+63011,Cezanjevci,239
+63012,Cuber,70
+63013,Cven,569
+63014,Desnjak,132
+63016,Drakovci,251
+63019,Globoka,189
+63020,Godemarci,89
+63022,Gresovšèak,111
+63023,Grlava,104
+63025,Ilovci,98
+63026,Jeruzalem,31
+63030,Krapje,305
+63031,Krištanci,73
+63033,Kuršinci,165
+63034,Ljutomer,3367
+63037,Mala Nedelja,102
+63038,Mekotnjak,205
+63039,Moravci v Slov. goricah,377
+63040,Mota,319
+63041,Noršinci pri Ljutomeru,214
+63042,Nunska Graba,156
+63043,Plešivica,98
+63044,Podgradje,281
+63045,Precetinci,168
+63046,Presika,142
+63047,Pristava,243
+63048,Radomerje,181
+63049,Radomeršèak,143
+63050,Radoslavci,313
+63052,Rinèetova Graba,97
+63053,Sitarovci,35
+63054,Slamnjak,171
+63055,Spodnji Kamenšèak,410
+63056,Stara Cesta,293
+63058,Stroèja vas,509
+63060,Šalinci,185
+63064,Vidanovci,58
+63065,Vogrièevci,153
+63068,Zgornji Kamenšèak,104
+63069,Železne Dveri,48
+64,LOGATEC,13752
+64001,Grèarevec,221
+64002,Hleviše,63
+64003,Hlevni Vrh,88
+64004,Hotedršica,602
+64005,Jakovica,68
+64006,Kalce,579
+64007,Lavrovec,128
+64008,Laze,308
+64009,Logatec,9312
+64010,Medvedje Brdo,200
+64011,Novi Svet,110
+64012,Petkovec,478
+64013,Praprotno Brdo,59
+64014,Ravnik pri Hotedršici,57
+64015,Rovtarske Žibrše,239
+64016,Rovte,950
+64017,Vrh Sv. Treh Kraljev,55
+64018,Zaplana - del,67
+64019,Žibrše,168
+65,LOŠKA DOLINA,3857
+65002,Babna Polica,19
+65003,Babno Polje,347
+65006,Dane,107
+65007,Dolenje Poljane,11
+65015,Iga vas,224
+65017,Klance,17
+65018,Knežja Njiva,32
+65019,Kozarišèe,244
+65024,Lož,623
+65026,Markovec,213
+65030,Nadlesk,172
+65034,Podcerkev,130
+65035,Podgora pri Ložu,113
+65036,Podlož,48
+65038,Pudob,226
+65045,Stari trg pri Ložu,843
+65053,Šmarata,93
+65059,Viševek,178
+65061,Vrh,43
+65062,Vrhnika pri Ložu,166
+65066,Sveta Ana pri Ložu,8
+66,LOŠKI POTOK,1866
+66001,Èrni Potok pri Dragi,36
+66002,Draga,87
+66003,Glažuta,0
+66004,Hrib - Loški Potok,374
+66005,Lazec,39
+66006,Mali Log,233
+66007,Novi Kot,50
+66008,Podplanina,27
+66009,Podpreska,99
+66010,Pungert,14
+66011,Retje,396
+66012,Srednja vas pri Dragi,43
+66013,Srednja vas - Loški Potok,64
+66014,Stari Kot,7
+66015,Šegova vas,101
+66016,Trava,23
+66017,Travnik,273
+67,LUÈE,1495
+67001,Konjski Vrh,126
+67002,Krnica,252
+67004,Luèe,404
+67006,Podveža,137
+67007,Podvolovljek,226
+67008,Raduha,227
+67011,Strmec,123
+68,LUKOVICA,5731
+68001,Blagovica,107
+68002,Brdo pri Lukovici,10
+68003,Brezovica pri Zlatem Polju,27
+68004,Bršlenovica,31
+68005,Èeplje,94
+68006,Èešnjice,12
+68007,Dupeljne,59
+68008,Gabrje pod Špilkom,33
+68009,Golèaj,0
+68010,Gorenje,29
+68011,Gradišèe pri Lukovici,235
+68012,Hribi,55
+68013,Imovica,136
+68014,Javorje pri Blagovici,36
+68015,Jelša,44
+68016,Kompolje,43
+68017,Koreno,90
+68018,Korpe,17
+68019,Krajno Brdo,93
+68020,Krašnja,368
+68021,Lipa,17
+68022,Log,23
+68023,Lukovica pri Domžalah,390
+68024,Mala Lašna,31
+68025,Mali Jelnik,59
+68026,Obrše,32
+68027,Podgora pri Zlatem Polju,29
+68028,Podmilj,62
+68029,Podsmreèje,47
+68030,Poljane nad Blagovico,9
+68031,Preserje pri Lukovici,89
+68032,Preserje pri Zlatem Polju,31
+68033,Prevalje,49
+68034,Prevoje,24
+68035,Prevoje pri Šentvidu,764
+68036,Prilesje,21
+68037,Prvine,15
+68038,Rafolèe,374
+68039,Selce,29
+68040,Spodnje Koseze,114
+68041,Spodnje Loke,140
+68042,Spodnje Prapreèe,211
+68043,Spodnji Petelinjek,22
+68044,Straža,20
+68045,Suša,25
+68046,Šentožbolt,44
+68047,Šentvid pri Lukovici,229
+68048,Trnjava,265
+68049,Trnovèe,111
+68050,Trojane,127
+68051,Uèak,38
+68052,V Zideh,54
+68053,Veliki Jelnik,24
+68054,Videm pri Lukovici,42
+68055,Vošce,47
+68056,Vranke,13
+68057,Vrba,85
+68058,Vrh nad Krašnjo,51
+68059,Vrhovlje,94
+68060,Zavrh pri Trojanah,55
+68061,Zgornje Loke,111
+68062,Zgornje Prapreèe,67
+68063,Zgornji Petelinjek,19
+68064,Zlatenek,46
+68065,Zlato Polje,38
+68066,Žirovše,25
+69,MAJŠPERK,3986
+69001,Breg,325
+69004,Doklece,90
+69005,Dol pri Stopercah,32
+69006,Grdina,121
+69007,Janški Vrh,50
+69008,Jelovice,75
+69010,Koritno,70
+69011,Kupèinji Vrh,119
+69012,Lešje,203
+69013,Majšperk,599
+69014,Medvedce,113
+69016,Naraplje,92
+69017,Planjsko,54
+69018,Podlože,258
+69019,Preša,91
+69020,Ptujska Gora,408
+69021,Sestrže,318
+69022,Sitež,48
+69023,Skrblje,68
+69024,Slape,145
+69025,Spodnja Sveèa,55
+69026,Staneèka vas,95
+69027,Stogovci,241
+69028,Stoperce,202
+69029,Zgornja Sveèa,63
+69031,Boleèka vas,51
+70,MARIBOR,111832
+70002,Bresternica,1312
+70003,Celestrina,296
+70006,Dogoše,745
+70008,Gaj nad Mariborom,219
+70009,Grušova,75
+70012,Hrastje,552
+70013,Hrenca,135
+70014,Jelovec,327
+70015,Kamnica,1644
+70017,Laznica,313
+70018,Limbuš,1967
+70019,Maleènik,521
+70020,Maribor,95589
+70021,Meljski Hrib,282
+70022,Metava,287
+70024,Nebova,128
+70026,Pekel,163
+70027,Pekre,1453
+70029,Poèehova,400
+70032,Razvanje,1340
+70033,Ribniško selo,287
+70035,Rošpoh - del,776
+70036,Ruperèe,409
+70041,Srednje,175
+70042,Šober,256
+70043,Trèova,712
+70044,Vinarje,224
+70045,Vodole,222
+70046,Vrhov Dol,127
+70047,Za Kalvarijo,151
+70049,Zgornji Slemen - del,84
+70050,Zrkovci,661
+71,MEDVODE,16032
+71001,Belo,45
+71002,Brezovica pri Medvodah,8
+71003,Dol,79
+71004,Dragoèajna,275
+71005,Golo Brdo,471
+71006,Gorièane,519
+71007,Hraše,453
+71008,Ladja,182
+71009,Medvode,5151
+71010,Moše,236
+71011,Osolnik,26
+71012,Rakovnik,339
+71013,Senièica,240
+71014,Setnica - del,17
+71015,Smlednik,562
+71016,Sora,479
+71017,Spodnja Senica,382
+71018,Spodnje Pirnièe,785
+71019,Studenèice,144
+71020,Tehovec,27
+71021,Topol pri Medvodah,177
+71022,Trnovec,167
+71023,Valburga,582
+71024,Vaše,559
+71025,Verje,509
+71026,Vikrèe,357
+71027,Zavrh pod Šmarno goro,212
+71028,Zbilje,879
+71029,Zgornja Senica,272
+71030,Zgornje Pirnièe,1334
+71031,Žlebe,564
+72,MENGEŠ,7708
+72001,Dobeno,235
+72002,Loka pri Mengšu,860
+72003,Mengeš,6399
+72004,Topole,214
+73,METLIKA,8382
+73001,Bereèa vas,187
+73002,Boginja vas,21
+73003,Bojanja vas,116
+73004,Boldraž,49
+73005,Boršt,60
+73006,Božakovo,130
+73007,Božiè Vrh,8
+73008,Brezovica pri Metliki,73
+73009,Bušinja vas,119
+73010,Èurile,158
+73011,Dole,37
+73012,Dolnja Lokvica,95
+73013,Dolnje Dobravice,75
+73014,Dolnji Suhor pri Metliki,69
+73015,Drage,23
+73016,Dragomlja vas,102
+73017,Drašièi,233
+73018,Geršièi,49
+73019,Gornja Lokvica,170
+73020,Gornje Dobravice,35
+73021,Gornji Suhor pri Metliki,90
+73022,Grabrovec,160
+73023,Gradac,385
+73024,Grm pri Podzemlju,47
+73025,Hrast pri Jugorju,120
+73026,Jugorje pri Metliki,30
+73027,Kamenica,9
+73028,Kapljišèe,33
+73029,Klošter,80
+73030,Krasinec,180
+73031,Krašnji Vrh,20
+73032,Krivoglavice,58
+73033,Križevska vas,221
+73034,Krmaèina,18
+73035,Maèkovec pri Suhorju,7
+73036,Malo Lešèe,30
+73037,Metlika,3225
+73038,Mlake,14
+73039,Okljuka,11
+73040,Otok,66
+73041,Podzemelj,145
+73042,Prilozje,32
+73043,Primostek,156
+73044,Radoši,11
+73045,Radovica,286
+73046,Radovièi,95
+73047,Rakovec,45
+73048,Ravnace,44
+73049,Rosalnice,389
+73050,Sela pri Jugorju,41
+73051,Slamna vas,121
+73052,Svržaki,114
+73053,Škemljevec,21
+73054,Škrilje,15
+73055,Trnovec,106
+73056,Vidošièi,27
+73057,Zemelj,51
+73058,Želebej,45
+73059,Železniki,25
+74,MEŽICA,3599
+74001,Breg,64
+74002,Lom,96
+74003,Mežica,3178
+74004,Onkraj Meže,79
+74005,Plat,58
+74006,Podkraj pri Mežici,124
+75,MIREN - KOSTANJEVICA,4825
+75001,Bilje,1200
+75002,Hudi Log,25
+75003,Korita na Krasu,45
+75004,Kostanjevica na Krasu,329
+75005,Lipa,101
+75006,Lokvica,79
+75007,Miren,1463
+75008,Nova vas,59
+75009,Novelo,47
+75010,Opatje selo,419
+75011,Orehovlje,473
+75012,Sela na Krasu,144
+75013,Temnica,157
+75014,Vojšèica,230
+75015,Vrtoèe,54
+76,MISLINJA,4577
+76001,Dovže,331
+76002,Gornji Doliè,499
+76003,Kozjak,413
+76004,Mala Mislinja,195
+76005,Mislinja,1865
+76006,Paka - del,51
+76007,Razborca,107
+76008,Srednji Doliè,248
+76009,Šentilj pod Turjakom,283
+76010,Tolsti Vrh pri Mislinji,161
+76011,Završe,424
+77,MORAVÈE,5271
+77001,Èešnjice pri Moravèah,237
+77002,Dešen,92
+77003,Dole pod Sv. Trojico,14
+77004,Dole pri Krašcah,208
+77005,Drtija,219
+77006,Dvorje,56
+77007,Gabrje pod Limbarsko Goro,52
+77008,Gora pri Peèah,138
+77009,Gorica,145
+77010,Gorièica pri Moravèah,94
+77011,Hrastnik,60
+77012,Hrib nad Ribèami,35
+77013,Imenje,107
+77014,Katarija,56
+77016,Krašce,115
+77017,Križate,34
+77018,Limbarska Gora,122
+77019,Moravèe,920
+77020,Mošenik,77
+77021,Negastrn,94
+77022,Peèe,209
+77023,Ples,60
+77024,Podgorica pri Peèah,57
+77025,Podstran,59
+77026,Pogled,52
+77027,Pretrž,29
+77028,Prikrnica,69
+77029,Rudnik pri Moravèah,25
+77030,Selce pri Moravèah,24
+77031,Selo pri Moravèah,56
+77032,Serjuèe,60
+77033,Soteska pri Moravèah,94
+77034,Spodnja Dobrava,37
+77035,Spodnja Javoršica,78
+77036,Spodnji Prekar,51
+77037,Spodnji Tuštanj,125
+77038,Stegne,184
+77039,Straža pri Moravèah,40
+77040,Sveti Andrej,56
+77041,Velika vas,55
+77042,Vinje pri Moravèah,82
+77043,Vrhpolje pri Moravèah,291
+77045,Zalog pri Kresnicah,41
+77046,Zalog pri Moravèah,188
+77047,Zgornja Dobrava,55
+77048,Zgornja Javoršica,101
+77049,Zgornje Koseze,96
+77050,Zgornji Prekar,41
+77051,Zgornji Tuštanj,81
+78,MORAVSKE TOPLICE,5847
+78001,Andrejci,193
+78002,Berkovci,44
+78003,Bogojina,540
+78004,Bukovnica,42
+78005,Èikeèka vas/Csekefa,70
+78006,Filovci,482
+78007,Fokovci,170
+78008,Ivanci,241
+78009,Ivanjševci,38
+78010,Ivanovci,131
+78011,Kanèevci,57
+78012,Krnci,57
+78013,Lonèarovci,54
+78014,Lukaèevci,71
+78015,Martjanci,530
+78016,Mlajtinci,192
+78017,Moravske Toplice,751
+78018,Motvarjevci/Szentlaszlo,149
+78019,Noršinci,244
+78020,Pordašinci/Kisfalu,39
+78021,Prosenjakovci/Partosfalva,187
+78022,Ratkovci,57
+78023,Sebeborci,463
+78024,Selo,254
+78025,Središèe/Szerdahaly,46
+78026,Suhi Vrh,118
+78027,Tešanovci,360
+78028,Vuèja Gomila,267
+79,MOZIRJE,4056
+79001,Brezje,263
+79002,Dobrovlje pri Mozirju,64
+79006,Lepa Njiva,456
+79007,Ljubija,528
+79008,Loke pri Mozirju,290
+79009,Mozirje,2021
+79013,Radegunda,276
+79018,Šmihel nad Mozirjem,158
+80,MURSKA SOBOTA,18924
+80001,Bakovci,1493
+80002,Èernelavci,1244
+80003,Krog,1141
+80004,Kupšinci,349
+80005,Markišavci,194
+80006,Murska Sobota,11244
+80007,Nemèavci,251
+80008,Polana,197
+80009,Rakièan,1559
+80010,Satahovci,301
+80011,Vešèica,420
+80012,Pušèa,531
+81,MUTA,3364
+81001,Gortina,613
+81002,Mlake,40
+81003,Muta,2184
+81004,Pernice,120
+81005,Sv. Primož nad Muto,286
+81006,Sv. Jernej nad Muto,121
+82,NAKLO,5283
+82001,Bistrica,65
+82002,Cegelnica,365
+82003,Gobovce,56
+82004,Malo Naklo,16
+82005,Naklo,1722
+82006,Okroglo,153
+82007,Podbrezje,790
+82008,Polica,110
+82009,Spodnje Duplje,526
+82010,Strahinj,733
+82011,Zadraga,95
+82012,Zgornje Duplje,541
+82013,Žeje,111
+83,NAZARJE,2582
+83001,Brdo,44
+83002,Èreta pri Kokarjah,24
+83003,Dobletina,115
+83004,Kokarje,175
+83005,Laèja vas,115
+83006,Nazarje,831
+83007,Potok,138
+83008,Pusto Polje,85
+83009,Rovt pod Menino,96
+83010,Spodnje Kraše,154
+83011,Šmartno ob Dreti,267
+83012,Volog,130
+83013,Zavodice,54
+83014,Žlabor,125
+83015,Prihova,229
+84,NOVA GORICA,31798
+84001,Ajševica,259
+84003,Banjšice,238
+84004,Bate,163
+84005,Branik,937
+84006,Brdo,56
+84007,Budihni,40
+84009,Èepovan,336
+84011,Dornberk,798
+84012,Draga,97
+84013,Gradišèe nad Prvaèino,507
+84014,Grgar,821
+84015,Grgarske Ravne,116
+84016,Kromberk,2085
+84017,Lazna,11
+84018,Loke,295
+84019,Lokovec,288
+84020,Lokve,112
+84025,Nemci,27
+84026,Nova Gorica,12997
+84027,Osek,426
+84029,Ozeljan,826
+84030,Potok pri Dornberku,156
+84031,Preserje,446
+84032,Pristava,388
+84033,Prvaèina,1245
+84034,Ravnica,230
+84037,Rožna Dolina,1085
+84038,Saksid,111
+84039,Solkan,3190
+84040,Spodnja Branica,103
+84041,Stara Gora,201
+84042,Steske,25
+84043,Šempas,1140
+84045,Šmaver,0
+84046,Šmihel,279
+84047,Tabor,181
+84048,Trnovo,365
+84049,Vitovlje,547
+84050,Voglarji,114
+84054,Zalošèe,416
+84056,Podgozd,48
+84057,Dragovica,56
+84058,Sveta Gora,17
+84059,Pedrovo,20
+85,NOVO MESTO,36503
+85002,Birèna vas,354
+85004,Borièevo,32
+85006,Brezje,18
+85009,Brezovica pri Stopièah,34
+85015,Èešèa vas,135
+85016,Èrešnjice,134
+85017,Èrmošnjice pri Stopièah,396
+85018,Daljni Vrh,109
+85021,Dobovo,21
+85023,Dolenja vas,88
+85026,Dolenje Grèevje,23
+85027,Dolenje Kamenje,83
+85028,Dolenje Karteljevo,107
+85030,Dolenje Lakovnice,74
+85035,Dolenji Suhadol,135
+85037,Dolnja Težka Voda,203
+85042,Dolž,326
+85049,Gabrje,598
+85053,Golušnik,16
+85056,Gorenje Grèevje,13
+85057,Gorenje Kamence,154
+85058,Gorenje Kamenje,98
+85059,Gorenje Karteljevo,167
+85060,Gorenje Kronovo,43
+85061,Gorenje Lakovnice,84
+85062,Gorenje Mraševo,36
+85067,Gorenji Suhadol,58
+85069,Gornja Težka Voda,103
+85077,Gumberk,74
+85078,Herinja vas,110
+85084,Hrib pri Orehku,66
+85085,Hrušica,167
+85086,Hudo,62
+85087,Iglenik,35
+85089,Jama,32
+85092,Jelše pri Otoècu,53
+85094,Jugorje,65
+85096,Jurna vas,112
+85100,Konec,78
+85101,Koroška vas,200
+85102,Koti,18
+85103,Križe,119
+85104,Kuzarjev Kal,49
+85106,Laze,70
+85108,Leskovec,52
+85109,Lešnica,108
+85113,Lutrško selo,192
+85115,Mala Cikava,111
+85117,Male Brusnice,47
+85119,Mali Cerovec,20
+85122,Mali Orehek,49
+85123,Mali Podljuben,38
+85125,Mali Slatnik,248
+85129,Mihovec,36
+85132,Novo mesto,23392
+85138,Otoèec,787
+85139,Paha,61
+85140,Pangrè Grm,52
+85141,Petane,34
+85142,Petelinjek,212
+85143,Plemberk,69
+85148,Podgrad,129
+85156,Potov Vrh,167
+85159,Preèna,407
+85161,Pristava,114
+85163,Rajnovšèe,31
+85164,Rakovnik pri Birèni vasi,34
+85165,Ratež,402
+85174,Sela pri Ratežu,50
+85175,Sela pri Štravberku,7
+85176,Sela pri Zajèjem Vrhu,59
+85180,Sevno,84
+85181,Smolenja vas,496
+85183,Srebrnièe,95
+85184,Srednje Grèevje,100
+85189,Stopièe,466
+85190,Stranska vas,451
+85193,Suhor,43
+85195,Šentjošt,100
+85197,Škrjanèe pri Novem mestu,43
+85201,Štravberk,29
+85202,Travni Dol,10
+85204,Trška Gora,214
+85205,Uršna sela,646
+85207,Velike Brusnice,504
+85208,Veliki Cerovec,138
+85211,Veliki Orehek,97
+85212,Veliki Podljuben,95
+85214,Veliki Slatnik,158
+85216,Verdun,99
+85219,Vinja vas,121
+85225,Vrh pri Ljubnu,88
+85226,Vrh pri Pahi,85
+85227,Vrhe,60
+85232,Zagrad pri Otoècu,52
+85233,Zajèji Vrh pri Stopièah,88
+85238,Ždinja vas,240
+85239,Žihovo selo,41
+86,ODRANCI,1637
+86001,Odranci,1637
+87,ORMOŽ,12316
+87002,Bresnica,250
+87003,Cerovec Stanka Vraza,126
+87004,Cvetkovci,449
+87005,Dobrava,128
+87006,Dobrovšèak,13
+87007,Drakšl,106
+87008,Frankovci,163
+87010,Gomila pri Kogu,158
+87014,Hajndl,121
+87015,Hardek,274
+87016,Hermanci,122
+87018,Hujbar,36
+87019,Hum pri Ormožu,310
+87020,Ivanjkovci,250
+87021,Jastrebci,143
+87022,Kajžar,149
+87023,Kog,232
+87025,Krèevina,46
+87026,Laèaves,140
+87027,Lahonci,335
+87028,Lešnica,191
+87029,Lešniški Vrh,38
+87030,Libanja,85
+87031,Litmerk,167
+87032,Loperšice,183
+87033,Lunovec,25
+87035,Mali Brebrovnik,156
+87037,Mihalovci,143
+87038,Mihovci pri Vel. Nedelji,549
+87039,Miklavž pri Ormožu,255
+87041,Ormož,2089
+87042,Osluševci,203
+87043,Pavlovci,205
+87044,Pavlovski Vrh,141
+87045,Podgorci,522
+87046,Preclava,39
+87048,Pušenci,227
+87050,Ritmerk,47
+87052,Runeè,176
+87056,Senešci,231
+87058,Sodinci,280
+87059,Spodnji Kljuèarovci,115
+87061,Stanovno,114
+87062,Strezetina,68
+87063,Strjanci,84
+87064,Strmec pri Ormožu,72
+87067,Šardinje,144
+87068,Trgovišèe,205
+87070,Velièane,122
+87071,Velika Nedelja,272
+87072,Veliki Brebrovnik,209
+87073,Vièanci,271
+87074,Vinski Vrh,259
+87075,Vitan,97
+87076,Vodranci,134
+87077,Vuzmetinci,138
+87079,Zasavci,56
+87080,Žerovinci,274
+87081,Žvab,89
+87082,Svetinje,55
+87083,Trstenik,35
+88,OSILNICA,372
+88001,Belica,6
+88002,Bezgarji,9
+88003,Bezgovica,10
+88004,Bosljiva Loka,25
+88005,Grintovec pri Osilnici,16
+88006,Križmani,11
+88007,Ložec,21
+88008,Malinišèe,2
+88009,Mirtovièi,7
+88010,Osilnica,82
+88011,Padovo pri Osilnici,24
+88012,Papeži,23
+88013,Podvrh,8
+88014,Ribjek,21
+88015,Sela,77
+88016,Spodnji Èaèiè,1
+88017,Strojièi,11
+88018,Zgornji Èaèiè,8
+88019,Žurge,10
+89,PESNICA,7391
+89001,Dolnja Poèehova,305
+89002,Draguèova,241
+89003,Drankovec,101
+89004,Flekušek,92
+89005,Gaènik,541
+89006,Jareninski Dol,386
+89007,Jareninski Vrh,215
+89008,Jelenèe,201
+89009,Kušernik,91
+89010,Ložane,105
+89011,Mali dol,62
+89012,Pernica,428
+89013,Pesnica pri Mariboru,843
+89014,Pesniški Dvor,80
+89015,Poèenik,105
+89016,Polièka vas,172
+89017,Polièki Vrh,177
+89018,Ranca,246
+89019,Roèica,226
+89020,Slatenik,47
+89021,Spodnje Dobrenje,438
+89022,Spodnje Hlapje,110
+89023,Spodnji Jakobski Dol,348
+89024,Vajgen,88
+89025,Vosek,312
+89026,Vukovje,335
+89027,Vukovski Dol,406
+89028,Vukovski Vrh,200
+89029,Zgornje Hlapje,163
+89030,Zgornji Jakobski Dol,327
+90,PIRAN/PIRANO,17829
+90001,Dragonja/Dragogna,417
+90002,Lucija/Lucia,6125
+90003,Nova vas nad Dragonjo,218
+90004,Padna,175
+90005,Parecag/Parezzago,1015
+90006,Piran/Pirano,3916
+90007,Portorož/Portorose,2956
+90008,Seèa/Sezza,1239
+90009,Seèovlje/Sicciole,788
+90010,Strunjan/Strugnano,574
+90011,Sv. Peter,406
+91,PIVKA,6064
+91001,Buje,54
+91002,Èepno,50
+91003,Dolnja Košana,340
+91004,Drskovèe,105
+91005,Gornja Košana,137
+91006,Gradec,55
+91007,Juršèe,155
+91008,Kal,348
+91009,Klenik,173
+91010,Mala Pristava,65
+91011,Nadanje selo,138
+91012,Narin,216
+91013,Neverke,114
+91014,Nova Sušica,101
+91015,Palèje,205
+91016,Parje,117
+91017,Petelinje,298
+91018,Pivka,2117
+91019,Ribnica,11
+91020,Selce,244
+91021,Slovenska vas,40
+91022,Stara Sušica,48
+91023,Suhorje,62
+91024,Šmihel,106
+91025,Šilentabor,10
+91026,Trnje,278
+91027,Velika Pristava,55
+91028,Volèe,66
+91029,Zagorje,356
+92,PODÈETRTEK,3325
+92002,Brezovec pri Polju,75
+92003,Cmereška Gorca,93
+92006,Golobinjek ob Sotli,51
+92007,Gostinca,83
+92009,Imeno,318
+92010,Imenska Gorca,74
+92011,Jerèin,50
+92014,Lastniè,157
+92015,Nezbiše,136
+92016,Pecelj,59
+92018,Podèetrtek,534
+92019,Polje ob Sotli,47
+92021,Prelasko,60
+92022,Pristava pri Lesiènem,52
+92023,Pristava pri Mestinju,203
+92024,Roginska Gorca,117
+92025,Rudnica,22
+92026,Sedlarjevo,66
+92027,Sela,123
+92029,Sodna vas,68
+92032,Sv. Ema,200
+92034,Veraèe,112
+92035,Vidovica,59
+92036,Virštanj,211
+92037,Vonarje,90
+92039,Olimje,265
+93,PODVELKA,2371
+93001,Brezno,438
+93003,Janževski Vrh,242
+93004,Javnik,161
+93006,Kozji Vrh,62
+93007,Lehen na Pohorju,159
+93008,Ožbalt,258
+93009,Podvelka,302
+93010,Rdeèi Breg - del,88
+93012,Spodnja Kapla,338
+93013,Vurmat - del,164
+93014,Zgornja Kapla,159
+94,POSTOJNA,16068
+94001,Belsko,214
+94002,Brezje pod Nanosom,50
+94003,Bukovje,169
+94004,Dilce,154
+94005,Gorenje,100
+94006,Gorièe,79
+94007,Grobišèe,79
+94008,Hrašèe,443
+94009,Hrenovice,183
+94010,Hruševje,261
+94011,Koèe,271
+94012,Landol,157
+94013,Liplje,21
+94014,Lohaèa,32
+94015,Mala Brda,46
+94016,Mali Otok,83
+94017,Malo Ubeljsko,53
+94018,Matenja vas,329
+94019,Orehek,203
+94020,Planina,798
+94021,Postojna,9393
+94022,Predjama,80
+94023,Prestranek,773
+94024,Rakitnik,163
+94025,Rakulik,21
+94026,Razdrto,189
+94027,Sajevèe,36
+94028,Slavina,222
+94029,Slavinje,66
+94030,Stara vas,130
+94031,Strane,68
+94032,Strmca,84
+94033,Studenec,76
+94034,Studeno,294
+94035,Šmihel pod Nanosom,197
+94036,Velika Brda,43
+94037,Veliki Otok,161
+94038,Veliko Ubeljsko,96
+94039,Zagon,201
+94040,Žeje,50
+95,PREDDVOR,3582
+95001,Bašelj,439
+95002,Breg ob Kokri,104
+95003,Hraše pri Preddvoru,24
+95004,Hrib,70
+95005,Kokra,257
+95006,Maèe,142
+95007,Možjanca,56
+95008,Nova vas,127
+95009,Potoèe,361
+95010,Preddvor,870
+95011,Spodnja Bela,94
+95013,Srednja Bela,325
+95014,Tupalièe,403
+95015,Zgornja Bela,310
+96,PTUJ,23129
+96005,Grajena,344
+96006,Grajenšèak,501
+96008,Kicar,802
+96009,Krèevina pri Vurbergu,896
+96011,Mestni Vrh,660
+96013,Pacinje,228
+96014,Podvinci,840
+96016,Ptuj,17769
+96021,Spodnji Velovlek,206
+96022,Spuhlja,883
+97,PUCONCI,5990
+97001,Beznovci,158
+97002,Bodonci,424
+97003,Bokraèi,67
+97004,Brezovci,253
+97005,Dankovci,141
+97006,Dolina,201
+97007,Gorica,287
+97008,Kuštanovci,167
+97009,Lemerje,286
+97010,Maèkovci,206
+97011,Mošèanci,274
+97012,Otovci,219
+97013,Peèarovci,402
+97014,Poznanovci,184
+97015,Predanovci,175
+97016,Proseèka vas,122
+97017,Puconci,617
+97018,Puževci,178
+97019,Strukovci,152
+97020,Šalamenci,296
+97021,Vadarci,337
+97022,Vaneèa,466
+97023,Zenkovci,378
+98,RAÈE - FRAM,7105
+98001,Brezula,267
+98002,Fram,1017
+98003,Ješenca,512
+98004,Kopivnik,234
+98005,Loka pri Framu,162
+98006,Morje,1120
+98007,Planica,137
+98008,Podova,270
+98009,Požeg,75
+98010,Raèe,2691
+98011,Ranèe,200
+98012,Spodnja Gorica,262
+98013,Zgornja Gorica,118
+98014,Šestdobe,40
+99,RADEÈE,4279
+99001,Brunk,9
+99002,Brunška Gora,78
+99003,Èimerno,37
+99004,Dobrava,51
+99005,Goreljce,74
+99006,Hotemež,88
+99007,Jagnjenica,299
+99008,Jelovo,142
+99009,Log pri Vrhovem,93
+99010,Loška Gora,8
+99011,Moèilno,105
+99012,Njivice,107
+99013,Poèakovo,131
+99014,Prapretno,70
+99015,Radeèe,2066
+99016,Rudna vas,17
+99017,Stari Dvor,62
+99018,Svibno,160
+99019,Vrhovo,253
+99020,Zagrad,92
+99021,Zavrate,21
+99022,Žebnik,155
+99023,Obrežje,161
+100,RADENCI,5138
+100001,Boraèeva,420
+100002,Hrastje-Mota,366
+100003,Hrašenski Vrh,104
+100004,Janžev Vrh,263
+100005,Kapelski Vrh,230
+100006,Kobilšèak,49
+100007,Kocjan,49
+100008,Melanjski Vrh,25
+100009,Murski Vrh,98
+100010,Muršèak,147
+100011,Okoslavci,238
+100012,Parièjak,217
+100013,Raèki Vrh,81
+100014,Radenci,2134
+100015,Radenski Vrh,159
+100016,Rihtarovci,104
+100017,Spodnji Kocjan,60
+100018,Šratovci,176
+100019,Turjanci,98
+100020,Turjanski Vrh,72
+100021,Zgornji Kocjan,29
+100022,Žrnova,19
+101,RADLJE OB DRAVI,6215
+101001,Brezni Vrh,158
+101002,Dobrava,211
+101003,Radelca,95
+101004,Radlje ob Dravi,2815
+101005,Remšnik,210
+101006,Spodnja Orlica,109
+101007,Spodnja Vižinga,299
+101008,Sv. Anton na Pohorju,254
+101009,Sv. Trije Kralji,212
+101010,Št. Janž pri Radljah,293
+101011,Vas,428
+101012,Vuhred,720
+101013,Zgornja Vižinga,266
+101014,Zgornji kozji Vrh,145
+102,RADOVLJICA,18816
+102001,Begunje na Gorenjskem,964
+102002,Brda,51
+102003,Brezje,492
+102004,Brezovica,144
+102005,Èešnjica pri Kropi,104
+102006,Èrnivec,270
+102007,Dobravica,33
+102008,Dobro Polje,130
+102009,Dvorska vas,166
+102010,Globoko,39
+102011,Gorica,87
+102012,Hlebce,272
+102013,Hraše,224
+102014,Kamna Gorica,531
+102015,Kropa,752
+102016,Lancovo,494
+102017,Lesce,2837
+102018,Lipnica,51
+102019,Ljubno,440
+102020,Mišaèe,72
+102021,Mlaka,33
+102022,Mošnje,429
+102023,Noše,4
+102024,Nova vas pri Lescah,208
+102025,Otoèe,172
+102026,Ovsiše,215
+102027,Peraèica,33
+102028,Podnart,331
+102029,Poljèe,202
+102030,Poljšica pri Podnartu,104
+102031,Posavec,381
+102032,Praproše,33
+102033,Prezrenje,75
+102034,Radovljica,6011
+102035,Ravnica,32
+102036,Rovte,45
+102037,Slatna,65
+102038,Spodnja Dobrava,46
+102039,Spodnja Lipnica,187
+102040,Spodnji Otok,107
+102041,Srednja Dobrava,139
+102042,Srednja vas,25
+102043,Studenèice,99
+102044,Vošèe,52
+102045,Vrbnje,357
+102046,Zadnja vas,35
+102047,Zaloše,90
+102048,Zapuže,388
+102049,Zgornja Dobrava,147
+102050,Zgornja Lipnica,171
+102051,Zgornji Otok,66
+102052,Zgoša,381
+103,RAVNE NA KOROŠKEM,11342
+103002,Brdinje,633
+103004,Dobja vas,693
+103005,Dobrije,91
+103007,Koroški Selovec,105
+103009,Kotlje,1040
+103012,Navrški Vrh,84
+103013,Podgora,314
+103014,Podkraj,85
+103016,Preški Vrh,185
+103018,Ravne na Koroškem,6675
+103019,Sele - del,0
+103020,Stražišèe,214
+103021,Strojna,109
+103024,Tolsti Vrh p. R. Na K. - del,910
+103025,Uršlja Gora,29
+103027,Zelen Breg,175
+104,RIBNICA,9347
+104001,Andol,19
+104003,Blate,49
+104004,Breg pri Ribnici na Dol.,319
+104005,Breže,155
+104006,Brinovšèica,16
+104008,Bukovec pri Poljanah,9
+104009,Bukovica,100
+104010,Èrnec,20
+104011,Èrni Potok pri Vel. Lašèah,25
+104012,Dane,66
+104013,Dolenja vas,734
+104014,Dolenje Podpoljane,57
+104015,Dolenji Lazi,306
+104016,Dule,3
+104017,Finkovo,4
+104018,Gašpinovo,7
+104020,Gorenje Podpoljane,21
+104021,Gorenji Lazi,48
+104022,Gorièa vas,385
+104023,Graben,20
+104024,Grèarice,151
+104025,Grèarske Ravne,8
+104026,Grebenje,11
+104027,Griè,339
+104028,Hojèe,16
+104029,Hrovaèa,285
+104030,Hudi Konec,30
+104032,Jelendol,0
+104033,Jelenov Žleb,0
+104035,Junèje,24
+104036,Jurjevica,201
+104037,Kot pri Rakitnici,6
+104038,Kot pri Ribnici,113
+104041,Krnèe,12
+104043,Levstiki,7
+104044,Lipovec,142
+104046,Makoše,6
+104047,Marolèe,33
+104048,Maršièi,19
+104049,Nemška vas,246
+104052,Ortnek,14
+104053,Otavice,124
+104054,Perovo,10
+104057,Praproèe,39
+104059,Prigorica,386
+104060,Pugled pri Karlovici,6
+104061,Pusti Hrib,13
+104062,Rakitnica,254
+104064,Ribnica,3543
+104065,Rigelj pri Ortneku,11
+104066,Sajevec,154
+104068,Slatnik,123
+104070,Sušje,119
+104071,Sv. Gregor,63
+104072,Škrajnek,5
+104073,Velike Poljane,138
+104075,Vintarji,15
+104076,Vrh pri Poljanah,6
+104077,Zadniki,13
+104078,Zadolje,12
+104081,Zapuže pri Ribnici,23
+104082,Zlati Rep,8
+104084,Žlebiè,247
+104085,Žukovo,9
+105,ROGAŠOVCI,3111
+105001,Fikšinci,170
+105002,Kramarovci,46
+105003,Nuskova,275
+105004,Ocinje,42
+105005,Pertoèa,419
+105006,Rogašovci,244
+105007,Ropoèa,211
+105008,Serdica,556
+105009,Sotina,323
+105010,Sveti Jurij,463
+105011,Veèeslavci,362
+106,ROGAŠKA SLATINA,10958
+106001,Brestovec,161
+106002,Brezje pri Podplatu,60
+106003,Cerovec pod Boèem,368
+106004,Ceste,119
+106005,Èaèa vas,150
+106006,Drevenik,78
+106007,Gabrce,55
+106008,Gabrovec pri Kostrivnici,60
+106009,Gradiški Dol,28
+106010,Irje,336
+106011,Kaèji Dol,158
+106012,Kamence,109
+106013,Kamna Gorca,106
+106014,Male Rodne,128
+106015,Nimno,93
+106016,Plat,88
+106017,Podplat,127
+106018,Podturn,77
+106019,Pristavica,62
+106020,Prnek,120
+106021,Rajnkovec,86
+106022,Ratanska vas,81
+106023,Rjavica,158
+106024,Rogaška Slatina,4980
+106025,Spodnja Kostrivnica,124
+106026,Spodnje Negonje,283
+106027,Spodnje Seèovo,436
+106028,Spodnji Gabernik,114
+106029,Strmec pri sv. Florijanu,149
+106030,Sv. Florijan,355
+106031,Tekaèevo,224
+106032,Topole,216
+106033,Tržišèe,174
+106034,Tuncovec,160
+106035,Velike Rodne,182
+106036,Vinec,28
+106037,Zagaj pod Boèem,196
+106038,Zgornja Kostrivnica,150
+106039,Zgornje Negonje,145
+106040,Zgornje Seèovo,102
+106041,Zgornji Gabernik,132
+107,ROGATEC,3093
+107001,Brezovec pri Rogatcu,48
+107002,Dobovec pri Rogatcu,278
+107003,Donaèka Gora,177
+107004,Log,228
+107005,Rogatec,1520
+107006,Sv. Jurij,137
+107007,Tlake,318
+107008,Trlièno,118
+107009,Žahenberc,269
+108,RUŠE,7150
+108001,Bezena,555
+108002,Bistrica ob Dravi,1297
+108006,Fala,73
+108010,Lobnica,154
+108011,Log,400
+108016,Ruše,4380
+108019,Smolnik,291
+109,SEMIÈ,3780
+109001,Blatnik pri Èrmošnjicah,19
+109002,Brezje pri Rožnem Dolu,9
+109003,Brezje pri Vinjem Vrhu,13
+109004,Brezova Reber,42
+109005,Brezovica pri Èrmošnjicah,8
+109006,Brstovec,30
+109007,Cerovec pri Èrešnjevcu,67
+109009,Èrešnjevec pri Semièu,91
+109010,Èrmošnjice,141
+109011,Gaber pri Èrmošnjicah,0
+109013,Gornje Laze,33
+109014,Gradnik,64
+109015,Hrib pri Cerovcu,12
+109016,Hrib pri Rožnem Dolu,0
+109017,Kal,87
+109019,Komarna vas,6
+109021,Krupa,45
+109022,Krvavèji Vrh,80
+109023,Lipovec,34
+109024,Maline pri Štrekljevcu,25
+109025,Mašelj,0
+109027,Moverna vas,28
+109028,Nestoplja vas,26
+109029,Omota,49
+109030,Oskoršnica,65
+109031,Osojnik,123
+109032,Planina,7
+109033,Podreber,67
+109034,Potoki,18
+109035,Praproèe,20
+109036,Praprot,52
+109037,Preloge,5
+109038,Pribišje,21
+109039,Pugled,16
+109040,Rožni Dol,50
+109043,Sela pri Vrèicah,13
+109044,Semiè,1982
+109045,Sodji Vrh,24
+109046,Sredgora,0
+109047,Srednja vas,62
+109048,Starihov Vrh,20
+109049,Stranska vas pri Semièu,58
+109050,Štrekljevec,111
+109052,Trebnji Vrh,13
+109054,Vinji Vrh pri Semièu,49
+109055,Vrèice,49
+109057,Sovinek,46
+110,SEVNICA,17510
+110001,Apnenik pri Boštanju,40
+110002,Arto,396
+110003,Birna vas,55
+110004,Blanca,238
+110005,Boštanj,289
+110006,Breg,142
+110007,Brezovo,55
+110008,Budna vas,89
+110009,Cerovec,53
+110010,Èanje,103
+110011,Èelovnik,28
+110012,Èešnjice,13
+110013,Dedna Gora,7
+110014,Dolenji Boštanj,677
+110015,Dolnje Brezovo,156
+110016,Dolnje Impolje,26
+110017,Dolnje Orle,27
+110018,Drožanje,130
+110019,Drušèe,64
+110020,Gabrijele,235
+110021,Gabrje,34
+110022,Gornje Brezovo,54
+110023,Gornje Impolje,19
+110024,Gornje Orle,52
+110025,Goveji Dol,26
+110026,Hudo Brezje,104
+110027,Jablanica,170
+110028,Jelovec,44
+110029,Jeperjek,42
+110030,Kal pri Krmelju,66
+110031,Kamenica,44
+110032,Kaplja vas,51
+110033,Kladje nad Blanco,157
+110034,Kladje pri Krmelju,62
+110035,Koludrje,48
+110036,Kompolje,80
+110037,Konjsko,72
+110038,Krajna Brda,90
+110039,Križ,103
+110040,Krmelj,646
+110041,Krsinji Vrh,36
+110042,Laze pri Boštanju,29
+110043,Ledina,238
+110044,Leskovec v Podborštu,89
+110045,Log,337
+110046,Loka pri Zidanem Mostu,500
+110047,Lonèarjev Dol,216
+110048,Lukovec,192
+110049,Mala Hubajnica,39
+110050,Malkovec,156
+110051,Metni Vrh,181
+110052,Mrtovec,89
+110053,Mrzla Planina,101
+110054,Novi Grad,40
+110055,Okroglice,94
+110056,Orehovo,233
+110057,Orešje nad Sevnico,149
+110058,Osredek pri Hubajnici,15
+110059,Osredek pri Krmelju,126
+110060,Otavnik,26
+110061,Pavla vas,62
+110062,Peèje,119
+110063,Pijavice,65
+110064,Podboršt,89
+110065,Podgorica,106
+110066,Podgorje ob Sevnièni,130
+110067,Podvrh,86
+110068,Poklek nad Blanco,209
+110069,Polje pri Tržišèu,89
+110070,Ponikve pri Studencu,58
+110071,Preska,22
+110072,Prešna Loka,74
+110073,Primož,28
+110074,Raèica,203
+110075,Radež,124
+110076,Radna,81
+110077,Razbor,151
+110078,Rogaèice,39
+110079,Rovišèe pri Studencu,142
+110080,Selce nad Blanco,58
+110081,Sevnica,4572
+110082,Skrovnik,61
+110083,Slanèji Vrh,49
+110084,Slap,16
+110085,Spodnje Mladetièe,56
+110086,Spodnje Vodale,130
+110087,Srednik,61
+110088,Stržišèe,59
+110089,Studenec,190
+110090,Svinjsko,51
+110091,Šentjanž,399
+110092,Šentjur na Polju,90
+110093,Škovec,68
+110094,Šmarèna,92
+110095,Štajngrob,41
+110096,Telèe,79
+110097,Telèice,54
+110098,Trnovec,131
+110099,Tršèina,56
+110100,Tržišèe,206
+110101,Velika Hubajnica,27
+110102,Veliki Cirnik,65
+110103,Vranje,113
+110104,Vrh pri Boštanju,219
+110105,Vrhek,103
+110106,Zabukovje nad Sevnico,168
+110107,Zavratec,81
+110108,Zgornje Mladetièe,76
+110109,Zgornje Vodale,19
+110110,Znojile pri Studencu,7
+110111,Žigrski Vrh,170
+110112,Žirovnica,26
+110113,Žurkov Dol,200
+110114,Hinje,44
+110115,Kamenško,19
+110116,Hinjce,34
+110117,Brezje,16
+110118,Križišèe,37
+110119,Marendol,17
+111,SEŽANA,13160
+111001,Avber,111
+111002,Bogo,8
+111003,Brestovica pri Povirju,45
+111004,Brje pri Koprivi,38
+111005,Dane pri Sežani,387
+111006,Dobravlje,73
+111007,Dol pri Vogljah,115
+111008,Dolenje,25
+111009,Dutovlje,701
+111010,Filipèje Brdo,31
+111011,Godnje,86
+111012,Gorenje pri Divaèi,140
+111013,Gradišèe pri Štjaku,2
+111014,Gradnje,14
+111015,Grahovo Brdo,42
+111016,Griže,47
+111017,Hribi,5
+111018,Jakovce,23
+111019,Kazlje,186
+111020,Kopriva,176
+111021,Kosovelje,48
+111022,Krajna vas,113
+111023,Kregolišèe,18
+111024,Kreplje,136
+111025,Križ,660
+111026,Krtinovica,8
+111027,Lipica,59
+111028,Lokev,790
+111029,Mahnièi,15
+111030,Majcni,58
+111031,Merèe,108
+111032,Nova vas,2
+111033,Orlek,184
+111034,Plešivica,81
+111035,Pliskovica,224
+111036,Podbreže,34
+111037,Poljane pri Štjaku,4
+111038,Ponikve,130
+111039,Povir,338
+111040,Prelože pri Lokvi,80
+111041,Pristava,1
+111042,Raša,0
+111043,Ravnje,51
+111044,Razguri,35
+111045,Sela,47
+111046,Selo,13
+111047,Senadolice,12
+111048,Sežana,5665
+111049,Skopo,226
+111050,Stomaž,41
+111051,Šepulje,112
+111052,Šmarje pri Sežani,292
+111053,Štjak,64
+111054,Štorje,340
+111055,Tabor,12
+111056,Tomaj,328
+111057,Tublje pri Komnu,38
+111058,Utovlje,37
+111059,Veliki Dol,123
+111060,Veliko Polje,62
+111061,Voglje,71
+111062,Vrabèe,54
+111063,Vrhovlje,97
+111064,Žirje,94
+112,SLOVENJ GRADEC,16720
+112001,Brda,286
+112002,Gmajna,466
+112003,Golavabuka,176
+112004,Gradišèe,313
+112005,Graška Gora,113
+112006,Legen,1077
+112007,Mislinjska Dobrava,740
+112008,Pameèe,1296
+112009,Podgorje,989
+112010,Raduše,221
+112011,Sele,251
+112012,Slovenj Gradec,7380
+112013,Spodnji Razbor,193
+112014,Stari trg,654
+112015,Šmartno pri Slovenj Gradcu,1231
+112016,Šmiklavž,150
+112017,Tomaška vas,133
+112018,Troblje,340
+112019,Turiška vas,147
+112020,Vodriž,110
+112021,Vrhe,319
+112022,Zgornji Razbor,135
+113,SLOVENSKA BISTRICA,25413
+113001,Bojtina,79
+113005,Brezje pri Slov. Bistrici,21
+113006,Bukovec,392
+113007,Cezlak,30
+113008,Cigonca,210
+113011,Èrešnjevec,518
+113012,Devina,227
+113016,Dolgi Vrh,85
+113017,Drumlažno,26
+113018,Farovec,51
+113019,Fošt,83
+113020,Frajhajm,151
+113021,Gabernik,549
+113022,Gaj,655
+113023,Gladomes,420
+113026,Hošnica,199
+113029,Ješovec,18
+113030,Jurišna vas,75
+113031,Kalše,139
+113032,Kebelj,140
+113033,Klopce,161
+113034,Koèno ob Ložnici,178
+113035,Koèno pri Polskavi,108
+113037,Korplje,45
+113038,Kostanjevec,305
+113039,Kot na Pohorju,158
+113040,Kovaèa vas,549
+113044,Križni Vrh,278
+113046,Laporje,420
+113047,Leskovec,603
+113048,Leviè,114
+113050,Lokanja vas,111
+113053,Lukanja,7
+113057,Malo Tinje,79
+113060,Modriè,130
+113062,Nadgrad,57
+113064,Ogljenšak,196
+113067,Ošelj,77
+113069,Planina pod Šumikom,94
+113072,Podgrad na Pohorju,71
+113073,Pokoše,186
+113075,Pragersko,1140
+113076,Preloge,138
+113077,Prepuž,139
+113078,Pretrež,180
+113081,Razgor pri Žabljeku,102
+113082,Rep,48
+113083,Ritoznoj,212
+113085,Sele pri Polskavi,165
+113086,Sevec,43
+113087,Slovenska Bistrica,7894
+113088,Smreèno,88
+113090,Spodnja Ložnica,158
+113091,Spodnja Nova vas,210
+113092,Spodnja Polskava,939
+113094,Spodnje Prebukovje,140
+113097,Stari log,249
+113103,Šentovec,92
+113104,Šmartno na Pohorju,169
+113106,Tinjska Gora,273
+113107,Trnovec pri Slovenski Bistrici,83
+113108,Turiška vas na Pohorju,88
+113110,Urh,72
+113112,Veliko Tinje,147
+113113,Videž,152
+113114,Vinarje,242
+113115,Visole,545
+113116,Vrhloga,252
+113117,Vrhole pri Laporju,168
+113118,Vrhole pri Slov. Konjicah,370
+113119,Zgornja Bistrica,607
+113120,Zgornja Brežnica,70
+113121,Zgornja Ložnica,393
+113122,Zgornja Nova vas,78
+113123,Zgornja Polskava,1250
+113126,Zgornje Prebukovje,168
+113129,Žabljek,167
+113130,Nova Gora nad Slov. Bistrico,146
+113131,Radkovec,41
+114,SLOVENSKE KONJICE,14623
+114001,Bezina,570
+114002,Blato,109
+114003,Brdo,94
+114004,Breg pri Konjicah,144
+114005,Brezje pri Loèah,116
+114006,Dobrava pri Konjicah,82
+114007,Dobrnež,120
+114008,Draža vas,527
+114009,Gabrovlje,63
+114010,Gabrovnik,211
+114011,Sveti Jernej,185
+114012,Kamna Gora,102
+114013,Klokoèovnik,184
+114014,Koble,118
+114015,Kolaèno,48
+114016,Konjiška vas,208
+114017,Kraberk,72
+114018,Spodnji Jernej,30
+114019,Lièenca,184
+114020,Lipoglav,209
+114021,Loèe,644
+114022,Mali Breg,61
+114023,Mlaèe,241
+114024,Nova vas pri Konjicah,78
+114025,Novo Tepanje,65
+114026,Ostrožno pri Loèah,16
+114027,Penoje,34
+114028,Perovec,37
+114029,Petelinjek pri Loèah,46
+114030,Podob,19
+114031,Podpeè ob Dravinji,57
+114032,Polene,229
+114033,Preloge pri Konjicah,152
+114034,Prežigal,23
+114035,Selski Vrh,80
+114036,Slovenske Konjice,5001
+114037,Sojek,102
+114038,Spodnja Pristava,35
+114039,Spodnje Grušovje,196
+114040,Spodnje Laže,151
+114041,Spodnje Preloge,331
+114042,Stare Slemene,107
+114043,Strtenik,55
+114044,Suhadol,52
+114045,Škalce,434
+114046,Škedenj,71
+114047,Špitaliè pri Slov. Konjicah,8
+114048,Tepanje,520
+114049,Tepanjski Vrh,143
+114050,Tolsti Vrh,103
+114051,Vešenik,413
+114052,Zbelovo,250
+114053,Zbelovska Gora,319
+114054,Zeèe,235
+114055,Zgornja Pristava,166
+114056,Zgornje Laže,136
+114057,Žièe,594
+114058,Štajerska vas,43
+115,STARŠE,4072
+115001,Brunšvik,423
+115002,Loka,278
+115003,Marjeta na Dravskem polju,476
+115004,Prepolje,528
+115005,Rošnja,415
+115006,Starše,769
+115007,Trnièe,410
+115008,Zlatolièje,773
+116,SVETI JURIJ,2863
+116001,Biserjane,74
+116002,Blaguš,64
+116003,Bolehneèici,122
+116004,Brezje,31
+116005,Èakova,80
+116006,Dragotinci,127
+116007,Gabrc,21
+116008,Galušak,61
+116009,Grabonoš,200
+116010,Grabšinci,68
+116011,Jamna,129
+116012,Koèki Vrh,42
+116013,Kokolajnšèak,78
+116014,Kraljevci,147
+116015,Kupetinci,66
+116016,Kutinci,43
+116017,Mali Moravšèak,17
+116018,Rožièki Vrh,220
+116019,Selišèi,111
+116020,Slaptinci,132
+116021,Sovjak,308
+116022,Stanetinci,110
+116023,Stara Gora,79
+116024,Terbegovci,139
+116025,Sveti jurij ob Šèavnici,211
+116026,Ženik,108
+116027,Žihlava,75
+117,ŠENÈUR,8580
+117001,Hotemaže,489
+117003,Luže,321
+117004,Milje,447
+117005,Olševek,351
+117006,Prebaèevo,514
+117007,Srednja vas pri Šenèurju,504
+117008,Šenèur,3239
+117009,Trboje,660
+117010,Visoko,856
+117011,Voglje,652
+117012,Voklo,478
+117013,Žerjavka,69
+118,ŠENTILJ,8339
+118001,Ceršak,698
+118002,Cirknica,113
+118003,Zgornji Dražen Vrh,121
+118004,Jurjevski Dol,64
+118005,Kaniža,226
+118006,Kozjak pri Ceršaku,148
+118007,Kresnica,142
+118008,Plodršnica,117
+118009,Selnica ob Muri,1027
+118010,Sladki Vrh,710
+118011,Spodnja Velka,450
+118012,Srebotje,124
+118013,Stara Gora pri Šentilju,88
+118014,Sveèane,188
+118015,Šentilj v Slov. goricah,2014
+118016,Šomat,184
+118017,Štrihovec,260
+118018,Trate,263
+118019,Vranji Vrh,416
+118020,Zgornja Velka,758
+118021,Zgornje Dobrenje,96
+118022,Zgornje Gradišèe,132
+119,ŠENTJERNEJ,6993
+119001,Apnenik,37
+119002,Breška vas,21
+119003,Brezje pri Šentjerneju,59
+119004,Cerov Log,227
+119005,Èadraže,92
+119006,Èisti Breg,21
+119007,Dobravica,152
+119008,Dolenja Brezovica,151
+119009,Dolenja Stara vas,161
+119010,Dolenje Gradišèe pri Šentj.,126
+119011,Dolenje Mokro Polje,148
+119012,Dolenje Vrhpolje,146
+119013,Dolenji Maharovec,136
+119014,Drama,93
+119015,Drèa,25
+119016,Gorenja Brezovica,207
+119017,Gorenja Gomila,97
+119018,Gorenja Stara vas,92
+119019,Gorenje Gradišèe pri Šentj.,102
+119020,Gorenje Mokro Polje,51
+119021,Gorenje Vrhpolje,346
+119022,Gorenji Maharovec,88
+119023,Groblje pri Prekopi,212
+119024,Gruèa,58
+119025,Hrastje,121
+119026,Hrvaški Brod,70
+119027,Imenje,18
+119028,Javorovica,34
+119029,Ledeèa vas,89
+119030,Loka,104
+119031,Mali Ban,24
+119032,Mihovica,189
+119033,Mihovo,101
+119034,Mršeèa vas,41
+119035,Orehovica,216
+119036,Ostrog,173
+119037,Polhovica,59
+119038,Prapreèe pri Šentjerneju,62
+119039,Pristava pri Šentjerneju,50
+119040,Pristavica,31
+119041,Rakovnik,10
+119042,Razdrto,38
+119043,Roje,99
+119044,Sela pri Šentjerneju,101
+119045,Šentjakob,35
+119046,Šentjernej,1451
+119047,Šmalèja vas,143
+119048,Šmarje,112
+119049,Tolsti Vrh,128
+119050,Veliki Ban,70
+119051,Volèkova vas,90
+119052,Vratno,68
+119053,Vrbovce,67
+119054,Vrh pri Šentjerneju,138
+119055,Zameško,96
+119056,Zapuže,70
+119057,Žerjavin,8
+119058,Žvabovo,39
+120,ŠENTJUR,18990
+120001,Bezovje pri Šentjurju,104
+120002,Bobovo pri Ponikvi,68
+120003,Boletina,144
+120004,Botriènica,143
+120005,Brdo,70
+120006,Brezje ob Slomu,82
+120008,Bukovje pri Slivnici,151
+120009,Cerovec,157
+120010,Èrnolica,45
+120011,Dobje pri Lesiènem,84
+120013,Dobovec pri Ponikvi,81
+120014,Dobrina,173
+120015,Dole,171
+120016,Dolga Gora,277
+120017,Doropolje,169
+120018,Dramlje,427
+120019,Drobinsko,53
+120020,Golobinjek pri Planini,43
+120022,Gorica pri Slivnici,577
+120023,Gorièica,210
+120024,Grobelno - del,195
+120025,Grušce,75
+120026,Hotunje,283
+120027,Hrastje,137
+120028,Hruševec,31
+120029,Hrušovje,20
+120030,Jakob pri Šentjurju,134
+120031,Jarmovec,112
+120032,Javorje,179
+120033,Jazbin Vrh,34
+120034,Jazbine,50
+120035,Jelce,107
+120037,Kalobje,70
+120038,Kameno,137
+120039,Kostrivnica,190
+120040,Košnica,118
+120041,Krajnèica,227
+120042,Krivica,167
+120043,Laze pri Dramljah,162
+120045,Loka pri Žusmu,384
+120046,Lokarje,113
+120047,Loke pri Planini,95
+120048,Lopaca,132
+120049,Lutrje,202
+120050,Marija Dobje,191
+120051,Okrog,100
+120052,Osredek,76
+120053,Ostrožno pri Ponikvi - del,133
+120054,Paridol,127
+120055,Planina pri Sevnici,380
+120056,Planinca,51
+120057,Planinska vas,76
+120058,Planinski Vrh,63
+120059,Pletovarje,165
+120060,Podgaj,95
+120061,Podgrad,199
+120062,Podlešje,45
+120063,Podlog pod Bohorjem,66
+120064,Podpeè nad Marofom,26
+120065,Podpeè pri Šentvidu,52
+120066,Podvine,69
+120067,Ponikva,483
+120068,Ponkvica,39
+120069,Prapretno,76
+120071,Primož pri Šentjurju,244
+120072,Proseniško,526
+120073,Rakitovec,54
+120075,Razbor,182
+120076,Repno,63
+120078,Rifnik,168
+120079,Sele,23
+120081,Slatina pri Ponikvi,121
+120082,Slivnica pri Celju,115
+120083,Sotensko pod Kalobjem,24
+120084,Spodnje Slemene,15
+120085,Srževica,94
+120086,Stopèe,241
+120087,Straška Gorca,92
+120088,Straža na Gori,112
+120090,Svetelka,250
+120091,Šedina,111
+120092,Šentjur,4839
+120093,Šentvid pri Planini,112
+120094,Šibenik,106
+120096,Tajhte,63
+120097,Tratna ob Voglajni,20
+120098,Tratna pri Grobelnem,281
+120099,Trno,48
+120100,Trnovec pri Dramljah,131
+120101,Trška Gorca,42
+120102,Turno,110
+120103,Uniše,43
+120105,Vejice,21
+120106,Vezovje,60
+120107,Visoèe,71
+120108,Vodice pri Kalobju,71
+120109,Vodice pri Slivnici,28
+120110,Vodruž,228
+120111,Voduce,160
+120112,Vodule,95
+120113,Voglajna,38
+120114,Vrbno,420
+120115,Zagaj pri Ponikvi,110
+120116,Zalog pod Uršulo,47
+120118,Zgornje Selce,84
+120119,Zgornje Slemene,15
+120120,Zlateèe pri Šentjurju,101
+120121,Žegar,116
+121,ŠKOCJAN,3236
+121001,Buèka,117
+121002,Èuèja Mlaka,23
+121003,Dobrava pri Škocjanu,215
+121004,Dobruška vas,360
+121005,Dolenje Dole,85
+121006,Dolenje Radulje,76
+121007,Dolnja Stara vas,117
+121008,Dule,48
+121009,Gabrnik,11
+121010,Gorenje Dole,50
+121011,Gorenje Radulje,64
+121012,Goriška Gora,9
+121013,Goriška vas pri Škocjanu,65
+121014,Gornja Stara vas,24
+121015,Grmovlje,142
+121016,Hrastulje,188
+121017,Hudenje,55
+121018,Jarèji Vrh,40
+121019,Jelendol,47
+121020,Jerman Vrh,76
+121021,Klenovik,119
+121022,Maèkovec pri Škocjanu,27
+121023,Male Poljane,42
+121024,Moèvirje,37
+121025,Ruhna vas,17
+121026,Segonje,31
+121027,Stara Buèka,89
+121028,Stopno,30
+121029,Stranje pri Škocjanu,37
+121030,Škocjan,224
+121031,Štrit,86
+121032,Tomažja vas,137
+121033,Velike Poljane,82
+121034,Zaboršt,40
+121035,Zagrad,93
+121036,Zalog pri Škocjanu,55
+121037,Zavinek,54
+121038,Zloganje,149
+121039,Osreèje,75
+122,ŠKOFJA LOKA,22927
+122001,Sv. Andrej,163
+122002,Binkelj,179
+122003,Bodovlje,181
+122004,Breznica pod Lubnikom,53
+122005,Brode,197
+122007,Bukovica,186
+122008,Bukovšèica,147
+122009,Crngrob,47
+122010,Dorfarje,214
+122011,Draga,127
+122012,Sveti Florijan nad Škofjo Loko,30
+122013,Forme,153
+122014,Gabrk,100
+122015,Gabrovo,23
+122016,Gabrška Gora,75
+122017,Godešiè,612
+122018,Gorenja vas - Reteèe,375
+122019,Gosteèe,76
+122020,Grenc,195
+122021,Hosta,103
+122022,Knape,79
+122023,Kovski Vrh,30
+122024,Križna Gora,106
+122026,Lipica,36
+122027,Log nad Škofjo Loko,213
+122028,Moškrin,21
+122029,Na Logu,148
+122030,Sv. Ožbolt,75
+122031,Papirnica,72
+122032,Pevno,78
+122033,Podpulfrca,39
+122034,Pozirno,29
+122035,Praprotno,125
+122036,Pungert,151
+122037,Puštal,652
+122038,Reteèe,628
+122039,Rovte v Selški Dolini,54
+122040,Sopotnica,91
+122041,Spodnja Luša,169
+122042,Staniše,5
+122043,Stara Loka,822
+122044,Stirpnik,96
+122045,Strmica,63
+122046,Suha,164
+122047,Sv. Duh,1106
+122048,Sv. Barbara,159
+122049,Sv. Petra Hrib,27
+122050,Ševlje,216
+122051,Škofja Loka,11719
+122052,Sv. Tomaž,51
+122053,Trata,229
+122054,Trnje,72
+122055,Valterski Vrh,9
+122056,Vešter,242
+122057,Vincarje,147
+122058,Virlog,119
+122059,Virmaše,823
+122060,Visoko pri Poljanah,24
+122061,Zgornja Luša,114
+122062,Zminec,517
+122063,Bukov Vrh nad Visokim,53
+122064,Sv. Lenart,118
+123,ŠKOFLJICA,10618
+123001,Dole pri Škofljici,66
+123002,Drenik,71
+123003,Glinek,165
+123004,Gorenje Blato,252
+123005,Gradišèe,828
+123006,Gumnišèe,240
+123007,Klada,53
+123008,Lanišèe,253
+123009,Lavrica,3193
+123010,Orle,235
+123011,Pijava Gorica,800
+123012,Pleše,52
+123013,Reber pri Škofljici,110
+123014,Smrjene,823
+123015,Škofljica,2538
+123016,Vrh nad Želimljami,351
+123017,Zalog pri Škofljici,128
+123018,Želimlje,460
+124,ŠMARJE PRI JELŠAH,10260
+124001,Babna Brda,149
+124002,Babna Gora,119
+124003,Babna Reka,96
+124004,Beli Potok pri Lembergu,44
+124005,Belo,133
+124006,Bezgovica,27
+124007,Bobovo pri Šmarju,126
+124008,Bodrež,180
+124009,Bodrišna vas,126
+124010,Brecljevo,173
+124011,Brezje pri Lekmarju,50
+124012,Bukovje v Babni Gori,94
+124013,Cerovec pri Šmarju,109
+124014,Dol pri Pristavi,61
+124015,Dol pri Šmarju,78
+124016,Dragomilo,39
+124017,Dvor,196
+124018,Gaj,63
+124019,Globoko pri Šmarju,82
+124020,Gornja vas,143
+124021,Grlièe,215
+124022,Grobelce,189
+124023,Grobelno - del,305
+124024,Hajnsko,154
+124025,Jazbina,36
+124026,Jerovska vas,35
+124027,Ješovec pri Šmarju,58
+124028,Kamenik,69
+124029,Konuško,28
+124030,Koretno,82
+124031,Korpule,78
+124032,Kristan vrh,378
+124033,Krtince,95
+124034,Laše,117
+124035,Lekmarje,67
+124036,Lemberg pri Šmarju,119
+124037,Lipovec,36
+124038,Mala Pristava,81
+124039,Mestinje,349
+124040,Moèle,99
+124041,Nova vas pri Šmarju,65
+124042,Orehovec,57
+124043,Peèica,110
+124044,Pijovci,136
+124045,Platinovec,98
+124046,Polžanska Gorca,125
+124047,Polžanska vas,83
+124048,Predel,105
+124049,Predenca,185
+124050,Preloge pri Šmarju,121
+124051,Pustike,90
+124052,Rakovec,62
+124053,Senovica,146
+124054,Sladka Gora,86
+124055,Sotensko pri Šmarju,118
+124056,Spodnja Ponkvica,91
+124057,Spodnje Mestinje,49
+124058,Spodnje Selce,64
+124059,Spodnje Tinsko,68
+124060,Stranje,168
+124061,Strtenica,100
+124062,Sveti Štefan,140
+124063,Šentvid pri Grobelnem,231
+124064,Šerovo,113
+124065,Škofija,120
+124066,Šmarje pri Jelšah,1767
+124067,Topolovec,21
+124068,Vinski Vrh pri Šmarju,82
+124069,Vodenovo,90
+124070,Vrh,170
+124071,Vršna vas,117
+124072,Zadrže,48
+124073,Zastranje,25
+124074,Završe pri Grobelnem,132
+124075,Zgornje Tinsko,140
+124076,Zibika,183
+124077,Zibiška vas,76
+125,ŠMARTNO OB PAKI,3240
+125001,Gavce,385
+125002,Gorenje,145
+125003,Mali Vrh,388
+125004,Paška vas,218
+125005,Podgora,189
+125006,Reèica ob Paki,496
+125007,Skorno,220
+125008,Slatina,270
+125009,Šmartno ob Paki,655
+125010,Veliki Vrh,274
+126,ŠOŠTANJ,8705
+126001,Bele Vode,261
+126002,Družmirje,0
+126003,Florjan,852
+126004,Gaberke,684
+126005,Lokovica,938
+126006,Ravne,1086
+126007,Skorno pri Šoštanju,372
+126008,Šentvid pri Zavodnju,44
+126009,Šoštanj,2883
+126010,Topolšica,1300
+126011,Zavodnje,285
+127,ŠTORE,4239
+127001,Draga,103
+127002,Javornik,172
+127003,Kanjuce,94
+127004,Kompole,496
+127005,Laška vas pri Štorah,228
+127006,Ogorevc,93
+127007,Peèovje,258
+127008,Prožinska vas,493
+127009,Svetina,119
+127010,Svetli Dol,69
+127011,Šentjanž nad Štorami,218
+127012,Štore,1896
+128,TOLMIN,11281
+128001,Baèa pri Modreju,127
+128002,Baèa pri Podbrdu,22
+128003,Bukovski Vrh,21
+128004,Èadrg,46
+128005,Èiginj,189
+128006,Daber,22
+128007,Dolenja Trebuša,273
+128008,Dolgi Laz,14
+128009,Dolje,145
+128010,Droboènik,31
+128011,Gabrje,109
+128012,Gorenja Trebuša,101
+128013,Gorenji Log,45
+128014,Gorski Vrh,12
+128015,Grahovo ob Baèi,129
+128016,Grant,14
+128017,Grudnica,9
+128018,Hudajužna,94
+128019,Idrija pri Baèi,296
+128020,Kal,4
+128021,Kamno,236
+128022,Kanalski Lom,87
+128023,Klavže,67
+128024,Kneške Ravne,10
+128025,Kneža,196
+128026,Koritnica,139
+128027,Kozaršèe,87
+128028,Kozmerice,19
+128029,Kuk,27
+128030,Lisec,0
+128031,Ljubinj,135
+128032,Logaršèe,64
+128033,Loje,10
+128034,Modrej,283
+128035,Modrejce,112
+128036,Most na Soèi,411
+128037,Obloke,17
+128038,Peèine,149
+128039,Petrovo Brdo,126
+128040,Podbrdo,616
+128041,Podmelec,84
+128042,Polje,37
+128043,Poljubinj,435
+128044,Ponikve,171
+128045,Porezen,11
+128046,Postaja,120
+128047,Prapetno,113
+128048,Prapetno Brdo,125
+128049,Roèe,57
+128050,Rut,43
+128051,Sela nad Podmelcem,5
+128052,Sela pri Volèah,74
+128053,Selce,10
+128054,Selišèe,23
+128055,Slap ob Idrijci,241
+128056,Stopnik,79
+128057,Stržišèe,44
+128058,Šentviška Gora,99
+128059,Temljine,42
+128060,Tolmin,3394
+128061,Tolminske Ravne,5
+128062,Tolminski Lom,76
+128063,Trtnik,23
+128064,Volarje,254
+128065,Volèanski Ruti,13
+128066,Volèe,591
+128067,Zadlaz-Èadrg,27
+128068,Zadlaz-Žabèe,37
+128069,Zakraj,35
+128070,Zatolmin,343
+128071,Znojile,11
+128072,Žabèe,165
+129,TRBOVLJE,16339
+129001,Èebine,19
+129002,Èeèe - del,176
+129003,Dobovec,183
+129004,Gabrsko,348
+129005,Kljuèevica,27
+129006,Knezdol,249
+129007,Ojstro,179
+129008,Ostenk,213
+129009,Sveta Planina,114
+129010,Planinska vas,76
+129011,Prapreèe - del,164
+129013,Škofja Riža,116
+129014,Trbovlje,14028
+129015,Vrhe - del,18
+129016,Završje,44
+129017,Župa,87
+129018,Retje nad Trbovljami,38
+129019,Klek,260
+130,TREBNJE,12354
+130001,Arèelca,17
+130002,Artmanja vas,29
+130003,Babna Gora,23
+130005,Belšinja vas,41
+130006,Beneèija,27
+130007,Biè,79
+130010,Blato,85
+130012,Breza,98
+130019,Cesta,63
+130022,Èatež,102
+130023,Èešnjevek,114
+130028,Deèja vas,91
+130029,Dobrava,81
+130030,Dobravica pri Vel. Gabru,22
+130031,Dobrniè,101
+130032,Dol pri Trebnjem,75
+130033,Dolenja Dobrava,73
+130034,Dolenja Nemška vas,281
+130035,Dolenja vas pri Èatežu,51
+130037,Dolenje Kamenje pri Dobrnièu,14
+130039,Dolenje Medvedje selo,36
+130040,Dolenje Ponikve,189
+130041,Dolenje Selce,55
+130043,Dolenji Podboršt pri Treb.,43
+130044,Dolenji Podšumberk,31
+130045,Dolenji Vrh,28
+130046,Dolga Njiva pri Šentlovren.,79
+130047,Dolnje Prapreèe,60
+130051,Goljek,67
+130052,Gombišèe,47
+130054,Gorenja Dobrava,34
+130055,Gorenja Nemška vas,101
+130056,Gorenja vas,9
+130057,Gorenja vas pri Èatežu,33
+130061,Gorenje Kamenje pri Dobrnièu,49
+130063,Gorenje Medvedje selo,49
+130064,Gorenje Ponikve,120
+130065,Gorenje Selce,55
+130068,Gorenji Podboršt pri V. Loki,15
+130069,Gorenji Podšumberk,17
+130070,Gorenji vrh pri Dobrnièu,52
+130071,Gornje Prapreèe,28
+130072,Gradišèe pri Trebnjem,83
+130073,Griè pri Trebnjem,8
+130074,Grm,125
+130075,Grmada,30
+130079,Hudeje,72
+130080,Iglenik pri Veliki Loki,61
+130082,Jezero,127
+130083,Kamni Potok,83
+130085,Knežja vas,69
+130086,Korenitka,45
+130087,Korita,77
+130088,Kriška Reber,28
+130089,Križ,15
+130091,Krtina,23
+130092,Krušni Vrh,24
+130093,Kukenberk,40
+130094,Lipnik,42
+130095,Lisec,64
+130097,Log pri Žužemberku,20
+130098,Lokve pri Dobrnièu,26
+130099,Lukovek,101
+130100,Luža,72
+130101,Maèji Dol,57
+130102,Maèkovec,28
+130103,Mala Loka,36
+130104,Mala Ševnica,19
+130105,Male Dole pri Stehanji vasi,44
+130107,Mali Gaber,84
+130108,Mali Videm,40
+130110,Martinja vas,103
+130112,Medvedjek,81
+130113,Meglenik,25
+130120,Mrzla Luža,35
+130121,Muhabran,14
+130122,Obèine,37
+130123,Odrga,68
+130125,Orlaka,39
+130128,Pekel,71
+130129,Pluska,45
+130130,Podlisec,14
+130132,Potok,14
+130135,Preska pri Dobrnièu,71
+130136,Primštal,31
+130137,Pristavica pri Vel. Gabru,98
+130140,Raèje selo,95
+130145,Razbore,56
+130146,Rdeèi Kal,83
+130147,Repèe,93
+130148,Replje,36
+130149,Reva,22
+130151,Rihpovec,109
+130152,Rodine pri Trebnjem,78
+130153,Roje pri Èatežu,58
+130156,Roženpelj,48
+130157,Rožni Vrh,69
+130159,Sejenice,29
+130160,Sela pri Šumberku,136
+130168,Stehanja vas,52
+130169,Stranje pri Dobrnièu,23
+130170,Stranje pri Velikem Gabru,44
+130172,Studenec,139
+130174,Svetinja,43
+130175,Šahovec,59
+130176,Šentlovrenc,151
+130179,Škovec,87
+130182,Šmaver,89
+130184,Štefan pri Trebnjem,151
+130186,Trebanjski Vrh,51
+130188,Trebnje,3704
+130189,Trnje,35
+130191,Vavpèa vas pri Dobrnièu,51
+130192,Velika Loka,237
+130194,Velika Ševnica,52
+130195,Velike Dole,54
+130196,Veliki Gaber,324
+130197,Veliki Videm,67
+130199,Volèja Jama,13
+130201,Vrbovec,102
+130204,Vrhovo pri Šentlovrencu,41
+130205,Vrhtrebnje,73
+130206,Vrtaèe,24
+130210,Zagorica pri Èatežu,33
+130211,Zagorica pri Dobrnièu,58
+130212,Zagorica pri Velikem Gabru,225
+130214,Zavrh,4
+130215,Zidani Most,58
+130216,Žabjek,21
+130217,Železno,55
+130218,Žubina,108
+130222,Gorica na Medvedjeku,2
+130223,Vejar,259
+131,TRŽIÈ,14872
+131001,Bistrica pri Tržièu,2813
+131002,Brdo,32
+131003,Breg ob Bistrici,78
+131004,Brezje pri Tržièu,358
+131005,Èadovlje pri Tržièu,79
+131006,Dolina,65
+131007,Gozd,32
+131008,Grahovše,135
+131009,Hudi Graben,45
+131010,Hudo,53
+131011,Hušica,6
+131012,Jelendol,126
+131013,Kovor,791
+131014,Križe,890
+131015,Leše,219
+131016,Loka,358
+131017,Lom pod Storžièem,355
+131018,Novake,17
+131019,Palovièe,75
+131020,Podljubelj,851
+131021,Popovo,20
+131022,Potarje,83
+131023,Pristava,856
+131024,Retnje,282
+131025,Roèevnica,572
+131026,Sebenje,435
+131027,Senièno,317
+131028,Slap,192
+131029,Spodnje Vetrno,58
+131030,Tržiè,3617
+131031,Vadièe,20
+131032,Visoèe,91
+131033,Zgornje Vetrno,62
+131034,Zvirèe,402
+131035,Žiganja vas,487
+132,TURNIŠÈE,3263
+132001,Gomilica,626
+132002,Nedelica,567
+132003,Renkovci,613
+132004,Turnišèe,1457
+133,VELENJE,32747
+133001,Arnaèe,291
+133002,Bevèe,358
+133003,Èrnova,401
+133004,Hrastovec,340
+133005,Janškovo selo,178
+133006,Kavèe,522
+133007,Laze,420
+133008,Lipje,431
+133009,Lopatnik,55
+133010,Lopatnik pri Velenju,72
+133011,Ložnica,193
+133012,Paka pri Velenju,436
+133013,Paški Kozjak,257
+133014,Pirešica,143
+133015,Plešivec,408
+133016,Podgorje,181
+133017,Podkraj pri Velenju,947
+133018,Prelska,239
+133019,Silova,195
+133020,Šenbric,165
+133021,Škale,846
+133022,Škalske Cirkovce,178
+133023,Šmartinske Cirkovce,86
+133024,Velenje,25019
+133025,Vinska Gora,386
+134,VELIKE LAŠÈE,4264
+134001,Adamovo,13
+134002,Bane,1
+134003,Bavdek,28
+134004,Borovec pri Karlovici,10
+134005,Boštetje,11
+134006,Brankovo,50
+134007,Brlog - del,6
+134008,Bukovec,4
+134009,Centa,16
+134010,Èetež pri Turjaku,29
+134011,Dednik,16
+134012,Dolenje Kališèe,0
+134013,Dolnje Retje,59
+134014,Dolšèaki,79
+134015,Dvorska vas,114
+134016,Gorenje Kališèe,3
+134017,Gornje Retje,25
+134018,Gradež,258
+134019,Gradišèe,15
+134020,Grm,15
+134021,Hlebèe,35
+134022,Hrustovo,40
+134023,Jakièevo,27
+134024,Javorje,14
+134025,Kaplanovo,26
+134026,Karlovica,40
+134027,Knej,46
+134028,Kot pri Veliki Slevici,9
+134029,Krkovo pri Karlovici,14
+134030,Krvava Peè,19
+134031,Kukmaka,50
+134032,Laporje,45
+134033,Laze,15
+134034,Logarji,34
+134035,Lužarji,17
+134036,Maèki,26
+134037,Mala Slevica,188
+134038,Male Lašèe,288
+134039,Mali Loènik,52
+134040,Mali Osolnik,58
+134041,Marinèki,26
+134042,Medvedjek,8
+134043,Mohorje,13
+134044,Naredi,14
+134045,Opalkovo,23
+134046,Osredek,43
+134047,Peèki,13
+134048,Plosovo,6
+134049,Podhojni Hrib,41
+134050,Podkogelj,11
+134051,Podkraj,18
+134052,Podlog,37
+134053,Podsmreka pri Velikih Lašèah,28
+134054,Podstrmec,18
+134055,Podulaka,38
+134056,Podžaga,16
+134057,Polzelo,1
+134058,Poznikovo,24
+134059,Prazniki,20
+134060,Prhajevo,10
+134061,Prilesje,62
+134062,Purkaèe,21
+134063,Pušèe,59
+134064,Rašica,273
+134065,Rob,70
+134066,Rupe,5
+134067,Sekirišèe,8
+134068,Selo pri Robu,32
+134069,Sloka Gora,9
+134070,Srnjak,9
+134071,Srobotnik pri Vel. Lašèah,53
+134072,Stope,43
+134073,Strletje,45
+134074,Strmec,5
+134075,Šèurki,11
+134076,Škamevec,16
+134077,Škrlovica,32
+134078,Tomažini,38
+134079,Turjak,206
+134080,Ulaka,45
+134081,Uzmani,21
+134082,Velika Slevica,58
+134083,Velike Lašèe,702
+134084,Veliki Loènik,120
+134085,Veliki Osolnik,74
+134086,Vrh,24
+134087,Zgonèe,8
+134088,Žaga,12
+135,VIDEM,5481
+135001,Barislovci,123
+135002,Belavšek,80
+135003,Berinjak,16
+135006,Dolena,164
+135007,Dravci,54
+135008,Dravinjski Vrh,257
+135010,Gradišèe,47
+135012,Jurovci,159
+135014,Lancova vas,527
+135015,Ljubstava,73
+135017,Majski Vrh,104
+135018,Mala Varnica,97
+135019,Pobrežje,914
+135021,Popovci,139
+135022,Repišèe,139
+135025,Sela,193
+135026,Skorišnjak,60
+135027,Sovièe,124
+135029,Spodnji Leskovec,106
+135032,Strmec pri Leskovcu,70
+135033,Šturmovci,131
+135034,Trdobojci,94
+135035,Trnovec,87
+135036,Tržec,428
+135037,Vareja,212
+135038,Velika Varnica,194
+135039,Veliki Okiè,73
+135040,Videm pri Ptuju,445
+135042,Zgornja Pristava,206
+135044,Zgornji Leskovec,165
+136,VIPAVA,5605
+136001,Duplje,245
+136002,Erzelj,79
+136003,Goèe,188
+136004,Gradišèe pri Vipavi,229
+136005,Hrašèe,93
+136006,Lozice,197
+136007,Lože,220
+136008,Manèe,131
+136009,Nanos,12
+136010,Orehovica,156
+136011,Podbreg,102
+136012,Podgriè,53
+136013,Podnanos,365
+136014,Podraga,322
+136015,Poreèe,106
+136016,Sanabor,107
+136017,Slap,432
+136018,Vipava,1934
+136019,Vrhpolje,553
+136020,Zemono,81
+137,VITANJE,2269
+137001,Brezen,215
+137002,Hudinja,207
+137003,Ljubnica,304
+137004,Paka,263
+137005,Vitanjsko Skomarje,82
+137006,Spodnji Doliè,182
+137007,Stenica,159
+137008,Vitanje,857
+138,VODICE,4804
+138001,Bukovica pri Vodicah,397
+138002,Dobruša,120
+138003,Dornice,62
+138004,Koseze,193
+138005,Polje pri Vodicah,256
+138006,Povodje,21
+138007,Repnje,361
+138008,Selo pri Vodicah,308
+138009,Skaruèna,321
+138010,Šinkov Turn,113
+138011,Torovo,44
+138012,Utik,474
+138013,Vesca,75
+138014,Vodice,1645
+138015,Vojsko,142
+138016,Zapoge,272
+139,VOJNIK,8685
+139001,Arclin,483
+139002,Beli Potok pri Frankolovem,48
+139003,Bezenškovo Bukovje,109
+139004,Bezovica,35
+139005,Bovše,127
+139006,Brdce,49
+139008,Èreškova,103
+139009,Èrešnjevec,20
+139010,Èrešnjice,50
+139012,Dol pod Gojko,211
+139013,Frankolovo,273
+139014,Gabrovec pri Dramljah,37
+139015,Globoèe,73
+139016,Gradišèe pri Vojniku,61
+139017,Homec,98
+139018,Hrastnik,19
+139019,Hrenova,162
+139020,Ilovca,103
+139021,Ivenca,174
+139022,Jankova,101
+139023,Kladnart,3
+139025,Koblek,28
+139026,Konjsko,86
+139027,Landek,54
+139028,Lemberg pri Novi Cerkvi,135
+139029,Lešje,63
+139030,Lindek,94
+139031,Lipa pri Frankolovem,164
+139034,Male Dole,218
+139035,Nova Cerkev,481
+139036,Novake,102
+139038,Podgorje pod Èerinom,101
+139039,Polže,114
+139040,Pristava,137
+139042,Rakova Steza,32
+139043,Razdelj,94
+139044,Razgor,166
+139045,Razgorce,14
+139046,Rove,122
+139047,Selce,51
+139048,Socka,393
+139049,Straža pri Dolu,26
+139050,Straža pri Novi Cerkvi,43
+139051,Stražica,184
+139053,Tomaž nad Vojnikom,85
+139054,Trnovlje pri Socki,139
+139055,Velika Raven,35
+139056,Verpete,139
+139057,Vine,68
+139059,Višnja vas,246
+139060,Vizore,148
+139061,Vojnik,2393
+139063,Zabukovje,13
+139065,Zlateèe,117
+139066,Želèe,47
+139067,Dedni Vrh pri Vojniku,14
+140,VRHNIKA,16848
+140001,Bevke,949
+140002,Bistra,47
+140003,Blatna Brezovica,348
+140005,Drenov Griè,950
+140006,Lesno Brdo,352
+140009,Mala Ligojna,161
+140010,Mirke,112
+140011,Padež,37
+140012,Podlipa,528
+140013,Pokojišèe,42
+140014,Sinja Gorica,562
+140015,Smreèje,247
+140016,Stara Vrhnika,727
+140017,Velika Ligojna,411
+140018,Verd,1874
+140019,Vrhnika,8693
+140020,Zaplana,132
+140021,Zavrh pri Borovnici,31
+140022,Jamnik,33
+140023,Jerinov Griè,70
+140024,Marinèev Griè,39
+140025,Trèkov Griè,63
+140026,Mizni Dol,175
+140027,Prezid,120
+140028,Strmica,145
+141,VUZENICA,2687
+141001,Dravèe,139
+141002,Sv. Primož na Pohorju,309
+141003,Sv. Vid,446
+141004,Šentjanž nad Dravèami,250
+141005,Vuzenica,1543
+142,ZAGORJE OB SAVI,16650
+142001,Blodnik,26
+142002,Borje,47
+142003,Borje pri Mlinšah,36
+142004,Borovak pri Podkumu,123
+142005,Brezje,107
+142006,Breznik,25
+142007,Briše,120
+142008,Èemšenik,214
+142009,Èolnišèe,265
+142010,Dobrljevo,92
+142011,Dolenja vas,449
+142012,Dolgo Brdo pri Mlinšah,63
+142013,Družina,3
+142014,Golèe,41
+142015,Gorenja vas,55
+142016,Hrastnik pri Trojanah,52
+142017,Izlake,1178
+142018,Jablana,76
+142019,Jarše,10
+142020,Jelenk,31
+142021,Jelševica,4
+142022,Jesenovo,275
+142023,Kandrše - del,166
+142024,Kisovec,1767
+142025,Kolk,46
+142026,Kolovrat,149
+142027,Konjšica - del,0
+142028,Kostrevnica,75
+142029,Kotredež,176
+142030,Log pri Mlinšah,43
+142031,Loke pri Zagorju,219
+142032,Mali Kum,23
+142033,Medija,55
+142034,Mlinše,255
+142035,Mošenik,29
+142036,Orehovica,136
+142037,Osredek,36
+142038,Padež,28
+142039,Podkraj pri Zagorju,55
+142040,Podkum,225
+142041,Podlipovica,463
+142042,Polšina,70
+142043,Potoška vas,211
+142044,Požarje,11
+142045,Prapreèe - del,54
+142046,Ravenska vas,250
+142047,Ravne pri Mlinšah,65
+142048,Razbor pri Èemšeniku,57
+142049,Razpotje,27
+142050,Rodež,44
+142051,Rove,186
+142052,Rovišèe,44
+142053,Rtièe,19
+142054,Ržiše,100
+142055,Selo pri Zagorju,315
+142056,Senožeti,27
+142057,Šemnik,204
+142058,Šentgotard,88
+142059,Šentlambert,91
+142060,Šklendrovec,172
+142061,Tirna,185
+142062,Vine,18
+142063,Vrh,22
+142064,Vrh pri Mlinšah,42
+142065,Vrhe - del,27
+142066,Zabava,53
+142067,Zabreznik,43
+142068,Zagorje ob Savi,6216
+142069,Zavine,74
+142070,Zgornji Prhovec,70
+142071,Znojile,116
+142072,Žvarulje,79
+142073,Vidrga,105
+142074,Sopota,59
+142075,Kal,99
+142076,Špital,25
+142077,Strahovlje,69
+142078,Spodnji Šemnik,75
+143,ZAVRÈ,1722
+143001,Belski Vrh,88
+143002,Drenovec,56
+143003,Gorenjski Vrh,96
+143004,Gorièak,204
+143005,Hrastovec,478
+143006,Korenjak,118
+143007,Pestike,105
+143008,Turški Vrh,502
+143009,Zavrè,75
+144,ZREÈE,6395
+144001,Bezovje nad Zreèami,94
+144002,Boharina,229
+144003,Bukovlje,219
+144004,Èrešnova,85
+144005,Dobrovlje,370
+144006,Gorenje pri Zreèah,121
+144007,Graèiè,66
+144008,Koroška vas na Pohorju,96
+144009,Križevec,310
+144010,Loška Gora pri Zreèah,158
+144011,Osredek pri Zreèah,106
+144012,Padeški Vrh,147
+144013,Planina na Pohorju,203
+144014,Radana vas,155
+144015,Resnik,130
+144016,Rogla,2
+144017,Skomarje,173
+144018,Stranice,196
+144019,Zlakova,164
+144020,Zreèe,2900
+144021,Spodnje Stranice,156
+144022,Mala Gora,35
+144023,Polajna,58
+144024,Lipa,61
+144025,Zabork,53
+144026,Gornja vas,60
+144027,Èretvež,48
+146,ŽELEZNIKI,6705
+146001,Davèa,286
+146002,Dolenja vas,476
+146003,Dražgoše,322
+146004,Golica,51
+146005,Kališe,61
+146006,Martinj Vrh,229
+146007,Ojstri Vrh,56
+146008,Osojnik,17
+146009,Podlonk,142
+146010,Podporezen,11
+146011,Potok,78
+146012,Prtovè,17
+146013,Ravne,4
+146014,Rudno,228
+146015,Selca,695
+146016,Lajše,112
+146017,Smoleva,61
+146018,Spodnja Sorica,103
+146019,Spodnje Danje,51
+146020,Studeno,189
+146021,Topolje,58
+146022,Torka,2
+146023,Zabrdo,6
+146024,Zabrekve,59
+146025,Zala,0
+146026,Zali Log,242
+146027,Zgornja Sorica,160
+146028,Zgornje Danje,5
+146029,Železniki,2984
+147,ŽIRI,4870
+147001,Brekovice,57
+147002,Breznica pri Žireh,50
+147003,Goropeke,67
+147004,Izgorje,21
+147005,Jarèja Dolina,66
+147006,Koprivnik,102
+147007,Ledinica,73
+147008,Mrzli Vrh,18
+147009,Opale,39
+147010,Osojnica,27
+147011,Podklanec,17
+147012,Raèeva,153
+147013,Ravne pri Žireh,25
+147014,Selo,268
+147015,Sovra,11
+147016,Zabrežnik,32
+147017,Žiri,3601
+147018,Žirovski Vrh,243
+148,BENEDIKT,2491
+148001,Benedikt,1078
+148002,Drvanja,186
+148003,Ihova,288
+148004,Loèki Vrh,84
+148005,Negovski Vrh,19
+148006,Obrat,90
+148007,Spodnja Baèkova,124
+148008,Spodnja Roèica,121
+148009,Stara Gora,21
+148010,Sv. Trije Kralji v Slov. Gor.,54
+148011,Štajngrova,231
+148012,Trotkova,106
+148013,Trstenik,89
+149,BISTRICA OB SOTLI,1365
+149001,Bistrica ob Sotli,244
+149002,Èrešnjevec ob Bistrici,78
+149003,Dekmanca,106
+149004,Hrastje ob Bistrici,146
+149005,Križan Vrh,73
+149006,Kunšperk,102
+149007,Ples,77
+149008,Polje pri Bistrici,76
+149009,Srebrnik,95
+149010,Trebèe,237
+149011,Zagaj,131
+150,BLOKE,1538
+150001,Andrejèje,9
+150002,Benete,10
+150003,Boèkovo,18
+150004,Fara,58
+150005,Glina,35
+150006,Godièevo,5
+150007,Gradiško,7
+150008,Hiteno,23
+150009,Hribarjevo,21
+150010,Hudi Vrh,53
+150011,Jeršanovo,20
+150012,Kramplje,12
+150013,Lahovo,8
+150014,Lepi Vrh,12
+150015,Lovranovo,30
+150016,Malni,6
+150017,Metulje,55
+150018,Mramorovo pri Lužarjih,3
+150019,Mramorovo pri Pajkovem,13
+150020,Nemška vas na Blokah,28
+150021,Nova vas,278
+150022,Ograda,0
+150023,Polšeèe,10
+150024,Radlek,42
+150025,Ravne na Blokah,74
+150026,Ravnik,33
+150027,Rožanèe,9
+150028,Runarsko,74
+150029,Sleme,9
+150030,Strmca,27
+150031,Studenec na Blokah,61
+150032,Studeno na Blokah,46
+150033,Sveta Trojica,5
+150034,Sveti Duh,16
+150035,Škrabèe,10
+150036,Škufèe,7
+150037,Štorovo,4
+150038,Topol,51
+150039,Ulaka,38
+150040,Velike Bloke,199
+150041,Veliki Vrh,48
+150042,Volèje,45
+150043,Zakraj,5
+150044,Zales,7
+150045,Zavrh,14
+151,BRASLOVÈE,5473
+151001,Braslovèe,371
+151002,Dobrovlje,147
+151003,Glinje,48
+151004,Gomilsko,353
+151005,Grajska vas,358
+151006,Kamenèe,181
+151007,Letuš,848
+151008,Male Braslovèe,263
+151009,Orla vas,199
+151010,Parižlje,731
+151011,Podgorje pri Letušu,74
+151012,Podvrh,395
+151013,Poljèe,62
+151014,Preserje,111
+151015,Rakovlje,419
+151016,Spodnje Gorèe,71
+151017,Šentrupert,154
+151018,Šmatevž,189
+151019,Topovlje,117
+151020,Trnava,255
+151021,Zakl,55
+151022,Zgornje Gorèe,72
+152,CANKOVA,1814
+152001,Cankova,437
+152002,Domajinci,228
+152003,Gerlinci,333
+152004,Gornji Èrnci,142
+152005,Korovci,175
+152006,Krašèi,246
+152007,Skakovci,200
+152008,Topolovci,53
+153,CERKVENJAK,2044
+153001,Andrenci,183
+153002,Brengova,239
+153003,Cenkova,41
+153004,Cerkvenjak,143
+153005,Cogetinci,257
+153006,Èagona,252
+153007,Grabonoški Vrh,75
+153008,Ivanjski Vrh,52
+153009,Kadrenci,92
+153010,Komarnica,46
+153011,Pešèeni Vrh,112
+153012,Smolinci,160
+153013,Stanetinci,150
+153014,Vanetina,68
+153015,Župetinci,174
+154,DOBJE,981
+154001,Brezje pri Dobjem,81
+154002,Dobje pri Planini,128
+154003,Gorica pri Dobjem,39
+154004,Jezerce pri Dobjem,56
+154005,Lažiše,154
+154006,Preseèno,99
+154007,Ravno,65
+154008,Repuš,35
+154009,Slatina pri Dobjem,52
+154010,Suho,74
+154011,Škarnice,105
+154012,Veèje Brdo,65
+154013,Završe pri Dobjem,28
+155,DOBRNA,2192
+155001,Brdce nad Dobrno,72
+155002,Dobrna,544
+155003,Klanc,441
+155004,Loka pri Dobrni,33
+155005,Lokovina,304
+155006,Parož,48
+155007,Pristova,103
+155008,Strmec nad Dobrno,113
+155009,Vinska Gorica,174
+155010,Vrba,129
+155011,Zavrh nad Dobrno,231
+156,DOBROVNIK/DOBRONAK,1277
+156001,Dobrovnik/Dobronak,950
+156002,Strehovci,214
+156003,Žitkovci/Zsitkoc,113
+157,DOLENJSKE TOPLICE,3407
+157001,Bušinec,46
+157002,Cerovec,41
+157003,Dobindol,125
+157004,Dolenje Gradišèe,24
+157005,Dolenje Polje,70
+157006,Dolenje Sušice,133
+157007,Dolenjske Toplice,790
+157008,Drenje,60
+157009,Gabrje pri Soteski,36
+157010,Gorenje Gradišèe,77
+157011,Gorenje Polje,85
+157012,Gorenje Sušice,116
+157013,Koèevske Poljane,75
+157014,Loška vas,88
+157015,Mali Rigelj,8
+157016,Meniška vas,348
+157017,Nova Gora,1
+157018,Obèice,65
+157019,Obrh,77
+157020,Podhosta,180
+157021,Podstenice,8
+157022,Podturn pri Dol. Toplicah,315
+157023,Sela pri Dol. Toplicah,255
+157024,Selišèe,40
+157025,Soteska,162
+157026,Stare Žage,37
+157027,Suhor pri Dol. Toplicah,58
+157028,Veliki Rigelj,24
+157029,Verdun pri Uršnih Selih,63
+158,GRAD,2166
+158001,Dolnji Slaveèi,408
+158002,Grad,666
+158003,Kovaèevci,110
+158004,Kruplivnik,202
+158005,Motovilci,264
+158006,Radovci,208
+158007,Vidonci,308
+159,HAJDINA,3712
+159001,Draženci,535
+159002,Gereèja vas,566
+159003,Hajdoše,630
+159004,Skorba,372
+159005,Slovenja vas,553
+159006,Spodnja Hajdina,244
+159007,Zgornja Hajdina,812
+160,HOÈE - SLIVNICA,11273
+160001,Bohova,264
+160002,Èreta,375
+160003,Hoèko Pohorje,458
+160004,Hotinja vas,1304
+160005,Orehova vas,447
+160006,Pivola,662
+160007,Polana,226
+160008,Radizel,1769
+160009,Rogoza,1686
+160010,Slivnica pri Mariboru,629
+160011,Slivniško Pohorje,159
+160012,Spodnje Hoèe,2643
+160013,Zgornje Hoèe,651
+161,HODOŠ/HODOS,375
+161001,Hodoš/Hodos,286
+161002,Krplivnik/Kapornak,89
+162,HORJUL,2970
+162001,Horjul,1417
+162002,Koreno nad Horjulom,103
+162003,Lesno Brdo,126
+162004,Ljubgojna,154
+162005,Podolnica,216
+162006,Samotorica,64
+162007,Vrzdenec,510
+162008,Zaklanec,203
+162009,Žažar,177
+163,JEZERSKO,624
+163001,Spodnje Jezersko,80
+163002,Zgornje Jezersko,544
+164,KOMENDA,6001
+164001,Breg pri Komendi,167
+164002,Gmajnica,679
+164003,Gora pri Komendi,231
+164004,Klanec,313
+164005,Komenda,939
+164006,Komendska Dobrava,56
+164007,Križ,512
+164008,Mlaka,290
+164009,Moste,1348
+164010,Nasovèe,218
+164011,Podboršt pri Komendi,248
+164012,Potok pri Komendi,47
+164013,Suhadole,805
+164014,Žeje pri Komendi,148
+164015,Poslovna cona Žeje pri Komendi,0
+165,KOSTEL,641
+165001,Ajbelj,14
+165002,Banja Loka,38
+165003,Briga,14
+165004,Brsnik,3
+165005,Colnarji,13
+165006,Delaè,4
+165007,Dolenja Žaga,0
+165008,Dolenji Potok,0
+165009,Dren,23
+165010,Drežnik,4
+165011,Fara,35
+165012,Gladloka,0
+165013,Gorenja Žaga,9
+165014,Gorenji Potok,1
+165015,Gotenc,9
+165016,Grgelj,1
+165017,Grivac,25
+165018,Hrib pri Fari,10
+165019,Jakšièi,14
+165020,Jesenov Vrt,4
+165021,Kaptol,13
+165022,Kostel,9
+165023,Krkovo nad Faro,22
+165024,Kuželiè,0
+165025,Kuželj,43
+165026,Laze pri Kostelu,12
+165027,Lipovec pri Kostelu,2
+165028,Mavrc,6
+165029,Nova sela,29
+165030,Oskrt,13
+165031,Padovo pri Fari,7
+165032,Petrina,9
+165033,Pirèe,27
+165034,Planina,8
+165035,Poden,8
+165036,Podstene pri Kostelu,4
+165037,Potok,66
+165038,Puc,0
+165039,Rajšele,3
+165040,Rake,1
+165041,Sapnik,10
+165042,Selo pri Kostelu,2
+165043,Slavski Laz,28
+165044,Srednji Potok,0
+165045,Srobotnik ob Kolpi,1
+165046,Stelnik,0
+165047,Stružnica,2
+165048,Suhor,0
+165049,Štajer,9
+165050,Tišenpolj,1
+165051,Vas,58
+165052,Vimolj,1
+165053,Vrh pri Fari,21
+165054,Zapuže pri Kostelu,5
+166,KRIŽEVCI,3618
+166001,Berkovci,134
+166002,Berkovski Prelogi,27
+166003,Boreci,294
+166004,Buèeèovci,245
+166005,Dobrava,62
+166006,Gajševci,56
+166007,Grabe pri Ljutomeru,111
+166008,Iljaševci,182
+166009,Kljuèarovci pri Ljutomeru,348
+166010,Kokorièi,116
+166011,Križevci pri Ljutomeru,487
+166012,Logarovci,277
+166013,Lukavci,643
+166014,Stara Nova vas,352
+166015,Vuèja vas,223
+166016,Zasadi,61
+167,LOVRENC NA POHORJU,3088
+167001,Èinžat,170
+167002,Kumen,344
+167003,Lovrenc na Pohorju,1972
+167004,Pušèava,74
+167005,Rdeèi Breg - del,247
+167006,Recenjak,181
+167007,Ruta,100
+168,MARKOVCI,4011
+168001,Borovci,311
+168002,Bukovci,996
+168003,Markovci,476
+168004,Nova vas pri Markovcih,403
+168005,Prvenci,221
+168006,Sobetinci,167
+168007,Stojnci,846
+168008,Strelci,103
+168009,Zabovci,488
+169,MIKLAVŽ NA DRAVSKEM POLJU,6525
+169001,Dobrovce,801
+169002,Dravski Dvor,646
+169003,Miklavž na Dravskem polju,4031
+169004,Skoke,1047
+170,MIRNA PEÈ,2911
+170001,Biška vas,129
+170002,Èemše,45
+170003,Dolenja vas pri Mirni Peèi,83
+170004,Dolenji Globodol,53
+170005,Dolenji Podboršt,23
+170006,Globoèdol,39
+170007,Golobinjek,109
+170008,Gorenji Globodol,102
+170009,Gorenji Podboršt,83
+170010,Goriška vas,71
+170011,Grè Vrh,14
+170012,Hmeljèiè,76
+170013,Hrastje pri Mirni Peèi,88
+170014,Jablan,149
+170015,Jelše,28
+170016,Jordankal,35
+170017,Malenska vas,77
+170018,Mali Kal,73
+170019,Mali Vrh,45
+170020,Mirna Peè,991
+170021,Orkljevec,48
+170022,Poljane pri Mirni Peèi,90
+170023,Selo pri Zagorici,39
+170024,Srednji Globodol,58
+170025,Šentjurij na Dolenjskem,98
+170026,Veliki Kal,113
+170027,Vrhovo pri Mirni Peèi,70
+170028,Vrhpeè,82
+171,OPLOTNICA,4076
+171001,Božje,130
+171002,Brezje pri Oplotnici,131
+171003,Èadram,271
+171004,Dobriška vas,67
+171005,Dobrova pri Prihovi,49
+171006,Gorica pri Oplotnici,238
+171007,Koritno,195
+171008,Kovaški Vrh,48
+171009,Laèna Gora,165
+171010,Malahorna,293
+171011,Markeèica,113
+171012,Okoška Gora,202
+171013,Oplotnica,1412
+171014,Pobrež,143
+171015,Prihova,80
+171016,Raskovec,71
+171017,Straža pri Oplotnici,75
+171018,Ugovec,147
+171019,Zgornje Grušovje,108
+171020,Zlogona Gora,89
+171021,Zlogona vas,49
+172,PODLEHNIK,1818
+172001,Dežno pri Podlehniku,95
+172002,Gorca,147
+172003,Jablovec,118
+172004,Kozminci,127
+172005,Ložina,42
+172006,Podlehnik,390
+172007,Rodni Vrh,46
+172008,Sedlašek,220
+172009,Spodnje Gruškovje,42
+172010,Stanošina,172
+172011,Strajna,87
+172012,Zakl,202
+172013,Zgornje Gruškovje,130
+173,POLZELA,6135
+173001,Andraž nad Polzelo,799
+173002,Breg pri Polzeli,997
+173003,Dobriè,205
+173004,Loèica ob Savinji,929
+173005,Orova vas,89
+173006,Podvin pri Polzeli,277
+173007,Polzela,2397
+173008,Založe,442
+174,PREBOLD,5007
+174001,Dolenja vas,588
+174002,Kaplja vas,302
+174003,Latkova vas,998
+174004,Marija Reka,248
+174005,Matke,352
+174006,Prebold,1699
+174007,Sv. Lovrenc,377
+174008,Šešèe pri Preboldu,443
+175,PREVALJE,6763
+175001,Belšak,64
+175002,Breznica,148
+175003,Dolga Brda,366
+175004,Jamnica,86
+175005,Kot pri Prevaljah,121
+175006,Leše,566
+175007,Lokovica,151
+175008,Poljana,116
+175009,Prevalje,4582
+175010,Suhi Vrh,88
+175011,Šentanel,189
+175012,Zagrad,131
+175013,Stražišèe,155
+176,RAZKRIŽJE,1278
+176001,Gibina,251
+176002,Kopriva,41
+176003,Razkrižje,262
+176004,Šafarsko,274
+176005,Šprinc,129
+176006,Vešèica,321
+177,RIBNICA NA POHORJU,1180
+177001,Hudi Kot,225
+177002,Josipdol,302
+177003,Ribnica na Pohorju,419
+177004,Zgornja Orlica,95
+177005,Zgornji Janževski Vrh,25
+177006,Zgornji Lehen na Pohorju,114
+178,SELNICA OB DRAVI,4522
+178001,Èrešnjevec ob Dravi,248
+178002,Fala,321
+178003,Gradišèe na Kozjaku,184
+178004,Janževa Gora,457
+178005,Selnica ob Dravi,1335
+178006,Spodnja Selnica,136
+178007,Spodnji Boè,188
+178008,Spodnji Slemen,617
+178009,Sv. Duh na Ostrem vrhu,114
+178010,Veliki Boè,102
+178011,Vurmat - del,24
+178012,Zgornja Selnica,459
+178013,Zgornji Boè,246
+178014,Zgornji Slemen - del,91
+179,SODRAŽICA,2186
+179001,Betonovo,2
+179002,Brlog - del,1
+179003,Globel,125
+179004,Janeži,14
+179005,Jelovec,55
+179006,Kotel,5
+179007,Kraèali,34
+179008,Kržeti,53
+179009,Lipovšica,55
+179010,Male Vinice,21
+179011,Nova Štifta,9
+179012,Novi Pot,6
+179013,Petrinci,37
+179014,Podklanec,97
+179015,Preska,8
+179016,Ravni Dol,36
+179017,Sinovica,11
+179018,Sodražica,833
+179019,Travna Gora,16
+179020,Vinice,97
+179021,Zamostec,227
+179022,Zapotok,172
+179023,Žimarice,272
+180,SOLÈAVA,514
+180001,Logarska Dolina,111
+180002,Podolševa,67
+180003,Robanov Kot,132
+180004,Solèava,204
+181,SVETA ANA,2319
+181001,Dražen Vrh - del,163
+181002,Froleh,138
+181003,Kremberk,253
+181004,Krivi Vrh,137
+181005,Ledinek,232
+181006,Lokavec,191
+181007,Rožengrunt,171
+181008,Sv. Ana v Slov. Goricah,155
+181009,Zgornja Baèkova,45
+181010,Zgornja Roèica,54
+181011,Zgornja Šèavnica,525
+181012,Žice,255
+182,SVETI ANDRAŽ V SLOV. GORICAH,1160
+182001,Drbetinci,233
+182002,Gibina,75
+182003,Hvaletinci,96
+182004,Novinci,186
+182005,Rjavci,83
+182006,Slavšina,177
+182007,Vitomarci,310
+183,ŠEMPETER - VRTOJBA,6279
+183001,Šempeter pri Gorici,3711
+183002,Vrtojba,2568
+184,TABOR,1645
+184001,Èrni Vrh,165
+184002,Kapla,253
+184003,Loke,163
+184004,Miklavž pri Taboru,163
+184005,Ojstriška vas,277
+184006,Pondor,155
+184007,Tabor,469
+185,TRNOVSKA VAS,1341
+185001,Biš,340
+185002,Bišeèki Vrh,184
+185003,Èrmlja,98
+185004,Loèiè,123
+185005,Sovjak,69
+185006,Trnovska vas,373
+185007,Trnovski Vrh,154
+186,TRZIN,3889
+186001,Trzin,3889
+187,VELIKA POLANA,1449
+187001,Brezovica,223
+187002,Mala Polana,340
+187003,Velika Polana,886
+188,VERŽEJ,1299
+188001,Banovci,211
+188002,Bunèani,172
+188003,Veržej,916
+189,VRANSKO,2599
+189001,Brode,201
+189002,Èeplje,135
+189003,Èreta,13
+189004,Jeronim,218
+189005,Limovce,80
+189006,Loèica pri Vranskem,171
+189007,Prapreèe,144
+189008,Prekopa,256
+189009,Selo pri Vranskem,59
+189010,Stopnik,210
+189011,Tešova,101
+189012,Vologa,44
+189013,Vransko,790
+189014,Zahomce,62
+189015,Zajasovnik - del,31
+189016,Zaplanina,84
+190,ŽALEC,21306
+190001,Arja vas,505
+190002,Brnica,56
+190003,Dobriša vas,447
+190005,Drešinja vas,240
+190006,Galicija,614
+190007,Gotovlje,1204
+190008,Griže,654
+190009,Hramše,175
+190010,Kale,125
+190011,Kasaze,779
+190012,Levec,475
+190013,Liboje,511
+190014,Ložnica pri Žalcu,460
+190015,Mala Pirešica,65
+190016,Migojnice,657
+190017,Novo Celje,7
+190018,Pernovo,517
+190019,Petrovèe,926
+190020,Podkraj,215
+190021,Podlog v Savinjski Dolini,326
+190022,Podvin,383
+190023,Pongrac,852
+190024,Ponikva pri Žalcu,369
+190025,Ruše,66
+190026,Spodnje Grušovlje,116
+190027,Spodnje Roje,32
+190028,Studence,609
+190029,Šempeter v Savinj. Dolini,2019
+190030,Velika Pirešica,507
+190031,Vrbje,585
+190032,Zabukovica,968
+190033,Zalog pri Šempetru,107
+190034,Zaloška Gorica,37
+190035,Zavrh pri Galiciji,139
+190036,Zgornje Grušovlje,194
+190037,Zgornje Roje,132
+190038,Žalec,4892
+190039,Železno,243
+190040,Grèe,98
+191,ŽETALE,1301
+191001,Èermožiše,300
+191002,Dobrina,245
+191003,Koèice,248
+191004,Nadole,148
+191005,Žetale,360
+192,ŽIROVNICA,4381
+192001,Breg,679
+192002,Breznica,473
+192003,Doslovèe,152
+192004,Moste,644
+192005,Rodine,337
+192006,Selo pri Žirovnici,291
+192007,Smokuè,505
+192008,Vrba,198
+192009,Zabreznica,501
+192010,Žirovnica,601
+193,ŽUŽEMBERK,4592
+193001,Boršt pri Dvoru,43
+193002,Brezova Reber pri Dvoru,49
+193003,Budganja vas,93
+193004,Dešeèa vas,66
+193005,Dolnji Ajdovec,57
+193006,Dolnji Kot,68
+193007,Dolnji Križ,23
+193008,Drašèa vas,87
+193009,Dvor,415
+193010,Gornji Ajdovec,54
+193011,Gornji Kot,54
+193012,Gornji Križ,48
+193013,Gradenc,86
+193014,Hinje,64
+193015,Hrib pri Hinjah,19
+193016,Jama pri Dvoru,107
+193017,Kleèet,146
+193018,Klopce,4
+193019,Lašèe,57
+193020,Lazina,16
+193021,Lopata,77
+193022,Maèkovec pri Dvoru,107
+193023,Mali Lipovec,70
+193024,Malo Lipje,27
+193025,Pleš,12
+193026,Plešivica,29
+193027,Podgozd,88
+193028,Podlipa,39
+193029,Poljane pri Žužemberku,27
+193030,Prapreèe,69
+193031,Prevole,79
+193032,Ratje,40
+193033,Reber,102
+193034,Sadinja vas pri Dvoru,169
+193035,Sela pri Ajdovcu,9
+193036,Sela pri Hinjah,52
+193037,Srednji Lipovec,99
+193038,Stavèa vas,110
+193039,Šmihel pri Žužemberku,117
+193040,Trebèa vas,84
+193041,Veliki Lipovec,93
+193042,Veliko Lipje,43
+193043,Vinkov Vrh,41
+193044,Visejec,87
+193045,Vrh pri Hinjah,44
+193046,Vrh pri Križu,40
+193047,Vrhovo pri Žužemberku,28
+193048,Zafara,47
+193049,Zalisec,58
+193050,Žužemberk,1016
+193051,Žvirèe,133
+194,ŠMARTNO PRI LITIJI,5515
+194001,Bogenšperk,4
+194002,Bukovica pri Litiji,36
+194003,Cerovica,167
+194004,Èrni Potok,257
+194005,Dolnji Vrh,44
+194006,Dragovšek,63
+194007,Dvor,112
+194008,Gornji Vrh,17
+194009,Gozd-Reka,149
+194010,Gradišèe pri Litiji,90
+194011,Gradišèe-K. o. Grad. in Polj.,81
+194012,Gradiške Laze,171
+194013,Jablaniške Laze,68
+194014,Jablaniški Potok,8
+194015,Jastrebnik,39
+194016,Javorje,72
+194017,Jelša,113
+194018,Ježce,28
+194019,Ježni Vrh,22
+194020,Kamni Vrh pri Primskovem,6
+194021,Koške Poljane,12
+194022,Leskovica pri Šmartnem,64
+194023,Liberga,65
+194024,Lupinica,123
+194025,Mala Kostrevnica,247
+194026,Mala Štanga,35
+194027,Mihelca,37
+194028,Mišji Dol,40
+194029,Mulhe,24
+194030,Obla Gorica,27
+194031,Podroje,139
+194032,Poljane pri Primskovem,24
+194033,Preska nad Kostrevnico,91
+194034,Primskovo,36
+194035,Raèica,64
+194036,Razbore-K. o. Ježni Vrh,30
+194038,Riharjevec,57
+194039,Selšek,81
+194040,Sevno,46
+194041,Spodnja Jablanica,72
+194042,Stara Gora pri Vel.Gabru,19
+194043,Šèit,22
+194044,Šmartno pri Litiji,1389
+194045,Štangarske Poljane,74
+194046,Velika Kostrevnica,191
+194047,Velika Štanga,111
+194048,Vinji Vrh,14
+194049,Vintarjevec,153
+194050,Višnji Grm,27
+194051,Volèja Jama,91
+194052,Vrata,34
+194053,Zagriè,20
+194054,Zavrstnik,412
+194055,Zgornja Jablanica,97
+195,APAÈE,3581
+195001,Apaèe,533
+195002,Èrnci,284
+195003,Drobtinci,124
+195004,Grabe,116
+195005,Janhova,43
+195006,Lešane,184
+195007,Lutverci,363
+195008,Mahovci,111
+195009,Nasova,171
+195010,Novi vrh,25
+195011,Plitvica,112
+195012,Podgorje,184
+195013,Pogled,52
+195014,Segovci,302
+195015,Spodnje Konjišèe,39
+195016,Stogovci,137
+195017,Vratja vas,83
+195018,Vratji Vrh,80
+195019,Zgornje Konjišèe,97
+195020,Žepovci,371
+195021,Žiberci,170
+196,CIRKULANE,2287
+196001,Brezovec,225
+196002,Cirkulane,437
+196003,Dolane,162
+196004,Gradišèa,328
+196005,Gruškovec,135
+196006,Mali okiè,101
+196007,Medribnik,130
+196008,Meje,48
+196009,Paradiž,191
+196010,Pohorje,107
+196011,Pristava,200
+196012,Slatina,105
+196013,Veliki Vrh,118
+197,KOSTANJEVICA NA KRKI,2419
+197001,Avguštine,28
+197002,Èrešnjevec pri Oštrcu,22
+197003,Èrneèa vas,125
+197004,Dobe,105
+197005,Dobrava pri Kostanjevici,25
+197006,Dolnja Prekopa,243
+197007,Dolšce,86
+197008,Globoèice pri Kostanjevici,115
+197009,Gornja Prekopa,118
+197010,Griè,31
+197011,Ivanjše,16
+197012,Jablance,49
+197013,Karlèe,10
+197014,Koèarija,65
+197015,Koprivnik,10
+197016,Kostanjevica na Krki,717
+197017,Male Vodenice,36
+197018,Malence,67
+197019,Orehovec,218
+197020,Oštrc,163
+197021,Podstrm,14
+197022,Ržišèe,16
+197023,Sajevce,20
+197024,Slinovce,40
+197025,Velike Vodenice,48
+197026,Vrbje,10
+197027,Vrtaèa,8
+197028,Zaboršt,14
+198,MAKOLE,2039
+198001,Dežno pri Makolah,88
+198002,Jelovec pri Makolah,200
+198003,Ložnica,132
+198004,Makole,245
+198005,Mosteèno,187
+198006,Peèke,271
+198007,Savinsko,98
+198008,Stari Grad,241
+198009,Stopno,91
+198010,Stranske Makole,125
+198011,Strug,65
+198012,Štatenberg,198
+198013,Varoš,98
+199,MOKRONOG - TREBELNO,3032
+199001,Beli Griè,45
+199002,Bitnja vas,39
+199003,Bogneèa vas,69
+199004,Brezje pri Trebelnem,32
+199005,Brezovica pri Trebelnem,25
+199006,Bruna vas,39
+199007,Cerovec pri Trebelnem,60
+199008,Cikava,34
+199009,Èešnjice pri Trebelnem,109
+199010,Èilpah,51
+199011,Èužnja vas,115
+199012,Dolenje Laknice,59
+199013,Dolenje Zabukovje,27
+199014,Dreèji Vrh,85
+199015,Gorenja vas pri Mokronogu,16
+199016,Gorenje Laknice,111
+199017,Gorenje Zabukovje,57
+199018,Gorenji Mokronog,18
+199019,Hrastovica,119
+199020,Jagodnik,35
+199021,Jelševec,32
+199022,Križni Vrh,16
+199023,Log,41
+199024,Maline,19
+199025,Martinja vas pri Mokronogu,132
+199026,Mirna vas,57
+199027,Mokronog,676
+199028,Most,43
+199029,Ornuška vas,55
+199030,Ostrožnik,46
+199031,Podturn,25
+199032,Pugled pri Mokronogu,16
+199033,Pušèava,131
+199034,Radna vas,39
+199035,Ribjek,33
+199036,Roje pri Trebelnem,44
+199037,Slepšek,123
+199038,Srednje Laknice,25
+199039,Sv. Vrh,120
+199040,Štatenberk,50
+199041,Trebelno,91
+199042,Velika Strmica,46
+199043,Vrh pri Trebelnem,27
+200,POLJÈANE,4421
+200001,Brezje pri Poljèanah,116
+200002,Èadramska vas,153
+200003,Globoko ob Dravinji,86
+200004,Hrastovec pod Boèem,99
+200005,Krasna,81
+200006,Križeèa vas,92
+200007,Ljubièno,78
+200008,Lovnik,36
+200009,Lušeèka vas,261
+200010,Modraže,65
+200011,Novake,194
+200012,Podboè,18
+200013,Poljèane,1125
+200014,Spodnja Brežnica,233
+200015,Spodnje Poljèane,603
+200016,Stanovsko,239
+200017,Studenice,141
+200018,Zgornje Poljèane,801
+201,RENÈE - VOGRSKO,4323
+201001,Bukovica,471
+201002,Dombrava,57
+201003,Oševljek,208
+201004,Renèe,1979
+201005,Vogrsko,893
+201006,Volèja Draga,715
+202,SREDIŠÈE OB DRAVI,2042
+202001,Godeninci,157
+202002,Grabe,134
+202003,Obrež,523
+202004,Središèe ob Dravi,1044
+202005,Šalovci,184
+203,STRAŽA,3821
+203001,Dolnje Mraševo,29
+203002,Drganja Sela,257
+203003,Jurka vas,145
+203004,Loke,59
+203005,Podgora,198
+203006,Potok,248
+203007,Prapreèe pri Straži,134
+203008,Rumanja vas,255
+203009,Straža,1949
+203010,Vavta vas,413
+203011,Zalog,134
+204,SVETA TROJICA V SLOV. GORICAH,2054
+204001,Goèova,225
+204002,Osek,361
+204003,Spodnja Senarska,115
+204004,Spodnje Verjane,19
+204005,Sv. Trojica v Slov. goricah,718
+204006,Zgornja Senarska,121
+204007,Zgornje Verjane,125
+204008,Zgornji Porèiè,370
+205,SVETI TOMAŽ,2051
+205001,Bratoneèice,48
+205002,Gornji Kljuèarovci,113
+205003,Gradišèe,43
+205004,Hranjigovci,93
+205005,Koraèice,185
+205006,Mala vas pri Ormožu,123
+205007,Mezgovci,42
+205008,Pršetinci,159
+205009,Rakovci,121
+205010,Rucmanci,207
+205011,Savci,225
+205012,Sejanci,57
+205013,Senèak,54
+205014,Senik,100
+205015,Sveti Tomaž,259
+205016,Trnovci,151
+205017,Zagorje,71
+206,ŠMARJEŠKE TOPLICE,3293
+206001,Bela Cerkev,118
+206002,Brezovica,224
+206003,Èelevec,55
+206004,Dol pri Šmarjeti,28
+206005,Dolenje Kronovo,120
+206006,Draga,17
+206007,Družinska vas,317
+206008,Gorenja vas pri Šmarjeti,235
+206009,Gradenje,54
+206010,Griè pri Klevevžu,40
+206011,Hrib,36
+206012,Koglo,42
+206013,Mala Strmica,33
+206014,Orešje,165
+206015,Radovlja,197
+206016,Sela,34
+206017,Sela pri Zburah,28
+206018,Strelac,39
+206019,Šmarješke Toplice,597
+206020,Šmarjeta,319
+206021,Vinica pri Šmarjeti,101
+206022,Vinji Vrh,202
+206023,Zbure,168
+206024,Žalovièe,124
+207,GORJE,2822
+207001,Grabèe,80
+207002,Krnica,441
+207003,Mevkuž,79
+207004,Perniki,12
+207005,Podhom,339
+207006,Poljšica pri Gorjah,242
+207007,Radovna,18
+207008,Spodnje Gorje,953
+207009,Spodnje Laze,59
+207010,Višelnica,71
+207011,Zgornje Gorje,454
+207012,Zgornje Laze,74
+208,LOG - DRAGOMER,3606
+208001,Dragomer,1430
+208002,Log pri Brezovici,1692
+208003,Lukovica pri Brezovici,484
+209,REÈICA OB SAVINJI,2328
+209001,Dol-Suha,174
+209002,Grušovlje,78
+209003,Homec,122
+209004,Nizka,175
+209005,Poljane,147
+209006,Reèica ob Savinji,502
+209007,Spodnja Reèica,273
+209008,Spodnje Pobrežje,76
+209009,Šentjanž,236
+209010,Trnovec,111
+209011,Varpolje,325
+209012,Zgornje Pobrežje,109
+210,SVETI JURIJ V SLOV. GORICAH,2076
+210001,Jurovski Dol,388
+210002,Malna,231
+210003,Spodnji Gasteraj,317
+210004,Srednji Gasteraj,65
+210005,Varda,103
+210006,Zgornje Partinje,572
+210007,Zgornji Gasteraj,150
+210008,Žitence,250
+211,ŠENTRUPERT,2923
+211001,Bistrica,104
+211002,Brinje,68
+211003,Dolenje Jesenice,56
+211004,Draga pri Šentrupertu,121
+211005,Gorenje Jesenice,118
+211006,Hom,88
+211007,Hrastno,67
+211008,Kamnje,97
+211009,Mali Cirnik pri Šentjanžu,91
+211010,Okrog,101
+211011,Prelesje,124
+211012,Rakovnik pri Šentrupertu,106
+211013,Ravnik,103
+211014,Roženberk,25
+211015,Slovenska vas,660
+211016,Straža,103
+211017,Šentrupert,307
+211018,Škrljevo,84
+211019,Trstenik,124
+211020,Vesela Gora,59
+211021,Vrh,125
+211022,Zabukovje,72
+211023,Zaloka,44
+211024,Kostanjevica,42
+211025,Ravne nad Šentrupertom,34
+212,MIRNA,2515
+212001,Mirna,1263
+212002,Brezovica pri Mirni,122
+212003,Cirnik,26
+212004,Debenec,55
+212005,Glinek,20
+212006,Gomila,76
+212007,Gorenja vas pri Mirni,87
+212008,Migolica,71
+212009,Migolska Gora,27
+212010,Praprotnica,40
+212011,Ravne,15
+212012,Sajenice,38
+212013,Selo pri Mirni,68
+212014,Selska Gora,20
+212015,Stan,101
+212016,Stara Gora,45
+212017,Ševnica,70
+212018,Škrjanèe,25
+212019,Trbinc,73
+212020,Volèje Njive,56
+212021,Zabrdje,160
+212022,Zagorica,57
+213,ANKARAN/ANCARANO,3235
+213001,Ankaran/Ancarano,3235

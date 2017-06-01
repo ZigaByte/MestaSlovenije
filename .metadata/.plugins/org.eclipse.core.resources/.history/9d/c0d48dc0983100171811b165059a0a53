@@ -1,0 +1,11 @@
+package com.zigabyte.mestaslovenije.level.ui;
+
+public class LabelScore extends Label {
+
+	@Override
+	protected void initLocation() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

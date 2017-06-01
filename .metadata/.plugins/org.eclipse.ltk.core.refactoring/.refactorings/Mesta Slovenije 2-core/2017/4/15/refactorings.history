@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Mesta Slovenije 2-core/src/com/zigabyte/mestaslovenije/graphics/Romboid.java&apos; to &apos;Rhomboid.java&apos;" description="Rename resource &apos;Romboid.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/zigabyte/mestaslovenije/graphics/Romboid.java" name="Rhomboid.java" stamp="1491417151435" updateReferences="true"/>
+</session>

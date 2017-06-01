@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Mesta Slovenije 2-android/assets/fonts/font128_0.png&apos; to &apos;font128.png&apos;" description="Rename resource &apos;font128_0.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="assets/fonts/font128_0.png" name="font128.png" stamp="1494350368461" updateReferences="true"/>
+</session>

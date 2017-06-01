@@ -1,0 +1,23 @@
+package com.zigabyte.mestaslovenije.level.ui;
+
+import com.badlogic.gdx.graphics.Color;
+import com.zigabyte.mestaslovenije.graphics.Render;
+import com.zigabyte.mestaslovenije.math.Vector2f;
+
+public class LabelScore extends Label {
+
+	@Override
+	protected void initLocation() {
+		pos = new Vector2f(1000, 50);
+		size = new Vector2f(500, 100);
+	}
+
+	@Override
+	public void render(Render r) {
+		super.render(r);
+
+		float score = game.getScore();
+		r.drawText(score + "", Color.BLACK, pos.x, pos.y, (int) (size.y / 2));
+	}
+
+}

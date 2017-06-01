@@ -1,0 +1,82 @@
+package com.zigabyte.mestaslovenije;
+
+import com.badlogic.gdx.ApplicationAdapter;
+import com.badlogic.gdx.Gdx;
+import com.zigabyte.mestaslovenije.graphics.Render;
+import com.zigabyte.mestaslovenije.input.Input;
+import com.zigabyte.mestaslovenije.level.Entity;
+import com.zigabyte.mestaslovenije.level.menu.Menu;
+import com.zigabyte.mestaslovenije.level.menu.MenuLevel;
+import com.zigabyte.mestaslovenije.level.menu.MenuMain;
+import com.zigabyte.mestaslovenije.level.ui.Level;
+import com.zigabyte.mestaslovenije.math.Vector2f;
+import com.zigabyte.mestaslovenije.math.timing.Time;
+import com.zigabyte.mestaslovenije.math.timing.Timer;
+
+public class Game extends ApplicationAdapter implements Time {
+
+	private Render render;
+
+	private Menu currentMenu;
+
+	public void setMenu(Menu menu) {
+		this.currentMenu = menu;
+	}
+	
+	@Override
+	public void create() {
+		Entity.setGame(this);
+		Gdx.input.setInputProcessor(new Input());
+
+		render = new Render();
+
+		currentMenu = new MenuMain();
+	}
+
+	public void update() {
+		// Update timers
+		for (int i = 0; i < timers.size(); i++) {
+			Timer t = timers.get(i);
+			t.update();
+			if (t.finished) {
+				timers.remove(t);
+				i--;
+			}
+		}
+
+		currentMenu.update();
+		currentMenu.updateChildren();
+
+		// Check for input
+		if (Input.ready()) {
+			Vector2f input = Input.get();
+			currentMenu.processInput(input);
+		}
+	}
+
+	@Override
+	public void render() {
+		render.begin();
+
+		update();
+
+		currentMenu.render(render);
+		currentMenu.renderChildren(render);
+
+		render.end();
+	}
+
+	@Override
+	public void dispose() {
+		render.dispose();
+	}
+
+	public Level getLevel() {
+		if(currentMenu instanceof MenuLevel){
+			
+		}
+		
+		System.err.println("Level not found");
+		return null;
+	}
+}

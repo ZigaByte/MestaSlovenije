@@ -1,0 +1,28 @@
+package com.zigabyte.mestaslovenije.level.menu.ui;
+
+import com.zigabyte.mestaslovenije.graphics.Render;
+import com.zigabyte.mestaslovenije.level.Entity;
+
+public class ButtonMainMenu extends Button {
+
+	@Override
+	protected void initLocation() {
+
+	}
+
+	@Override
+	protected void pressed() {
+
+	}
+
+	@Override
+	public void update() {
+
+	}
+
+	@Override
+	public void render(Render r) {
+
+	}
+
+}

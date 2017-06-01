@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 6 resources" deleteContents="false" description="Delete 6 resources" element1="/Mesta Slovenije 2-android" element2="/Mesta Slovenije 2-core" element3="/Mesta Slovenije 2-desktop" element4="/Mesta Slovenije 2-html" element5="/Mesta Slovenije 2-ios" element6="/MestaSlovenije" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="6" stamp="1493972348971"/>
+</session>

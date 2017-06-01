@@ -1,0 +1,22 @@
+package com.zigabyte.mestaslovenije.level.menu;
+
+import com.zigabyte.mestaslovenije.graphics.Render;
+
+public class MenuResult extends Menu{
+
+	@Override
+	public void addElements() {
+		
+	}
+
+	@Override
+	public void update() {
+		
+	}
+
+	@Override
+	public void render(Render r) {
+		
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.zigabyte.mestaslovenije.level.menu.button;
+
+import com.zigabyte.mestaslovenije.graphics.Render;
+import com.zigabyte.mestaslovenije.level.Entity;
+
+public class ButtonMainMenu extends Entity {
+
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void render(Render r) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

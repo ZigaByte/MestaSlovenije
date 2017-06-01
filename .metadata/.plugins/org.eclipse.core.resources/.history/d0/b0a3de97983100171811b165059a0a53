@@ -1,0 +1,5 @@
+package com.zigabyte.mestaslovenije.level.ui;
+
+public abstract class Label extends UIElement{
+
+}

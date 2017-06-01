@@ -1,0 +1,23 @@
+package com.zigabyte.mestaslovenije.level.menu;
+
+import com.badlogic.gdx.scenes.scene2d.ui.Button;
+import com.zigabyte.mestaslovenije.graphics.Render;
+
+public class MenuResult extends Menu{
+
+	@Override
+	public void addElements() {
+		children.add(new ButtonMainMenu())
+	}
+
+	@Override
+	public void update() {
+		
+	}
+
+	@Override
+	public void render(Render r) {
+		
+	}
+
+}

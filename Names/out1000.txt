@@ -1,0 +1,220 @@
+1001,Ajdovšèina,6665
+1020,Lokavec,1128
+2001,Beltinci,2378
+2007,Lipovci,1085
+3001,Bled,5052
+3020,Zasip,1055
+4002,Bohinjska Bistrica,1743
+5001,Borovnica,2432
+6002,Bovec,1583
+8001,Brezovica pri Ljubljani,3057
+8007,Notranje Gorice,1902
+8015,Vnanje Gorice,2414
+9012,Brežice,6759
+11003,Celje,37787
+11012,Ljubeèna,1077
+11034,Trnovlje pri Celju,1245
+12005,Cerklje na Gorenjskem,1685
+13009,Cerknica,4018
+13045,Rakek,2134
+14003,Cerkno,1523
+15002,Èrenšovci,1153
+16002,Èrna na Koroškem,2256
+17014,Èrnomelj,5597
+19005,Divaèa,1511
+23007,Dob,1598
+23010,Domžale,12863
+23026,Preserje pri Radomljah,1700
+23030,Radomlje,1723
+23043,Vir,3438
+24003,Dornava,1243
+25005,Dravograd,3163
+26005,Spodnji Duplek,1491
+26008,Zgornji Duplek,1809
+27019,Gorenja vas,1157
+29006,Gornja Radgona,3070
+30004,Gornji Grad,1004
+32017,Grosuplje,7230
+32048,Šmarje - Sap,1540
+34005,Dol pri Hrastniku,1453
+34007,Hrastnik,5106
+36009,Idrija,5905
+36027,Spodnja Idrija,1448
+37005,Ig,2306
+38015,Ilirska Bistrica,4398
+39032,Ivanèna Gorica,2078
+39105,Šentvid pri Stièni,1014
+39128,Višnja Gora,1055
+40004,Izola/Isola,11235
+40005,Jagodje/Jagodje,2197
+41005,Hrušica,1626
+41007,Jesenice,12923
+41022,Koroška Bela,2084
+41023,Slovenski Javornik,1930
+43023,Kamnik,13768
+43043,Mekinje,1628
+43055,Podgorje,1017
+43085,Šmarca,1420
+44005,Deskle,1168
+44010,Kanal,1205
+45004,Kidrièevo,1168
+46010,Kobarid,1090
+48047,Koèevje,8342
+50022,Dekani,1617
+50035,Hrvatini/Crevatini,1276
+50041,Koper/Capodistria,25306
+50064,Pobegi,1234
+50070,Prade/Prade,1186
+50084,Spodnje Škofije,1408
+50087,Sv. Anton,1899
+52004,Britof,1947
+52007,Golnik,1135
+52013,Kokrica,1614
+52014,Kranj,37586
+52019,Mlaka pri Kranju,1591
+52046,Zgornje Bitnje,1530
+52049,Hrastje,1011
+53004,Kranjska Gora,1532
+53006,Mojstrana,1123
+54085,Krško,7039
+54087,Leskovec pri Krškem,1018
+54138,Senovo,2304
+55002,Gradiška,1023
+57029,Laško,3326
+58025,Lenart v Slov. goricah,3211
+59017,Lendava/Lendva,2945
+60065,Litija,6466
+61011,Ljubljana,279756
+62002,Ljubno ob Savinji,1054
+63034,Ljutomer,3367
+64009,Logatec,9312
+70002,Bresternica,1312
+70015,Kamnica,1644
+70018,Limbuš,1967
+70020,Maribor,95589
+70027,Pekre,1453
+70032,Razvanje,1340
+71009,Medvode,5151
+71030,Zgornje Pirnièe,1334
+72003,Mengeš,6399
+73037,Metlika,3225
+74003,Mežica,3178
+75001,Bilje,1200
+75007,Miren,1463
+76005,Mislinja,1865
+79009,Mozirje,2021
+80001,Bakovci,1493
+80002,Èernelavci,1244
+80003,Krog,1141
+80006,Murska Sobota,11244
+80009,Rakièan,1559
+81003,Muta,2184
+82005,Naklo,1722
+84016,Kromberk,2085
+84026,Nova Gorica,12997
+84033,Prvaèina,1245
+84037,Rožna Dolina,1085
+84039,Solkan,3190
+84043,Šempas,1140
+85132,Novo mesto,23392
+86001,Odranci,1637
+87041,Ormož,2089
+90002,Lucija/Lucia,6125
+90005,Parecag/Parezzago,1015
+90006,Piran/Pirano,3916
+90007,Portorož/Portorose,2956
+90008,Seèa/Sezza,1239
+91018,Pivka,2117
+94021,Postojna,9393
+96016,Ptuj,17769
+98002,Fram,1017
+98006,Morje,1120
+98010,Raèe,2691
+99015,Radeèe,2066
+100014,Radenci,2134
+101004,Radlje ob Dravi,2815
+102017,Lesce,2837
+102034,Radovljica,6011
+103009,Kotlje,1040
+103018,Ravne na Koroškem,6675
+104064,Ribnica,3543
+106024,Rogaška Slatina,4980
+107005,Rogatec,1520
+108002,Bistrica ob Dravi,1297
+108016,Ruše,4380
+109044,Semiè,1982
+110081,Sevnica,4572
+111048,Sežana,5665
+112006,Legen,1077
+112008,Pameèe,1296
+112012,Slovenj Gradec,7380
+112015,Šmartno pri Slovenj Gradcu,1231
+113075,Pragersko,1140
+113087,Slovenska Bistrica,7894
+113123,Zgornja Polskava,1250
+114036,Slovenske Konjice,5001
+117008,Šenèur,3239
+118009,Selnica ob Muri,1027
+118015,Šentilj v Slov. goricah,2014
+119046,Šentjernej,1451
+120092,Šentjur,4839
+122047,Sv. Duh,1106
+122051,Škofja Loka,11719
+123009,Lavrica,3193
+123015,Škofljica,2538
+124066,Šmarje pri Jelšah,1767
+126006,Ravne,1086
+126009,Šoštanj,2883
+126010,Topolšica,1300
+127012,Štore,1896
+128060,Tolmin,3394
+129014,Trbovlje,14028
+130188,Trebnje,3704
+131001,Bistrica pri Tržièu,2813
+131030,Tržiè,3617
+132004,Turnišèe,1457
+133024,Velenje,25019
+136018,Vipava,1934
+138014,Vodice,1645
+139061,Vojnik,2393
+140018,Verd,1874
+140019,Vrhnika,8693
+141005,Vuzenica,1543
+142017,Izlake,1178
+142024,Kisovec,1767
+142068,Zagorje ob Savi,6216
+144020,Zreèe,2900
+146029,Železniki,2984
+147017,Žiri,3601
+148001,Benedikt,1078
+160004,Hotinja vas,1304
+160008,Radizel,1769
+160009,Rogoza,1686
+160012,Spodnje Hoèe,2643
+162001,Horjul,1417
+164009,Moste,1348
+167003,Lovrenc na Pohorju,1972
+169003,Miklavž na Dravskem polju,4031
+169004,Skoke,1047
+171013,Oplotnica,1412
+173007,Polzela,2397
+174006,Prebold,1699
+175009,Prevalje,4582
+178005,Selnica ob Dravi,1335
+183001,Šempeter pri Gorici,3711
+183002,Vrtojba,2568
+186001,Trzin,3889
+190007,Gotovlje,1204
+190029,Šempeter v Savinj. Dolini,2019
+190038,Žalec,4892
+193050,Žužemberk,1016
+194044,Šmartno pri Litiji,1389
+200013,Poljèane,1125
+201004,Renèe,1979
+202004,Središèe ob Dravi,1044
+203009,Straža,1949
+208001,Dragomer,1430
+208002,Log pri Brezovici,1692
+212001,Mirna,1263
+213001,Ankaran/Ancarano,3235
+219
